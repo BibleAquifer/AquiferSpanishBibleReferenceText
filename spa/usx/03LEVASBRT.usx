@@ -1,5 +1,9 @@
 <usx version="3.1">
   <book code="LEV" style="id">EN</book>
+  <para style="rem">Exported from Codex Translation Editor v0.24.0
+</para>
+  <para style="rem">Export Date: 2026-04-15T18:03:56.988Z
+</para>
   <para style="h">Leviticus
 </para>
   <para style="toc1">Leviticus
@@ -462,7 +466,7 @@
 <verse eid="LEV 15:25"/><verse number="26" style="v" sid="LEV 15:26"/>La cama en que ella se acueste quedará impura, como durante su período menstrual normal. El lugar donde se siente quedará también impuro.
 <verse eid="LEV 15:26"/><verse number="27" style="v" sid="LEV 15:27"/>Quien toque su cama o su asiento quedará impuro y deberá lavar su ropa y bañarse. Su impureza durará hasta el anochecer.
 <verse eid="LEV 15:27"/><verse number="28" style="v" sid="LEV 15:28"/>»Después de que cese su flujo, contará siete días para poder considerarse pura.
-<verse eid="LEV 15:28"/><verse number="29" style="v" sid="LEV 15:29"/>Al octavo día tomará dos tórtolas o dos pichones de paloma. Los llevará al sacerdote a la entrada de la tienda de reunión.
+<verse eid="LEV 15:28"/><verse number="29" style="v" sid="LEV 15:29"/>Al octavo día tomará 2 tórtolas o 2 pichones de paloma. Los llevará al sacerdote a la entrada de la tienda de reunión.
 <verse eid="LEV 15:29"/><verse number="30" style="v" sid="LEV 15:30"/>El sacerdote presentará un ave como sacrificio por el pecado y la otra como ofrenda quemada. Así hará expiación por ella delante del Señor a causa de su impureza menstrual.
 <verse eid="LEV 15:30"/><verse number="31" style="v" sid="LEV 15:31"/>»De esta manera purificarán a los israelitas de sus impurezas. Y no morirán por contaminar mi morada que está en medio de ellos.
 <verse eid="LEV 15:31"/><verse number="32" style="v" sid="LEV 15:32"/>»Esta es la ley para el hombre que tiene un flujo o una emisión de semen que lo hace impuro.
@@ -470,7 +474,7 @@
 <verse eid="LEV 15:33"/><verse eid="LEV 15:33"/></para>
   <chapter eid="LEV 15"/>
   <chapter number="16" style="c" sid="LEV 16"/>
-  <para style="p"><verse number="1" style="v" sid="LEV 16:1"/>Los dos hijos de Aarón  murieron por haberse acercado de manera incorrecta al Señor. Después de su muerte,
+  <para style="p"><verse number="1" style="v" sid="LEV 16:1"/>Los 2 hijos de Aarón  murieron por haberse acercado de manera incorrecta al Señor. Después de su muerte,
 <verse eid="LEV 16:1"/><verse number="2" style="v" sid="LEV 16:2"/>el Señor le dijo a Moisés:—Adviértele a tu hermano Aarón que no puede entrar a cualquier hora en la parte del santuario que está detrás de la cortina. Me refiero a donde se encuentra la tapa que está sobre el arca del pacto. Es para que no muera, porque yo me manifiesto en la nube sobre la tapa del arca.
 <verse eid="LEV 16:2"/><verse number="3" style="v" sid="LEV 16:3"/>»Aarón entrará al santuario con un novillo para el sacrificio por el pecado y un carnero para el sacrificio de ofrenda quemada.
 <verse eid="LEV 16:3"/><verse number="4" style="v" sid="LEV 16:4"/>Se bañará y se vestirá con las ropas sagradas: la túnica de lino, los calzones de lino, el cinturón de lino y el turbante de lino.
@@ -556,10 +560,9 @@
   <chapter number="19" style="c" sid="LEV 19"/>
   <para style="p"><verse number="1" style="v" sid="LEV 19:1"/>El Señor también le ordenó a Moisés
 <verse eid="LEV 19:1"/><verse number="2" style="v" sid="LEV 19:2"/>que le dijera al pueblo de Israel: —Sean santos, porque yo, el Señor su Dios, soy santo.
-<verse eid="LEV 19:2"/><verse number="07" style="v" sid="LEV 19:07"/>»Cada uno de ustedes respete a su madre y a su padre. Guarden mis días de reposo. Yo soy el Señor su Dios.
 </para>
   <para style="p">Respeten a su padre y a su madre y obedezcan mis leyes sobre el descanso, porque yo soy el Señor su Dios.
-<verse eid="LEV 19:07"/><verse number="4" style="v" sid="LEV 19:4"/>»No hagan ídolos ni los adoren. Yo soy el Señor su Dios.
+<verse eid="LEV 19:2"/><verse number="4" style="v" sid="LEV 19:4"/>»No hagan ídolos ni los adoren. Yo soy el Señor su Dios.
 <verse eid="LEV 19:4"/><verse number="5" style="v" sid="LEV 19:5"/>»Cuando presenten un sacrificio de comunión al Señor, ofrézcanlo de manera correcta para que sea aceptado.
 <verse eid="LEV 19:5"/><verse number="6" style="v" sid="LEV 19:6"/>Cómanlo el mismo día en que lo ofrezcan o, como mucho, al día siguiente. Lo que quede para el tercer día debe ser quemado.
 <verse eid="LEV 19:6"/><verse number="7" style="v" sid="LEV 19:7"/>Cualquier porción que se coma al tercer día no será considerada como sacrificio. La carne se habrá vuelto impura.
@@ -683,7 +686,7 @@
   <chapter number="23" style="c" sid="LEV 23"/>
   <para style="p"><verse number="1" style="v" sid="LEV 23:1"/>El Señor le mandó a Moisés
 <verse eid="LEV 23:1"/><verse number="2" style="v" sid="LEV 23:2"/>que les dijera a los israelitas:—Estas son las fiestas establecidas por el Señor, las que ustedes deben convocar como reuniones sagradas. Yo, el Señor, las establecí.
-<verse eid="LEV 23:2"/><verse number="3" style="v" sid="LEV 23:3"/>»Durante seis días trabajarán, pero descansarán el séptimo día. Ese día es muy especial. Por eso, no harán ningún tipo de trabajo, sino que lo dedicarán para adorarme. Donde quiera que vivan, ese día será dedicado a mí, pues yo soy el Señor.
+<verse eid="LEV 23:2"/><verse number="3" style="v" sid="LEV 23:3"/>»Durante 6 días trabajarán, pero descansarán el séptimo día. Ese día es muy especial. Por eso, no harán ningún tipo de trabajo, sino que lo dedicarán para adorarme. Donde quiera que vivan, ese día será dedicado a mí, pues yo soy el Señor.
 <verse eid="LEV 23:3"/><verse number="4" style="v" sid="LEV 23:4"/>»Estas son las fiestas establecidas por el Señor. Son fiestas solemnes que ustedes deben convocar en las fechas señaladas.
 <verse eid="LEV 23:4"/><verse number="5" style="v" sid="LEV 23:5"/>La Pascua del Señor comenzará el día catorce del mes primero, al anochecer.
 <verse eid="LEV 23:5"/><verse number="6" style="v" sid="LEV 23:6"/>La fiesta de los panes sin levadura se celebrará durante siete días, comenzando el día siguiente a la Pascua.
@@ -743,7 +746,7 @@
   <chapter number="25" style="c" sid="LEV 25"/>
   <para style="p"><verse number="1" style="v" sid="LEV 25:1"/>Mientras Moisés estaba en el monte Sinaí, el Señor le mandó 
 <verse eid="LEV 25:1"/><verse number="2" style="v" sid="LEV 25:2"/>que les dijera a los israelitas:—Cuando entren en la tierra que les voy a dar, permitirán que la tierra descanse un año en honor al Señor.
-<verse eid="LEV 25:2"/><verse number="3" style="v" sid="LEV 25:3"/>Durante seis años podrán sembrar los campos, podar las viñas y recoger lo que produzcan.
+<verse eid="LEV 25:2"/><verse number="3" style="v" sid="LEV 25:3"/>Durante 6 años podrán sembrar los campos, podar las viñas y recoger lo que produzcan.
 <verse eid="LEV 25:3"/><verse number="4" style="v" sid="LEV 25:4"/>Pero el séptimo año dejarán que la tierra descanse en honor al Señor. No sembrarán los campos ni podarán los viñedos durante todo el año.
 <verse eid="LEV 25:4"/><verse number="5" style="v" sid="LEV 25:5"/>Tampoco cosecharán lo que crezca por sí solo ni recogerán las uvas de sus viñas sin podar. Será un año de descanso para la tierra.
 <verse eid="LEV 25:5"/><verse number="7" style="v" sid="LEV 25:7"/>Lo que la tierra produzca durante su reposo les servirá de alimento a ti, a tu siervo, a tu sierva, a tu jornalero y al extranjero que viva contigo. También servirá de alimento para tu ganado y para los animales que haya en tu tierra. Todo lo que la tierra produzca podrá comerse.
@@ -872,6 +875,10 @@
 <verse eid="LEV 27:31"/><verse number="32" style="v" sid="LEV 27:32"/>El diezmo de sus vacas, ovejas y animales domésticos pertenece al Señor. Uno de cada diez animales contados será consagrado al Señor. 
 <verse eid="LEV 27:32"/><verse number="33" style="v" sid="LEV 27:33"/>No se debe hacer distinción entre animal bueno y malo. Ni se puede cambiar uno por otro. Si alguien los cambia, ambos animales quedarán consagrados y no podrán ser recuperados.
 <verse eid="LEV 27:33"/><verse number="34" style="v" sid="LEV 27:34"/>Estos son los mandamientos que el Señor le dio a Moisés en el monte Sinaí para los israelitas.
-<verse eid="LEV 27:34"/></para>
+<verse eid="LEV 27:34"/><verse eid="LEV 27:34"/></para>
   <chapter eid="LEV 27"/>
+  <chapter number="19" style="c" sid="LEV 19"/>
+  <para style="p"><verse number="07" style="v" sid="LEV 19:07"/>»Cada uno de ustedes respete a su madre y a su padre. Guarden mis días de reposo. Yo soy el Señor su Dios.
+<verse eid="LEV 19:07"/></para>
+  <chapter eid="LEV 19"/>
 </usx>

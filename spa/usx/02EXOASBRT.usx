@@ -1,5 +1,9 @@
 <usx version="3.1">
   <book code="EXO" style="id">EN</book>
+  <para style="rem">Exported from Codex Translation Editor v0.24.0
+</para>
+  <para style="rem">Export Date: 2026-04-15T18:03:56.988Z
+</para>
   <para style="h">Exodus
 </para>
   <para style="toc1">Exodus
@@ -13,7 +17,7 @@
   <chapter number="1" style="c" sid="EXO 1"/>
   <para style="p"><verse number="1" style="v" sid="EXO 1:1"/>Esta es la lista de los hijos de Israel que llegaron a Egipto con Jacob, cada uno con su familia:
 <verse eid="EXO 1:1"/><verse number="4" style="v" sid="EXO 1:4"/>Rubén, Simeón, Leví, Judá, Isacar, Zabulón, Benjamín, Dan, Neftalí, Gad y Aser.
-<verse eid="EXO 1:4"/><verse number="5" style="v" sid="EXO 1:5"/>En total, los descendientes de Jacob que lo acompañaron fueron setenta. José ya estaba en Egipto.
+<verse eid="EXO 1:4"/><verse number="5" style="v" sid="EXO 1:5"/>En total, los descendientes de Jacob que lo acompañaron fueron 70. José ya estaba en Egipto.
 <verse eid="EXO 1:5"/><verse number="6" style="v" sid="EXO 1:6"/>Pasó el tiempo y murieron José, sus hermanos y toda aquella generación.
 <verse eid="EXO 1:6"/><verse number="7" style="v" sid="EXO 1:7"/>Pero los descendientes de Israel fueron fecundos. Se multiplicaron, crecieron y se fortalecieron muchísimo hasta llenar la región.
 <verse eid="EXO 1:7"/><verse number="8" style="v" sid="EXO 1:8"/>Con el tiempo, llegó al trono de Egipto un nuevo rey que no conocía a José.
@@ -153,11 +157,11 @@
 <verse eid="EXO 6:12"/><verse number="13" style="v" sid="EXO 6:13"/>Entonces el Señor habló con Moisés y con Aarón. Les ordenó que fueran a hablar con los israelitas y con el faraón, rey de Egipto, para sacar a los israelitas de la tierra de Egipto.
 <verse eid="EXO 6:13"/><verse number="14" style="v" sid="EXO 6:14"/>Estos son los jefes de las familias de Rubén, el primogénito de Israel: Enoc, Falú, Hezrón y Carmí. Estas son las familias de Rubén.
 <verse eid="EXO 6:14"/><verse number="15" style="v" sid="EXO 6:15"/>Los jefes de los clanes de la tribu de Simeón fueron Jemuel, Jamín, Oad, Jaquín, Zohar y Saúl, hijo de una mujer cananea. Estas son las familias de Simeón.
-<verse eid="EXO 6:15"/><verse number="16" style="v" sid="EXO 6:16"/>Estos son los hijos de Leví, por sus generaciones: Guersón, Coat y Merari. Leví vivió ciento treinta y siete años.
+<verse eid="EXO 6:15"/><verse number="16" style="v" sid="EXO 6:16"/>Estos son los hijos de Leví, por sus generaciones: Guersón, Coat y Merari. Leví vivió 137 años.
 <verse eid="EXO 6:16"/><verse number="17" style="v" sid="EXO 6:17"/>Los hijos de Guersón fueron Libní y Simí, con sus familias.
-<verse eid="EXO 6:17"/><verse number="18" style="v" sid="EXO 6:18"/>Los hijos de Coat fueron Amirán, Izar, Hebrón y Uziel. Coat vivió ciento treinta y tres años.
+<verse eid="EXO 6:17"/><verse number="18" style="v" sid="EXO 6:18"/>Los hijos de Coat fueron Amirán, Izar, Hebrón y Uziel. Coat vivió 133 años.
 <verse eid="EXO 6:18"/><verse number="19" style="v" sid="EXO 6:19"/>Los hijos de Merari fueron Majlí y Musí. Estas son las familias de los levitas, por sus generaciones.
-<verse eid="EXO 6:19"/><verse number="20" style="v" sid="EXO 6:20"/>Amirán  se casó con su tía Jocabed. De esa unión nacieron Aarón y Moisés. Amram vivió ciento treinta y siete años.
+<verse eid="EXO 6:19"/><verse number="20" style="v" sid="EXO 6:20"/>Amirán  se casó con su tía Jocabed. De esa unión nacieron Aarón y Moisés. Amram vivió 137 años.
 <verse eid="EXO 6:20"/><verse number="21" style="v" sid="EXO 6:21"/>Los hijos de Izar fueron Coré, Néfeg y Zicrí.
 <verse eid="EXO 6:21"/><verse number="22" style="v" sid="EXO 6:22"/>Los hijos de Uziel fueron Misael, Elzafán y Sitri.
 <verse eid="EXO 6:22"/><verse number="23" style="v" sid="EXO 6:23"/>Aarón se casó con Elisabet, hija de Aminadab y hermana de Naasón. Con ella tuvo cuatro hijos: Nadab, Abiú, Eleazar e Itamar.
@@ -176,7 +180,7 @@
 <verse eid="EXO 7:3"/><verse number="4" style="v" sid="EXO 7:4"/>El faraón no les hará caso. Yo extenderé mi mano sobre Egipto. Sacaré de esa tierra a mis ejércitos, a mi pueblo, los hijos de Israel, con grandes juicios.
 <verse eid="EXO 7:4"/><verse number="5" style="v" sid="EXO 7:5"/>Entonces Egipto sabrá que yo soy el Señor cuando extienda mi mano sobre el país y saque de en medio de ellos a los hijos de Israel.
 <verse eid="EXO 7:5"/><verse number="6" style="v" sid="EXO 7:6"/>Moisés y Aarón hicieron todo lo que el Señor les había ordenado.
-<verse eid="EXO 7:6"/><verse number="7" style="v" sid="EXO 7:7"/>Cuando se presentaron ante el faraón, Moisés tenía ochenta años y Aarón, ochenta y tres.
+<verse eid="EXO 7:6"/><verse number="7" style="v" sid="EXO 7:7"/>Cuando se presentaron ante el faraón, Moisés tenía 80 años y Aarón, 83.
 <verse eid="EXO 7:7"/><verse number="8" style="v" sid="EXO 7:8"/>Y el Señor dijo a Moisés y a Aarón:
 <verse eid="EXO 7:8"/><verse number="9" style="v" sid="EXO 7:9"/>—Cuando el faraón les diga: "Muéstrenme una señal", tú, Aarón, tomarás tu vara. La arrojarás delante del faraón, y se convertirá en una serpiente.
 <verse eid="EXO 7:9"/><verse number="10" style="v" sid="EXO 7:10"/>Entonces Moisés y Aarón fueron ante el faraón e hicieron tal como el Señor les había mandado. Aarón arrojó su vara delante del faraón y de sus servidores, y se convirtió en una serpiente.
@@ -315,7 +319,7 @@
   <chapter number="12" style="c" sid="EXO 12"/>
   <para style="p"><verse number="1" style="v" sid="EXO 12:1"/>El Señor dijo a Moisés y a Aarón en la tierra de Egipto:
 <verse eid="EXO 12:1"/><verse number="2" style="v" sid="EXO 12:2"/>—Este mes será para ustedes el inicio de los meses. Será el primero del año para ustedes. 
-<verse eid="EXO 12:2"/><verse number="4" style="v" sid="EXO 12:4"/>Hablen a toda la comunidad de Israel y díganles que el día diez de este mes, cada uno tomará un cordero para su casa, un cordero por hogar. Si la familia es demasiado pequeña para un cordero, con el vecino más cercano a su casa lo compartirá según el número de personas. Calculen la porción del cordero de acuerdo con lo que cada uno pueda comer.
+<verse eid="EXO 12:2"/><verse number="4" style="v" sid="EXO 12:4"/>Hablen a toda la comunidad de Israel y díganles que el día 10 de este mes, cada uno tomará un cordero para su casa, un cordero por hogar. Si la familia es demasiado pequeña para un cordero, con el vecino más cercano a su casa lo compartirá según el número de personas. Calculen la porción del cordero de acuerdo con lo que cada uno pueda comer.
 <verse eid="EXO 12:4"/><verse number="5" style="v" sid="EXO 12:5"/>El animal que elijan debe ser un macho de un año y sin defecto. Puede ser cordero o cabrito. 
 <verse eid="EXO 12:5"/><verse number="6" style="v" sid="EXO 12:6"/>Deberán guardarlo hasta el día catorce de este mes, y toda la comunidad de Israel lo sacrificará al anochecer. 
 <verse eid="EXO 12:6"/><verse number="7" style="v" sid="EXO 12:7"/>Luego tomarán de la sangre y la pondrán en los dos postes y en el dintel de la puerta de la casa donde lo vayan a comer. 
@@ -326,11 +330,11 @@
 <verse eid="EXO 12:11"/><verse number="12" style="v" sid="EXO 12:12"/>»Esa noche pasaré por la tierra de Egipto y daré muerte a todo primogénito, tanto de personas como de animales. Haré justicia contra todos los dioses de Egipto. Yo soy el Señor.  
 <verse eid="EXO 12:12"/><verse number="13" style="v" sid="EXO 12:13"/>La sangre será para ustedes una señal en las casas donde estén. Cuando yo vea la sangre, pasaré de largo. No caerá sobre ustedes la plaga destructora cuando yo hiera la tierra de Egipto. 
 <verse eid="EXO 12:13"/><verse number="14" style="v" sid="EXO 12:14"/>»Este día lo conmemorán. Lo celebrarán como fiesta para el Señor para siempre, como una ordenanza permanente. 
-<verse eid="EXO 12:14"/><verse number="15" style="v" sid="EXO 12:15"/>Durante siete días comerán pan sin levadura. El primer día quitarán la levadura de sus casas. Cualquiera que coma pan fermentado, desde el primero hasta el séptimo día, será excluido de Israel. 
+<verse eid="EXO 12:14"/><verse number="15" style="v" sid="EXO 12:15"/>Durante 7 días comerán pan sin levadura. El primer día quitarán la levadura de sus casas. Cualquiera que coma pan fermentado, desde el primero hasta el séptimo día, será excluido de Israel. 
 <verse eid="EXO 12:15"/><verse number="16" style="v" sid="EXO 12:16"/>El primer y el séptimo día habrá una asamblea santa. No se hará ningún trabajo en esos días, excepto lo necesario para preparar lo que cada persona va a comer. Solo eso se podrá hacer. 
 <verse eid="EXO 12:16"/><verse number="17" style="v" sid="EXO 12:17"/>»Cumplan la fiesta de los panes sin levadura, porque en este mismo día saqué a sus ejércitos de la tierra de Egipto. Celebren este día como estatuto permanente para todas sus generaciones. 
-<verse eid="EXO 12:17"/><verse number="18" style="v" sid="EXO 12:18"/>El pan que comen será sin levadura desde la tarde del día catorce del mes  hasta la tarde del día veintiuno del mes. 
-<verse eid="EXO 12:18"/><verse number="19" style="v" sid="EXO 12:19"/>Durante siete días no habrá levadura en sus casas. Cualquiera que coma pan con levadura será excluido de la asamblea de Israel, sea extranjero o israelita. 
+<verse eid="EXO 12:17"/><verse number="18" style="v" sid="EXO 12:18"/>El pan que comen será sin levadura desde la tarde del día 14 del mes  hasta la tarde del día 21 del mes. 
+<verse eid="EXO 12:18"/><verse number="19" style="v" sid="EXO 12:19"/>Durante 7 días no habrá levadura en sus casas. Cualquiera que coma pan con levadura será excluido de la asamblea de Israel, sea extranjero o israelita. 
 <verse eid="EXO 12:19"/><verse number="20" style="v" sid="EXO 12:20"/>No coman nada con levadura en ningún lugar donde vivan. En todos sus hogares comerán pan sin levadura. 
 <verse eid="EXO 12:20"/><verse number="21" style="v" sid="EXO 12:21"/>Moisés llamó a todos los ancianos de Israel y les dijo: —Tomen un cordero por familia y sacrifíquenlo para celebrar la Pascua. 
 <verse eid="EXO 12:21"/><verse number="22" style="v" sid="EXO 12:22"/>Recojan la sangre del cordero en una vasija. Tomen un manojo de hisopo. Mójenlo en la sangre que está en la vasija y unten el dintel y los dos postes con esa sangre. Ninguno de ustedes debe salir de la puerta de su casa hasta la mañana. 
@@ -348,7 +352,7 @@
 <verse eid="EXO 12:33"/><verse number="34" style="v" sid="EXO 12:34"/>El pueblo tomó la masa sin fermentar y la llevó envuelta en sus prendas sobre los hombros. 
 <verse eid="EXO 12:34"/><verse number="35" style="v" sid="EXO 12:35"/>Los israelitas hicieron según la instrucción de Moisés y pidieron a los egipcios ropa y objetos de plata y de oro. 
 <verse eid="EXO 12:35"/><verse number="36" style="v" sid="EXO 12:36"/>El Señor hizo que el pueblo se ganara el favor de los egipcios. Ellos les dieron lo que pedían, y así los israelitas despojaron a Egipto. 
-<verse eid="EXO 12:36"/><verse number="37" style="v" sid="EXO 12:37"/>Los israelitas salieron de Ramsés rumbo a Sucot. Eran como seiscientos mil hombres a pie, sin contar a los niños. 
+<verse eid="EXO 12:36"/><verse number="37" style="v" sid="EXO 12:37"/>Los israelitas salieron de Ramsés rumbo a Sucot. Eran como 600.000 hombres a pie, sin contar a los niños. 
 <verse eid="EXO 12:37"/><verse number="38" style="v" sid="EXO 12:38"/>También salieron con ellos muchas personas de diferentes pueblos, junto con una gran cantidad de ganado y ovejas.
 <verse eid="EXO 12:38"/><verse number="39" style="v" sid="EXO 12:39"/>Hornearon las tortas sin levadura que habían sacado de Egipto, porque no tenían levadura. Como los expulsaron de Egipto, no pudieron demorarse ni preparar provisiones para sí mismos. 
 <verse eid="EXO 12:39"/><verse number="41" style="v" sid="EXO 12:41"/>El tiempo que los hijos de Israel habitaron en Egipto fue de cuatrocientos treinta años. Al cumplirse los cuatrocientos treinta años, ese mismo día, todos los ejércitos del Señor salieron de la tierra de Egipto. 
@@ -369,7 +373,7 @@
 <verse eid="EXO 13:1"/><verse number="2" style="v" sid="EXO 13:2"/>—Todo primogénito varón de los israelitas, tanto de seres humanos como de animales, será apartado para mí.
 <verse eid="EXO 13:2"/><verse number="3" style="v" sid="EXO 13:3"/>Entonces Moisés dijo al pueblo:—Recuerden este día, cuando salieron de Egipto, de la casa de esclavitud. Con mano poderosa el Señor los sacó de aquí. Recuerden que durante la celebración anual de este suceso no  se comerá pan con levadura.
 <verse eid="EXO 13:3"/><verse number="5" style="v" sid="EXO 13:5"/>Hoy es el día en que ustedes salieron, en el  mes primero. El Señor los  llevará a la tierra de los cananeos, hititas, amorreos, heveos y jebuseos. Juró dar esta tierra a tus padres. Es una tierra donde abundan la  leche y la miel. Cuando lo haya hecho, entonces celebrarás este servicio en este mes. 
-<verse eid="EXO 13:5"/><verse number="7" style="v" sid="EXO 13:7"/>Durante siete días comerás pan sin levadura. El séptimo día habrá una fiesta para el Señor. No habrá levadura ni masa fermentada en todo tu territorio.
+<verse eid="EXO 13:5"/><verse number="7" style="v" sid="EXO 13:7"/>Durante 7 días comerás pan sin levadura. El séptimo día habrá una fiesta para el Señor. No habrá levadura ni masa fermentada en todo tu territorio.
 <verse eid="EXO 13:7"/><verse number="8" style="v" sid="EXO 13:8"/>»Ese día le contarás a tu hijo, diciendo: "Esto es por lo que el Señor hizo por mí cuando salí de Egipto". 
 <verse eid="EXO 13:8"/><verse number="9" style="v" sid="EXO 13:9"/>Será como una señal en tu mano o en tu frente. Te recordará que la ley del Señor debe estar en tu boca. Con mano poderosa el Señor te sacó de Egipto. 
 <verse eid="EXO 13:9"/><verse number="10" style="v" sid="EXO 13:10"/>Cumplirás esta orden en la fecha señalada, cada año. 
@@ -393,7 +397,7 @@
 <verse eid="EXO 14:3"/><verse number="4" style="v" sid="EXO 14:4"/>Yo endureceré el corazón del faraón y él los perseguirá. Así manifestaré mi gloria a costa del faraón y de todo su ejército. Y los egipcios sabrán que yo soy el Señor. Y así lo hicieron.
 <verse eid="EXO 14:4"/><verse number="5" style="v" sid="EXO 14:5"/>Cuando el faraón se enteró de que el pueblo había huido, su corazón  y el de sus funcionarios  se endurecieron. Dijeron:—¿Qué hemos hecho al dejar ir a Israel, a nuestros esclavos?
 <verse eid="EXO 14:5"/><verse number="6" style="v" sid="EXO 14:6"/>Alistó sus carros y se llevó a su gente consigo. 
-<verse eid="EXO 14:6"/><verse number="7" style="v" sid="EXO 14:7"/>Tomó seiscientos carros escogidos, y todos los demás  los carros de Egipto, y puso  jefes sobre todos ellos. 
+<verse eid="EXO 14:6"/><verse number="7" style="v" sid="EXO 14:7"/>Tomó 600 carros escogidos, y todos los demás  los carros de Egipto, y puso  jefes sobre todos ellos. 
 <verse eid="EXO 14:7"/><verse number="8" style="v" sid="EXO 14:8"/>Lo hizo porque el Señor había endurecido su corazón. Así que salió en persecución de Israel, que marchaba con confianza.
 <verse eid="EXO 14:8"/><verse number="9" style="v" sid="EXO 14:9"/>Los egipcios los persiguieron y los alcanzaron mientras acampaban junto al mar, cerca de Baal Zefón. Estaba todo el ejército del faraón, con sus caballos, carros, jinetes y tropas de a pie. 
 <verse eid="EXO 14:9"/><verse number="10" style="v" sid="EXO 14:10"/>Cuando el faraón se acercó, los israelitas levantaron la vista y vieron que los egipcios marchaban detrás de ellos. Tuvieron mucho miedo y clamaron al Señor.
@@ -421,7 +425,7 @@
 <verse eid="EXO 14:31"/><verse eid="EXO 14:31"/></para>
   <chapter eid="EXO 14"/>
   <chapter number="15" style="c" sid="EXO 15"/>
-  <para style="p"><verse number="1" style="v" sid="EXO 15:1"/>Llenos de júbilo, Moisés y el pueblo de Israel cantaron este himno al Señor: Cantaré al Señor porque ha triunfado de manera gloriosa.Ha arrojado al mar al caballo y a su jinete. 
+  <para style="p"><verse number="1" style="v" sid="EXO 15:1"/>Llenos de júbilo, Moisés y el pueblo de Israel cantaron este himno al Señor:Cantaré al Señor porque ha triunfado de manera gloriosa.Ha arrojado al mar al caballo y a su jinete. 
 <verse eid="EXO 15:1"/><verse number="2" style="v" sid="EXO 15:2"/>El Señor es mi fuerza y mi canción. Él ha sido mi salvación. Él es mi Dios y lo alabaré. Es el Dios de mis padres y lo exaltaré. 
 <verse eid="EXO 15:2"/><verse number="3" style="v" sid="EXO 15:3"/>El Señor es guerrero; su nombre es el Señor. 
 <verse eid="EXO 15:3"/><verse number="4" style="v" sid="EXO 15:4"/>Arrojó al mar los carros y el ejército del faraón. Los mejores de sus oficiales se hundieron en el mar Rojo. 
@@ -442,7 +446,7 @@
 <verse eid="EXO 15:18"/><verse number="19" style="v" sid="EXO 15:19"/>Cuando los caballos del faraón, con sus carros y jinetes, entraron al mar, el Señor hizo que las aguas del mar cayeran sobre ellos. Mientras, el pueblo de Israel cruzó en seco por en medio del mar. 
 <verse eid="EXO 15:19"/><verse number="20" style="v" sid="EXO 15:20"/>Entonces Miriam, la profeta, hermana de Aarón, tomó una pandereta. Todas las mujeres salieron tras ella con panderetas y danzas. 
 <verse eid="EXO 15:20"/><verse number="21" style="v" sid="EXO 15:21"/>Miriam entonó este cántico: «¡Cantemos al Señor, porque obtuvo un triunfo extraordinario; arrojó caballos y jinetes al mar!».
-<verse eid="EXO 15:21"/><verse number="22" style="v" sid="EXO 15:22"/>Moisés condujo al pueblo de Israel desde el mar Rojo hasta el desierto de Sur. Caminaron tres días por el desierto sin encontrar agua.
+<verse eid="EXO 15:21"/><verse number="22" style="v" sid="EXO 15:22"/>Moisés condujo al pueblo de Israel desde el mar Rojo hasta el desierto de Sur. Caminaron 3 días por el desierto sin encontrar agua.
 <verse eid="EXO 15:22"/><verse number="23" style="v" sid="EXO 15:23"/>Luego llegaron a Mara, pero no pudieron beber el agua porque era amarga. Por eso ese lugar recibió el nombre de Mara.
 <verse eid="EXO 15:23"/><verse number="24" style="v" sid="EXO 15:24"/>El pueblo se quejó contra Moisés y dijo:—¿Qué vamos a beber?
 <verse eid="EXO 15:24"/><verse number="25" style="v" sid="EXO 15:25"/>Entonces Moisés clamó al Señor. El Señor le mostró un árbol. Él lo arrojó al agua y el agua se volvió dulce. Allí el Señor les dio una ordenanza, y los puso a prueba. 
@@ -474,7 +478,7 @@
 <verse eid="EXO 16:22"/><verse number="23" style="v" sid="EXO 16:23"/>Moisés les dijo: —Esto es lo que el Señor ha ordenado: "Mañana es sábado, y será día de reposo, santo para el Señor. Lo que horneen, hornéenlo hoy. Lo que cocinen, cocínenlo hoy. Y lo que sobre, déjenlo guardado para ustedes hasta  mañana". 
 <verse eid="EXO 16:23"/><verse number="24" style="v" sid="EXO 16:24"/>Ellos dejaron la comida guardada hasta la mañana, tal como Moisés les había ordenado. No se echó a perder ni se llenó de gusanos. 
 <verse eid="EXO 16:24"/><verse number="25" style="v" sid="EXO 16:25"/>Moisés les dijo: —Coman esto hoy, porque hoy es día de reposo dedicado al Señor. Hoy no encontrarán comida en el campo.
-<verse eid="EXO 16:25"/><verse number="26" style="v" sid="EXO 16:26"/>Recojan alimento durante seis días, pero el séptimo día es día de reposo. Ese día no habrá nada en el campo. 
+<verse eid="EXO 16:25"/><verse number="26" style="v" sid="EXO 16:26"/>Recojan alimento durante 6 días, pero el séptimo día es día de reposo. Ese día no habrá nada en el campo. 
 <verse eid="EXO 16:26"/><verse number="27" style="v" sid="EXO 16:27"/>En el día séptimo, algunos del pueblo salieron a recoger, pero no encontraron nada.
 <verse eid="EXO 16:27"/><verse number="29" style="v" sid="EXO 16:29"/>Y el Señor dijo a Moisés:—¿Hasta cuándo se negarán a obedecer mis mandamientos y mis leyes? Miren que el Señor les ha dado el día de reposo; por eso en el sexto día les da pan para dos días. Que cada uno permanezca en su lugar; nadie salga de su sitio en el día séptimo. 
 <verse eid="EXO 16:29"/><verse number="30" style="v" sid="EXO 16:30"/>El pueblo descansó en el día séptimo.
@@ -521,11 +525,11 @@
 <verse eid="EXO 18:16"/><verse number="17" style="v" sid="EXO 18:17"/>Su suegro le dijo: —No está bien lo que haces. 
 <verse eid="EXO 18:17"/><verse number="18" style="v" sid="EXO 18:18"/>Tú y este pueblo que está contigo van a agotarse. La carga es demasiado pesada para llevarla solo. 
 <verse eid="EXO 18:18"/><verse number="20" style="v" sid="EXO 18:20"/>Ahora escúchame. Déjame aconsejarte, y que Dios esté contigo. Representa al pueblo ante Dios y presenta ante él sus casos. Instrúyelos en los decretos y las leyes. Enséñales el camino por el que deben andar y las acciones que deben realizar. 
-<verse eid="EXO 18:20"/><verse number="21" style="v" sid="EXO 18:21"/>Elige entre todo el pueblo hombres capaces. Que sean temerosos de Dios e íntegros y que aborrezcan la codicia. Ponlos como jefes de mil, de cien, de cincuenta y de diez. 
+<verse eid="EXO 18:20"/><verse number="21" style="v" sid="EXO 18:21"/>Elige entre todo el pueblo hombres capaces. Que sean temerosos de Dios e íntegros y que aborrezcan la codicia. Ponlos como jefes de 1.000, de 100, de 50 y de 10. 
 <verse eid="EXO 18:21"/><verse number="22" style="v" sid="EXO 18:22"/>Que ellos juzguen al pueblo. Los asuntos importantes te los traerán a ti. Los menores los resolverán ellos. Así aliviarás tu carga y la compartirán. 
 <verse eid="EXO 18:22"/><verse number="23" style="v" sid="EXO 18:23"/>Si haces esto, y si Dios te lo indica, podrás resistir. Todo este pueblo estará en paz en su lugar. 
 <verse eid="EXO 18:23"/><verse number="24" style="v" sid="EXO 18:24"/>Moisés escuchó a su suegro e hizo todo lo que le dijo.
-<verse eid="EXO 18:24"/><verse number="25" style="v" sid="EXO 18:25"/>Moisés escogió hombres valientes de todo Israel. Los puso como jefes sobre el pueblo: jefes de mil, de cien, de cincuenta y de diez. 
+<verse eid="EXO 18:24"/><verse number="25" style="v" sid="EXO 18:25"/>Moisés escogió hombres valientes de todo Israel. Los puso como jefes sobre el pueblo: jefes de 1.000, de 100, de 50 y de 10. 
 <verse eid="EXO 18:25"/><verse number="26" style="v" sid="EXO 18:26"/>Ellos juzgaban al pueblo todo el tiempo. Los asuntos difíciles los llevaban a Moisés, pero los asuntos menores los resolvían ellos. 
 <verse eid="EXO 18:26"/><verse number="27" style="v" sid="EXO 18:27"/>Luego Moisés despidió a su suegro, y él volvió a su tierra. 
 <verse eid="EXO 18:27"/><verse eid="EXO 18:27"/></para>
@@ -566,9 +570,9 @@
 <verse eid="EXO 20:5"/><verse number="6" style="v" sid="EXO 20:6"/>Pero derramo mi amor sobre miles de generaciones de los que me aman y obedecen mis mandamientos.
 <verse eid="EXO 20:6"/><verse number="7" style="v" sid="EXO 20:7"/>»No uses el nombre del Señor tu Dios en vano ni de manera irreverente. No dejaré sin castigo a quien se atreva a usar mi nombre sin el debido respeto.
 <verse eid="EXO 20:7"/><verse number="8" style="v" sid="EXO 20:8"/>»Acuérdate de observar el día de reposo como un día santo.
-<verse eid="EXO 20:8"/><verse number="9" style="v" sid="EXO 20:9"/>Los seis días de la semana son para las tareas cotidianas y el trabajo regular.
+<verse eid="EXO 20:8"/><verse number="9" style="v" sid="EXO 20:9"/>Los 6 días de la semana son para las tareas cotidianas y el trabajo regular.
 <verse eid="EXO 20:9"/><verse number="10" style="v" sid="EXO 20:10"/>El séptimo día es un día de reposo en honor al Señor tu Dios. Ese día no hagas ningún tipo de trabajo, ni tú, ni tu hijo, ni tu hija, ni tus esclavos, ni tus huéspedes ni tus animales.
-<verse eid="EXO 20:10"/><verse number="11" style="v" sid="EXO 20:11"/>El Señor hizo en seis días  los cielos, la tierra, el mar y todo lo que hay en ellos. El séptimo día descansó. Por eso bendijo el día de reposo y lo santificó.
+<verse eid="EXO 20:10"/><verse number="11" style="v" sid="EXO 20:11"/>El Señor hizo en 6 días  los cielos, la tierra, el mar y todo lo que hay en ellos. El séptimo día descansó. Por eso bendijo el día de reposo y lo santificó.
 <verse eid="EXO 20:11"/><verse number="12" style="v" sid="EXO 20:12"/>»Honra a tu padre y a tu madre. Así tendrás una vida larga y próspera en la tierra que el Señor tu Dios te da.
 <verse eid="EXO 20:12"/><verse number="13" style="v" sid="EXO 20:13"/>»No mates.
 <verse eid="EXO 20:13"/><verse number="14" style="v" sid="EXO 20:14"/>»No cometas adulterio.
@@ -588,7 +592,7 @@
   <chapter eid="EXO 20"/>
   <chapter number="21" style="c" sid="EXO 21"/>
   <para style="p"><verse number="1" style="v" sid="EXO 21:1"/>»Estas son las leyes que les pondrás:
-<verse eid="EXO 21:1"/><verse number="2" style="v" sid="EXO 21:2"/>»Si alguien compra un esclavo hebreo, le servirá seis años. Al séptimo saldrá libre, sin pagar nada.
+<verse eid="EXO 21:1"/><verse number="2" style="v" sid="EXO 21:2"/>»Si alguien compra un esclavo hebreo, le servirá 6 años. Al séptimo saldrá libre, sin pagar nada.
 <verse eid="EXO 21:2"/><verse number="3" style="v" sid="EXO 21:3"/>»Si llegó soltero, saldrá soltero. Pero si estaba casado, su esposa saldrá con él.
 <verse eid="EXO 21:3"/><verse number="4" style="v" sid="EXO 21:4"/>»Si su amo le da una esposa y tienen hijos o hijas, la mujer y sus hijos serán propiedad del amo. El esclavo saldrá solo.
 <verse eid="EXO 21:4"/><verse number="5" style="v" sid="EXO 21:5"/>»Puede ser que el esclavo declare: "Amo a mi señor, a mi esposa y a mis hijos. No quiero recuperar mi libertad".
@@ -668,9 +672,9 @@
 <verse eid="EXO 23:6"/><verse number="7" style="v" sid="EXO 23:7"/>»Aléjate de cualquier acusación falsa. No condenes a muerte al inocente y justo. Yo no absolveré al culpable.
 <verse eid="EXO 23:7"/><verse number="8" style="v" sid="EXO 23:8"/>»No aceptes soborno, porque crea parcialidad y perjudica la causa del inocente.
 <verse eid="EXO 23:8"/><verse number="9" style="v" sid="EXO 23:9"/>»No opriman al extranjero, pues ya saben lo que es ser extranjero. Ustedes lo fueron en la tierra de Egipto.
-<verse eid="EXO 23:9"/><verse number="10" style="v" sid="EXO 23:10"/>»Durante seis años sembrarás tu tierra y cosecharás sus productos. 
+<verse eid="EXO 23:9"/><verse number="10" style="v" sid="EXO 23:10"/>»Durante 6 años sembrarás tu tierra y cosecharás sus productos. 
 <verse eid="EXO 23:10"/><verse number="11" style="v" sid="EXO 23:11"/>Pero en el séptimo año la dejarás descansar. Los pobres de tu pueblo comerán de lo que crezca en ella. Lo que sobre se lo comerán los animales del campo. »Haz lo mismo con tu viña y con tu olivar.
-<verse eid="EXO 23:11"/><verse number="12" style="v" sid="EXO 23:12"/>»Trabajarás seis días, pero el séptimo descansarás. Así recobrarán fuerzas tu buey y tu burro, y también los esclavos que nacieron en tu casa y los extranjeros. 
+<verse eid="EXO 23:11"/><verse number="12" style="v" sid="EXO 23:12"/>»Trabajarás 6 días, pero el séptimo descansarás. Así recobrarán fuerzas tu buey y tu burro, y también los esclavos que nacieron en tu casa y los extranjeros. 
 <verse eid="EXO 23:12"/><verse number="13" style="v" sid="EXO 23:13"/>»Cumple todo lo que te he dicho. »No menciones el nombre de dioses ajenos. Que no se oiga de tu boca.
 <verse eid="EXO 23:13"/><verse number="14" style="v" sid="EXO 23:14"/>»Tres fiestas de peregrinación celebrarás en el año.
 <verse eid="EXO 23:14"/><verse number="15" style="v" sid="EXO 23:15"/>»Celebrarás la fiesta de los panes sin levadura. Durante siete días comerás pan sin levadura, tal como te ordené. Esto ocurrirá en la fecha señalada, en el  mes primero, porque en ese mes saliste de Egipto. »Nadie se presentará ante mí con las manos vacías. 
@@ -710,7 +714,7 @@
 <verse eid="EXO 24:12"/><verse number="13" style="v" sid="EXO 24:13"/>Moisés se levantó con Josué, su ayudante, y subió al monte de Dios. 
 <verse eid="EXO 24:13"/><verse number="14" style="v" sid="EXO 24:14"/>Antes de subir, Moisés les dijo a los ancianos: —Quédense aquí y espérennos hasta que regresemos. Si surge algún problema mientras no estamos, consulten con Aarón y Jur.
 <verse eid="EXO 24:14"/><verse number="15" style="v" sid="EXO 24:15"/>Cuando Moisés subió al monte, una nube lo cubrió. 
-<verse eid="EXO 24:15"/><verse number="16" style="v" sid="EXO 24:16"/>La gloria del Señor reposó sobre el monte Sinaí. La nube lo cubrió durante seis días. Al séptimo día, Dios llamó a Moisés desde el interior de la nube. 
+<verse eid="EXO 24:15"/><verse number="16" style="v" sid="EXO 24:16"/>La gloria del Señor reposó sobre el monte Sinaí. La nube lo cubrió durante 6 días. Al séptimo día, Dios llamó a Moisés desde el interior de la nube. 
 <verse eid="EXO 24:16"/><verse number="17" style="v" sid="EXO 24:17"/>Los que estaban al pie del monte tuvieron una visión sobrecogedora. La gloria del Señor se veía como un fuego consumidor en la cumbre del monte, a la vista de los israelitas. 
 <verse eid="EXO 24:17"/><verse number="18" style="v" sid="EXO 24:18"/>Moisés entró en medio de la nube que cubría el monte. Estuvo allí cuarenta días y cuarenta noches. 
 <verse eid="EXO 24:18"/><verse eid="EXO 24:18"/></para>
@@ -727,12 +731,12 @@
 <verse eid="EXO 25:8"/><verse number="9" style="v" sid="EXO 25:9"/>Harás todo exactamente según el modelo del tabernáculo y de todos sus utensilios que yo te muestre. 
 <verse eid="EXO 25:9"/><verse number="10" style="v" sid="EXO 25:10"/>»Harás un arca de madera de acacia que mida 1 metro de largo, 70 centímetros de ancho y 70 centímetros de alto. 
 <verse eid="EXO 25:10"/><verse number="11" style="v" sid="EXO 25:11"/>La recubrirás por dentro y por fuera con oro puro. Le harás una moldura de oro alrededor. 
-<verse eid="EXO 25:11"/><verse number="12" style="v" sid="EXO 25:12"/>Fundirás cuatro anillas de oro y las colocarás en sus cuatro esquinas: dos anillas en un costado y dos en el otro.  
+<verse eid="EXO 25:11"/><verse number="12" style="v" sid="EXO 25:12"/>Fundirás 4 anillas de oro y las colocarás en sus 4 esquinas: 2 anillas en un costado y 2 en el otro.  
 <verse eid="EXO 25:12"/><verse number="14" style="v" sid="EXO 25:14"/>Harás varas de madera de acacia y las recubrirás de oro. Insertarás las varas en las anillas a los lados del arca para transportarla con ellas. 
 <verse eid="EXO 25:14"/><verse number="15" style="v" sid="EXO 25:15"/>Las varas deberán permanecer en las anillas y no se retirarán. 
 <verse eid="EXO 25:15"/><verse number="16" style="v" sid="EXO 25:16"/>Cuando el arca esté terminada, pondrás dentro el testimonio que yo te daré. 
 <verse eid="EXO 25:16"/><verse number="17" style="v" sid="EXO 25:17"/>»También harás la tapa del arca de oro puro. Será de 1 metro de largo por 70 centímetros de ancho. 
-<verse eid="EXO 25:17"/><verse number="18" style="v" sid="EXO 25:18"/>Harás también dos querubines de oro labrados a martillo. Los colocarás en los dos extremos de la tapa del arca. 
+<verse eid="EXO 25:17"/><verse number="18" style="v" sid="EXO 25:18"/>Harás también 2 querubines de oro labrados a martillo. Los colocarás en los 2 extremos de la tapa del arca. 
 <verse eid="EXO 25:18"/><verse number="19" style="v" sid="EXO 25:19"/>Harás un querubín en un extremo y otro en el otro extremo. Formarán una sola pieza con la tapa del arca. 
 <verse eid="EXO 25:19"/><verse number="20" style="v" sid="EXO 25:20"/>Los querubines extenderán las alas hacia arriba, cubriendo la tapa del arca. Estarán uno frente al otro, mirando hacia la tapa del arca. 
 <verse eid="EXO 25:20"/><verse number="21" style="v" sid="EXO 25:21"/>»Colocarás la tapa sobre el arca. Dentro del arca pondrás el testimonio que yo te daré. 
@@ -740,14 +744,14 @@
 <verse eid="EXO 25:22"/><verse number="23" style="v" sid="EXO 25:23"/>»Harás una mesa de madera de acacia de 90 centímetros de largo, 45 de ancho y 70 de alto. 
 <verse eid="EXO 25:23"/><verse number="24" style="v" sid="EXO 25:24"/>La recubrirás con oro puro y le harás un borde de oro alrededor.
 <verse eid="EXO 25:24"/><verse number="25" style="v" sid="EXO 25:25"/>Le harás un marco alrededor de unos 8 cm de ancho. Sobre ese marco le pondrás una moldura de oro. 
-<verse eid="EXO 25:25"/><verse number="27" style="v" sid="EXO 25:27"/>»Harás cuatro anillas de oro y las pondrás en los cuatro costados, junto a las cuatro patas, cerca del marco. Por esas anillas pasarán las varas para transportar la mesa. 
+<verse eid="EXO 25:25"/><verse number="27" style="v" sid="EXO 25:27"/>»Harás 4 anillas de oro y las pondrás en los 4 costados, junto a las 4 patas, cerca del marco. Por esas anillas pasarán las varas para transportar la mesa. 
 <verse eid="EXO 25:27"/><verse number="28" style="v" sid="EXO 25:28"/>»Harás las varas de madera de acacia y las recubrirás de oro. Con ellas se transportará la mesa. 
 <verse eid="EXO 25:28"/><verse number="29" style="v" sid="EXO 25:29"/>También harás tazones, platos, cucharas y jarros de oro puro para las ofrendas de bebida. 
 <verse eid="EXO 25:29"/><verse number="30" style="v" sid="EXO 25:30"/>Sobre la mesa pondrás el pan de la Presencia, que estará siempre delante de mí. 
 <verse eid="EXO 25:30"/><verse number="31" style="v" sid="EXO 25:31"/>»Harás un candelabro de oro puro, labrado a martillo. Todo el candelabro será de una sola pieza: la base, el tallo, las copas, los capullos y las flores. 
-<verse eid="EXO 25:31"/><verse number="32" style="v" sid="EXO 25:32"/>De los lados del candelabro central saldrán seis brazos: tres de un lado y tres del otro. 
-<verse eid="EXO 25:32"/><verse number="33" style="v" sid="EXO 25:33"/>Cada brazo tendrá tres copas con forma de flor de almendro, con sus capullos y flores. Así será con los seis brazos que salen del candelabro. 
-<verse eid="EXO 25:33"/><verse number="35" style="v" sid="EXO 25:35"/>En el candelabro mismo habrá cuatro copas con forma de flor de almendro, con sus capullos y flores. Habrá un capullo debajo de cada par de brazos, en los tres puntos donde se unen con el candelabro. 
+<verse eid="EXO 25:31"/><verse number="32" style="v" sid="EXO 25:32"/>De los lados del candelabro central saldrán 6 brazos: 3 de un lado y 3 del otro. 
+<verse eid="EXO 25:32"/><verse number="33" style="v" sid="EXO 25:33"/>Cada brazo tendrá 3 copas con forma de flor de almendro, con sus capullos y flores. Así será con los 6 brazos que salen del candelabro. 
+<verse eid="EXO 25:33"/><verse number="35" style="v" sid="EXO 25:35"/>En el candelabro mismo habrá 4 copas con forma de flor de almendro, con sus capullos y flores. Habrá un capullo debajo de cada par de brazos, en los 3 puntos donde se unen con el candelabro. 
 <verse eid="EXO 25:35"/><verse number="36" style="v" sid="EXO 25:36"/>Las copas y los brazos que salen de él serán de una sola pieza y serán de oro puro labrado a martillo. 
 <verse eid="EXO 25:36"/><verse number="37" style="v" sid="EXO 25:37"/>»Harás siete lámparas para el candelabro y las colocarás de modo que iluminen hacia el frente.
 <verse eid="EXO 25:37"/><verse number="38" style="v" sid="EXO 25:38"/>Sus pinzas para las mechas y sus platillos serán también de oro puro. 
@@ -817,10 +821,10 @@
 <verse eid="EXO 28:2"/><verse number="3" style="v" sid="EXO 28:3"/>Habla con todos los artesanos hábiles a quienes he llenado de sabiduría. Confeccionarán las vestiduras de Aarón para  consagrarlo como sacerdote.
 <verse eid="EXO 28:3"/><verse number="4" style="v" sid="EXO 28:4"/>»Estas son las vestiduras que harán: un pectoral, un delantal sacerdotal, un manto, una túnica tejida a cuadros, un turbante y un cinturón. Harán vestiduras sagradas para Aarón, tu hermano, y para sus hijos, para que me sirvan como sacerdotes. 
 <verse eid="EXO 28:4"/><verse number="6" style="v" sid="EXO 28:6"/>Harán el delantal sacerdotal de oro, azul, púrpura, escarlata y lino fino. Será tejido con arte.
-<verse eid="EXO 28:6"/><verse number="7" style="v" sid="EXO 28:7"/>Tendrá dos hombreras unidas en sus dos extremos. 
+<verse eid="EXO 28:6"/><verse number="7" style="v" sid="EXO 28:7"/>Tendrá 2 hombreras unidas en sus 2 extremos. 
 <verse eid="EXO 28:7"/><verse number="8" style="v" sid="EXO 28:8"/>El cinturón del delantal sacerdotal, que va sobre él, será de la misma hechura: de oro, azul, púrpura, escarlata y lino fino torcido. 
 <verse eid="EXO 28:8"/><verse number="9" style="v" sid="EXO 28:9"/>»Tomarán dos piedras de ónice y grabarán en ellas los nombres de las tribus de Israel.
-<verse eid="EXO 28:9"/><verse number="10" style="v" sid="EXO 28:10"/>Habrá seis nombres en una piedra y los seis restantes en la otra piedra, según su orden de nacimiento.
+<verse eid="EXO 28:9"/><verse number="10" style="v" sid="EXO 28:10"/>Habrá 6 nombres en una piedra y los 6 restantes en la otra piedra, según su orden de nacimiento.
 <verse eid="EXO 28:10"/><verse number="11" style="v" sid="EXO 28:11"/>Un joyero grabará los nombres en las dos piedras, como los orfebres graban sellos. Las montará en engastes de oro.
 <verse eid="EXO 28:11"/><verse number="12" style="v" sid="EXO 28:12"/>Colocarás las dos piedras sobre las hombreras del delantal sacerdotal como recordatorio de los israelitas. De esta manera, Aarón llevará sus nombres sobre sus hombros en presencia del Señor para que él los recuerde.
 <verse eid="EXO 28:12"/><verse number="14" style="v" sid="EXO 28:14"/>Harás engastes de oro, y dos cadenas de oro puro, trenzadas como un cordón grueso. Pondrás las cadenas gruesas sobre los engastes.
@@ -831,10 +835,10 @@
 <verse eid="EXO 28:18"/><verse number="19" style="v" sid="EXO 28:19"/>En la tercera fila, pondrás un jacinto, un ágata y una amatista.
 <verse eid="EXO 28:19"/><verse number="20" style="v" sid="EXO 28:20"/>En la cuarta fila, pondrás un berilo, un ónice y un jaspe. Estarán todos engastados en oro.
 <verse eid="EXO 28:20"/><verse number="21" style="v" sid="EXO 28:21"/>Serán doce piedras, una por cada israelita. En cada piedra se grabará como un sello el nombre de una de las doce tribus.
-<verse eid="EXO 28:21"/><verse number="24" style="v" sid="EXO 28:24"/>»Para el pectoral harás unas cadenillas de oro puro en forma de cordón. Ponle al pectoral dos anillos de oro y sujétalos a sus dos extremos. Sujeta las dos cadenillas de oro a los anillos de los extremos del pectoral.
+<verse eid="EXO 28:21"/><verse number="24" style="v" sid="EXO 28:24"/>»Para el pectoral harás unas cadenillas de oro puro en forma de cordón. Ponle al pectoral 2 anillos de oro y sujétalos a sus 2 extremos. Sujeta las 2 cadenillas de oro a los anillos de los extremos del pectoral.
 <verse eid="EXO 28:24"/><verse number="25" style="v" sid="EXO 28:25"/>Los otros extremos de las dos cadenillas los unirás a los dos engastes. Los fijarás por la parte delantera a las hombreras del delantal sacerdotal.
-<verse eid="EXO 28:25"/><verse number="26" style="v" sid="EXO 28:26"/>»Harás otros dos anillos de oro y los colocarás en los otros dos extremos del pectoral. Irán en el borde interior, junto al delantal sacerdotal.
-<verse eid="EXO 28:26"/><verse number="27" style="v" sid="EXO 28:27"/>Harás otros dos anillos de oro y los fijarás en la parte delantera del delantal sacerdotal. Irán por debajo de las hombreras, cerca de la costura que va justamente por encima del cinturón.
+<verse eid="EXO 28:25"/><verse number="26" style="v" sid="EXO 28:26"/>»Harás otros 2 anillos de oro y los colocarás en los otros 2 extremos del pectoral. Irán en el borde interior, junto al delantal sacerdotal.
+<verse eid="EXO 28:26"/><verse number="27" style="v" sid="EXO 28:27"/>Harás otros 2 anillos de oro y los fijarás en la parte delantera del delantal sacerdotal. Irán por debajo de las hombreras, cerca de la costura que va justamente por encima del cinturón.
 <verse eid="EXO 28:27"/><verse number="28" style="v" sid="EXO 28:28"/>Los anillos del pectoral los fijarás a los anillos del delantal sacerdotal con un cordón azul. Unirán el pectoral al cinturón y  así no se desprenderá del delantal. 
 <verse eid="EXO 28:28"/><verse number="29" style="v" sid="EXO 28:29"/>»De esta manera, Aarón llevará los nombres de los hijos de Israel en el pectoral de la justicia sobre su corazón cuando entre al Lugar Santo. Serán un recuerdo delante del Señor continuamente.
 <verse eid="EXO 28:29"/><verse number="30" style="v" sid="EXO 28:30"/>Dentro del pectoral para tomar decisiones colocarás el <char style="em" closed="true">urim</char> y el <char style="em" closed="true">tumim</char>. De esta manera, cada vez que Aarón se presente ante el Señor, llevará sobre su corazón los medios para tomar decisiones justas. 
@@ -901,7 +905,7 @@
   <para style="p"><verse number="1" style="v" sid="EXO 30:1"/>»Harás un altar para quemar incienso. Lo construirás de madera de acacia.
 <verse eid="EXO 30:1"/><verse number="2" style="v" sid="EXO 30:2"/>Será cuadrado, de medio metro de largo por medio metro de ancho, y un metro de alto. Sus cuernos formarán una sola pieza con él.
 <verse eid="EXO 30:2"/><verse number="3" style="v" sid="EXO 30:3"/>Recubrirás con oro puro su parte superior, sus costados y sus cuernos. Le pondrás una moldura de oro alrededor.
-<verse eid="EXO 30:3"/><verse number="4" style="v" sid="EXO 30:4"/>Debajo de la moldura, en dos lados opuestos, harás dos anillos de oro para insertar las varas con las que se transportará.
+<verse eid="EXO 30:3"/><verse number="4" style="v" sid="EXO 30:4"/>Debajo de la moldura, en 2 lados opuestos, harás 2 anillos de oro para insertar las varas con las que se transportará.
 <verse eid="EXO 30:4"/><verse number="5" style="v" sid="EXO 30:5"/>Harás las varas de madera de acacia y las recubrirás de oro.
 <verse eid="EXO 30:5"/><verse number="6" style="v" sid="EXO 30:6"/>Coloca el altar frente a la cortina que está delante del arca del pacto y su tapa. Es allí donde me encontraré contigo.
 <verse eid="EXO 30:6"/><verse number="7" style="v" sid="EXO 30:7"/>»Cada mañana, cuando Aarón prepare las lámparas, quemará incienso aromático sobre el altar.
@@ -947,9 +951,9 @@
 <verse eid="EXO 31:9"/><verse number="10" style="v" sid="EXO 31:10"/>las vestiduras especiales, las vestiduras sagradas del sacerdote Aarón, las de sus hijos para ejercer el sacerdocio,
 <verse eid="EXO 31:10"/><verse number="11" style="v" sid="EXO 31:11"/>el aceite de la unción y el incienso aromático para el Lugar Santo. Harán todo exactamente como te he mandado.
 <verse eid="EXO 31:11"/><verse number="13" style="v" sid="EXO 31:13"/>El Señor le dijo a Moisés:—Diles a los israelitas que  deben observar mis sábados. El sábado es una señal entre ustedes y yo de generación en generación, para que sepan que yo soy el Señor que los consagra.
-<verse eid="EXO 31:13"/><verse number="15" style="v" sid="EXO 31:15"/>»Observen el sábado, porque es sagrado para ustedes. »Quien no lo respeta será condenado a muerte. »Cualquiera que trabaje en sábado será expulsado de su pueblo. »Se trabajará durante seis días, pero el séptimo es día de reposo consagrado al Señor. »Cualquiera que trabaje en sábado será condenado a muerte.
+<verse eid="EXO 31:13"/><verse number="15" style="v" sid="EXO 31:15"/>»Observen el sábado, porque es sagrado para ustedes. »Quien no lo respeta será condenado a muerte. »Cualquiera que trabaje en sábado será expulsado de su pueblo. »Se trabajará durante 6 días, pero el séptimo es día de reposo consagrado al Señor. »Cualquiera que trabaje en sábado será condenado a muerte.
 <verse eid="EXO 31:15"/><verse number="16" style="v" sid="EXO 31:16"/>»Los israelitas guardarán el sábado de generación en generación como pacto perpetuo.
-<verse eid="EXO 31:16"/><verse number="17" style="v" sid="EXO 31:17"/>»Es una señal perpetua entre los israelitas y yo. Es así porque en seis días el Señor hizo los cielos y la tierra. El séptimo día dejó de trabajar, y descansó.
+<verse eid="EXO 31:16"/><verse number="17" style="v" sid="EXO 31:17"/>»Es una señal perpetua entre los israelitas y yo. Es así porque en 6 días el Señor hizo los cielos y la tierra. El séptimo día dejó de trabajar, y descansó.
 <verse eid="EXO 31:17"/><verse number="18" style="v" sid="EXO 31:18"/>Cuando el Señor terminó de hablar con Moisés en el monte Sinaí, le entregó las dos tablas del pacto. Eran tablas de piedra escritas con el dedo de Dios.
 <verse eid="EXO 31:18"/><verse eid="EXO 31:18"/></para>
   <chapter eid="EXO 31"/>
@@ -1017,10 +1021,10 @@
 <verse eid="EXO 33:23"/><verse eid="EXO 33:23"/></para>
   <chapter eid="EXO 33"/>
   <chapter number="34" style="c" sid="EXO 34"/>
-  <para style="p"><verse number="1" style="v" sid="EXO 34:1"/>El Señor le dijo a Moisés: —Talla dos tablas de piedra como las primeras. Yo escribiré en ellas las palabras que estaban en las primeras tablas, las que rompiste.
+  <para style="p"><verse number="1" style="v" sid="EXO 34:1"/>El Señor le dijo a Moisés: —Talla 2 tablas de piedra como las primeras. Yo escribiré en ellas las palabras que estaban en las primeras tablas, las que rompiste.
 <verse eid="EXO 34:1"/><verse number="2" style="v" sid="EXO 34:2"/>Prepárate para mañana temprano. Subirás al monte Sinaí y te presentarás ante mí en la cima del monte.
 <verse eid="EXO 34:2"/><verse number="3" style="v" sid="EXO 34:3"/>Nadie debe subir contigo, ni debe verse a nadie en todo el monte. Tampoco debe haber ovejas ni ganado pastando cerca del monte.
-<verse eid="EXO 34:3"/><verse number="4" style="v" sid="EXO 34:4"/>Moisés talló dos tablas de piedra como las primeras. Se levantó de madrugada y subió al monte Sinaí, tal como el Señor le había ordenado. Llevó en sus manos las dos tablas de piedra.
+<verse eid="EXO 34:3"/><verse number="4" style="v" sid="EXO 34:4"/>Moisés talló 2 tablas de piedra como las primeras. Se levantó de madrugada y subió al monte Sinaí, tal como el Señor le había ordenado. Llevó en sus manos las 2 tablas de piedra.
 <verse eid="EXO 34:4"/><verse number="6" style="v" sid="EXO 34:6"/>El Señor descendió en la nube y se quedó allí con él. Entonces el Señor pasó frente a Moisés y proclamó: —¡Señor! ¡Señor! Dios compasivo y clemente, lento para la ira, abundante en amor y fidelidad.
 <verse eid="EXO 34:6"/><verse number="7" style="v" sid="EXO 34:7"/>Yo mantengo mi amor por miles de generaciones. Perdono la maldad, la rebeldía y el pecado. Sin embargo, no dejo sin castigo al culpable. En cambio, castigo la maldad de los padres en los hijos y en los nietos, hasta la tercera y cuarta generación.
 <verse eid="EXO 34:7"/><verse number="8" style="v" sid="EXO 34:8"/>Moisés, de inmediato, se postró en tierra y lo adoró.
@@ -1036,15 +1040,15 @@
 <verse eid="EXO 34:17"/><verse number="18" style="v" sid="EXO 34:18"/>»Celebrarás la fiesta de los panes sin levadura. Durante siete días comerás pan sin levadura, como te ordené. La celebrarás en el tiempo señalado del primer mes, porque en ese mes saliste de Egipto.
 <verse eid="EXO 34:18"/><verse number="19" style="v" sid="EXO 34:19"/>»Todo primogénito macho es mío, de tu ganado mayor y menor, tanto del toro como de la oveja.
 <verse eid="EXO 34:19"/><verse number="20" style="v" sid="EXO 34:20"/>Al burro primogénito lo rescatarás con un cordero. Pero si no lo rescatas, le romperás el cuello. Rescatarás a todos los primogénitos de tus hijos. »Nadie debe presentarse ante mí con las manos vacías.
-<verse eid="EXO 34:20"/><verse number="21" style="v" sid="EXO 34:21"/>»Seis días trabajarás, pero el séptimo día descansarás. Incluso en tiempo de arada y cosecha deberás descansar.
+<verse eid="EXO 34:20"/><verse number="21" style="v" sid="EXO 34:21"/>»Durante 6  días trabajarás, pero el séptimo día descansarás. Incluso en tiempo de arada y cosecha deberás descansar.
 <verse eid="EXO 34:21"/><verse number="22" style="v" sid="EXO 34:22"/>»Celebrarás la fiesta de las semanas con las primicias de la cosecha de trigo. Celebrarás la fiesta de la cosecha al finalizar el año.
 <verse eid="EXO 34:22"/><verse number="23" style="v" sid="EXO 34:23"/>Tres veces al año se presentará ante mí todo varón israelita. Yo soy el Señor, Dios de Israel.
 <verse eid="EXO 34:23"/><verse number="24" style="v" sid="EXO 34:24"/>Expulsaré de delante de ti a las naciones y ampliaré tu territorio. Nadie ambicionará tu tierra cuando subas a presentarte ante el Señor tu Dios tres veces al año.
 <verse eid="EXO 34:24"/><verse number="25" style="v" sid="EXO 34:25"/>»No ofrezcas el sacrificio de Pascua con pan leudado. Tampoco dejes que sobre  carne hasta el día siguiente.
 <verse eid="EXO 34:25"/><verse number="26" style="v" sid="EXO 34:26"/>»Llevarás las  primicias de tu tierra a la casa del Señor tu Dios. »No cocerás un cabrito en la leche de su madre.
 <verse eid="EXO 34:26"/><verse number="27" style="v" sid="EXO 34:27"/>El Señor le dijo a Moisés: —Pon estas palabras por escrito, porque sobre ellas fundo mi pacto contigo y con Israel.
-<verse eid="EXO 34:27"/><verse number="28" style="v" sid="EXO 34:28"/>Moisés permaneció con el Señor cuarenta días y cuarenta noches, sin comer ni beber nada. Allí el Señor escribió en las tablas las palabras del pacto: los diez mandamientos.
-<verse eid="EXO 34:28"/><verse number="29" style="v" sid="EXO 34:29"/>Moisés descendió del monte Sinaí con las dos tablas en sus manos. No sabía que su rostro brillaba por haber conversado con Dios.
+<verse eid="EXO 34:27"/><verse number="28" style="v" sid="EXO 34:28"/>Moisés permaneció con el Señor 40 días y 40 noches, sin comer ni beber nada. Allí el Señor escribió en las tablas las palabras del pacto: los 10 mandamientos.
+<verse eid="EXO 34:28"/><verse number="29" style="v" sid="EXO 34:29"/>Moisés descendió del monte Sinaí con las 2 tablas en sus manos. No sabía que su rostro brillaba por haber conversado con Dios.
 <verse eid="EXO 34:29"/><verse number="30" style="v" sid="EXO 34:30"/>Al ver a Moisés, Aarón y todos los israelitas se dieron cuenta de que su rostro brillaba intensamente. Tuvieron miedo de acercarse.
 <verse eid="EXO 34:30"/><verse number="31" style="v" sid="EXO 34:31"/>Pero Moisés los llamó, y Aarón y todos los líderes de la comunidad se acercaron a él. Entonces Moisés les habló.
 <verse eid="EXO 34:31"/><verse number="32" style="v" sid="EXO 34:32"/>Después se acercaron todos los israelitas. Moisés les comunicó todo lo que el Señor le había dicho en el monte Sinaí.
@@ -1055,7 +1059,7 @@
   <chapter eid="EXO 34"/>
   <chapter number="35" style="c" sid="EXO 35"/>
   <para style="p"><verse number="1" style="v" sid="EXO 35:1"/>Moisés convocó a todos los israelitas y les dijo: —Estas son las leyes que el Señor les ha ordenado obedecer.
-<verse eid="EXO 35:1"/><verse number="2" style="v" sid="EXO 35:2"/>Durante seis días trabajarán. El séptimo día será sábado de descanso absoluto, sagrado para el Señor. Todo el que trabaje en sábado deberá morir.
+<verse eid="EXO 35:1"/><verse number="2" style="v" sid="EXO 35:2"/>Durante 6 días trabajarán. El séptimo día será sábado de descanso absoluto, sagrado para el Señor. Todo el que trabaje en sábado deberá morir.
 <verse eid="EXO 35:2"/><verse number="3" style="v" sid="EXO 35:3"/>El sábado no encenderán fuego en ninguno de sus hogares.
 <verse eid="EXO 35:3"/><verse number="4" style="v" sid="EXO 35:4"/>Moisés le dijo a toda la comunidad de los israelitas:—El Señor ha ordenado que
 <verse eid="EXO 35:4"/><verse number="9" style="v" sid="EXO 35:9"/>todo el que tenga un corazón generoso traiga al Señor una ofrenda. Puede traer oro, plata y bronce; hilo azul, púrpura y escarlata; lino fino y pelo de cabra; pieles de carnero teñidas de rojo; cuero fino; madera de acacia; aceite de oliva para las lámparas; especias aromáticas para el aceite de la unción y para el incienso; piedras de ónice y otras piedras preciosas para engarzar en el delantal sacerdotal y en el pectoral.
@@ -1135,7 +1139,7 @@
 <verse eid="EXO 37:22"/><verse number="24" style="v" sid="EXO 37:24"/>Hizo las 7 lámparas, sus pinzas para las mechas y sus platillos de oro puro. Los hizo con 35 kilos de oro puro, junto con todos sus utensilios.
 <verse eid="EXO 37:24"/><verse number="25" style="v" sid="EXO 37:25"/>Bezalel hizo el altar del incienso de madera de acacia. Era cuadrado, de 50 centímetros de largo, 50 centímetros de ancho y 1 metro de alto. Los  cuernos que de él salían formaban una pieza con el altar.
 <verse eid="EXO 37:25"/><verse number="26" style="v" sid="EXO 37:26"/>Recubrió de oro puro la parte superior, sus paredes por todo alrededor y sus cuernos. Le hizo una moldura de oro alrededor.
-<verse eid="EXO 37:26"/><verse number="27" style="v" sid="EXO 37:27"/>Hizo para el altar dos anillas de oro debajo de la moldura, en los dos costados. Servían para colocar las varas con las que se transportaría.
+<verse eid="EXO 37:26"/><verse number="27" style="v" sid="EXO 37:27"/>Hizo para el altar 2 anillas de oro debajo de la moldura, en los 2 costados. Servían para colocar las varas con las que se transportaría.
 <verse eid="EXO 37:27"/><verse number="28" style="v" sid="EXO 37:28"/>Hizo las varas de madera de acacia y las recubrió de oro.
 <verse eid="EXO 37:28"/><verse number="29" style="v" sid="EXO 37:29"/>Luego hizo el aceite sagrado de la unción y el incienso puro y aromático, como obra de perfumista.
 <verse eid="EXO 37:29"/><verse eid="EXO 37:29"/></para>
