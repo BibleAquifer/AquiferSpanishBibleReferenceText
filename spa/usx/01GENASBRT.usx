@@ -1,5 +1,9 @@
 <usx version="3.1">
   <book code="GEN" style="id">EN</book>
+  <para style="rem">Exported from Codex Translation Editor v0.24.0
+</para>
+  <para style="rem">Export Date: 2026-04-15T18:03:56.988Z
+</para>
   <para style="h">Genesis
 </para>
   <para style="toc1">Genesis
@@ -113,7 +117,7 @@
 <verse eid="GEN 4:15"/><verse number="16" style="v" sid="GEN 4:16"/>Entonces Caín se alejó de la presencia del Señor y fue a vivir a la región de Nod,<char style="em" closed="true">Nod: </char>En hebreo, <char style="em" closed="true">Nod&amp;nbsp;</char>quiere decir <char style="em" closed="true">errante</char>." class="footnote-marker"&gt;1 al oriente del Edén.
 <verse eid="GEN 4:16"/><verse number="17" style="v" sid="GEN 4:17"/>Caín se acostó con su esposa. Ella quedó embarazada y dio a luz a Enoc. Caín fundó una ciudad y le puso el nombre  Enoc, en honor a su hijo.
 <verse eid="GEN 4:17"/><verse number="18" style="v" sid="GEN 4:18"/>Enoc fue el padre de Irad, Irad fue el padre de Mejuyael, Mejuyael fue el padre de Metusael, y Metusael fue el padre de Lamec.
-<verse eid="GEN 4:18"/><verse number="19" style="v" sid="GEN 4:19"/>Lamec tuvo dos esposas: una se llamaba Ada y la otra, Zila.
+<verse eid="GEN 4:18"/><verse number="19" style="v" sid="GEN 4:19"/>Lamec tuvo 2 esposas: una se llamaba Ada y la otra, Zila.
 <verse eid="GEN 4:19"/><verse number="20" style="v" sid="GEN 4:20"/>Ada dio a luz a Jabal, de quien descienden los que habitan en tiendas y crían ganado.
 <verse eid="GEN 4:20"/><verse number="21" style="v" sid="GEN 4:21"/>Jabal tuvo un hermano llamado Jubal, de quien descienden los que tocan la lira y la flauta.
 <verse eid="GEN 4:21"/><verse number="22" style="v" sid="GEN 4:22"/>Zila, la otra esposa de Lamec, dio a luz a Tubal Caín, que forjaba toda clase de objetos de bronce y hierro. Tubal Caín tuvo una hermana llamada Noama.
@@ -126,38 +130,32 @@
   <chapter number="5" style="c" sid="GEN 5"/>
   <para style="p"><verse number="1" style="v" sid="GEN 5:1"/>Esta es la lista de los descendientes de Adán. Cuando Dios creó al ser humano, lo creó a su propia imagen.
 <verse eid="GEN 5:1"/><verse number="2" style="v" sid="GEN 5:2"/>Los creó varón y mujer, y los bendijo. En el día que los creó, los llamó «seres humanos».
-<verse eid="GEN 5:2"/><verse number="5" style="v" sid="GEN 5:5"/>Adán tenía ciento treinta años cuando le nació un hijo a su imagen y semejanza, y lo llamó Set. 
-<verse eid="GEN 5:5"/><verse number="4" style="v" sid="GEN 5:4"/>Después del nacimiento de Set, Adán vivió ochocientos años más, tuvo hijos e hijas,
-<verse eid="GEN 5:4"/><verse number="0" style="v" sid="GEN 5:0"/>y murió a la edad de novecientos treinta años.
-<verse eid="GEN 5:0"/><verse number="8" style="v" sid="GEN 5:8"/>Set tenía ciento cinco años cuando nació su hijo Enós. 
-<verse eid="GEN 5:8"/><verse number="9" style="v" sid="GEN 5:9"/>Después del nacimiento de Enós, vivió otros ochocientos siete años, tuvo hijos e hijas, 
-<verse eid="GEN 5:9"/><verse number="5" style="v" sid="GEN 5:5"/>y murió a la edad de novecientos doce años.
-<verse eid="GEN 5:5"/><verse number="11" style="v" sid="GEN 5:11"/>Enós tenía noventa años cuando nació su hijo Cainán. 
-<verse eid="GEN 5:11"/><verse number="14" style="v" sid="GEN 5:14"/>Cainán tenía setenta años cuando nació su hijo Malalel. 
-<verse eid="GEN 5:14"/><verse number="17" style="v" sid="GEN 5:17"/>Malalel tenía sesenta y cinco años cuando nació su hijo Jared. 
-<verse eid="GEN 5:17"/><verse number="20" style="v" sid="GEN 5:20"/>Jared tenía ciento sesenta y dos años cuando nació su hijo Enoc. 
-<verse eid="GEN 5:20"/><verse number="759" style="v" sid="GEN 5:759"/>Después del nacimiento de Enoc, vivió ochocientos años, tuvo hijos e hijas, 
-<verse eid="GEN 5:759"/><verse number="24" style="v" sid="GEN 5:24"/>Enoc tenía sesenta y cinco años cuando nació su hijo Matusalén. 
-<verse eid="GEN 5:24"/><verse number="27" style="v" sid="GEN 5:27"/>Matusalén tenía ciento ochenta y siete años cuando nació su hijo Lamec. 
-<verse eid="GEN 5:27"/><verse number="31" style="v" sid="GEN 5:31"/>Lamec tenía ciento ochenta y dos años cuando nació su hijo Noé. 
-<verse eid="GEN 5:31"/><verse number="32" style="v" sid="GEN 5:32"/>Noé había cumplido ya  quinientos años cuando tuvo a sus  hijos Sem, Cam y Jafet.
+<verse eid="GEN 5:2"/><verse number="5" style="v" sid="GEN 5:5"/>Adán tenía 130 años cuando le nació un hijo a su imagen y semejanza, y lo llamó Set. 
+<verse eid="GEN 5:5"/><verse number="8" style="v" sid="GEN 5:8"/>Set tenía 105 años cuando nació su hijo Enós. 
+<verse eid="GEN 5:8"/><verse number="11" style="v" sid="GEN 5:11"/>Enós tenía 90 años cuando nació su hijo Cainán. 
+<verse eid="GEN 5:11"/><verse number="14" style="v" sid="GEN 5:14"/>Cainán tenía 70 años cuando nació su hijo Malalel. 
+<verse eid="GEN 5:14"/><verse number="17" style="v" sid="GEN 5:17"/>Malalel tenía 65 años cuando nació su hijo Jared. 
+<verse eid="GEN 5:17"/><verse number="20" style="v" sid="GEN 5:20"/>Jared tenía 162 años cuando nació su hijo Enoc. 
+<verse eid="GEN 5:20"/><verse number="24" style="v" sid="GEN 5:24"/>Enoc tenía 65 años cuando nació su hijo Matusalén. 
+<verse eid="GEN 5:24"/><verse number="27" style="v" sid="GEN 5:27"/>Matusalén tenía 187 años cuando nació su hijo Lamec. 
+<verse eid="GEN 5:27"/><verse number="31" style="v" sid="GEN 5:31"/>Lamec tenía 182 años cuando nació su hijo Noé. 
+<verse eid="GEN 5:31"/><verse number="32" style="v" sid="GEN 5:32"/>Noé había cumplido ya  500 años cuando tuvo a sus  hijos Sem, Cam y Jafet.
 <verse eid="GEN 5:32"/><verse eid="GEN 5:32"/></para>
   <chapter eid="GEN 5"/>
   <chapter number="6" style="c" sid="GEN 6"/>
   <para style="p"><verse number="1" style="v" sid="GEN 6:1"/>Los seres humanos comenzaron a multiplicarse sobre la tierra.
 <verse eid="GEN 6:1"/><verse number="2" style="v" sid="GEN 6:2"/>Entonces los hijos de Dios vieron que las hijas de los hombres eran hermosas, y tomaron para sí las mujeres que desearon.
-<verse eid="GEN 6:2"/><verse number="3" style="v" sid="GEN 6:3"/>Por eso el Señor dijo: «No permanecerá mi espíritu en el ser humano para siempre, porque es un simple mortal; así que solo vivirá ciento veinte años».
+<verse eid="GEN 6:2"/><verse number="3" style="v" sid="GEN 6:3"/>Por eso el Señor dijo: «No permanecerá mi espíritu en el ser humano para siempre, porque es un simple mortal; así que solo vivirá 120 años».
 <verse eid="GEN 6:3"/><verse number="4" style="v" sid="GEN 6:4"/>En aquellos días y aun después, cuando los hijos de Dios se juntaron con las mujeres, nacieron gigantes que fueron famosos por su valentía.
 <verse eid="GEN 6:4"/><verse number="6" style="v" sid="GEN 6:6"/>Cuando el Señor Dios vio hasta dónde llagaba la maldad humana, y que solo pensaban en hacer lo malo, 
-<verse eid="GEN 6:6"/><verse number="0" style="v" sid="GEN 6:0"/>le dolió haber creado al ser humano, y se lamentó en su corazón.
-<verse eid="GEN 6:0"/><verse number="7" style="v" sid="GEN 6:7"/>Entonces Dios dijo: «Voy a borrar de la tierra todo lo que he creado: seres humanos, animales, reptiles y aves. ¡Me duele haberlos creado!».
+<verse eid="GEN 6:6"/><verse number="7" style="v" sid="GEN 6:7"/>Entonces Dios dijo: «Voy a borrar de la tierra todo lo que he creado: seres humanos, animales, reptiles y aves. ¡Me duele haberlos creado!».
 <verse eid="GEN 6:7"/><verse number="8" style="v" sid="GEN 6:8"/>Pero Noé contaba con la aprobación del Señor.
 <verse eid="GEN 6:8"/><verse number="9" style="v" sid="GEN 6:9"/>Esta es la historia de Noé y de sus descendientes. Noé era un hombre justo y bueno entre los suyos, y vivió como Dios quería.
-<verse eid="GEN 6:9"/><verse number="10" style="v" sid="GEN 6:10"/>Noé tuvo tres hijos: Sem, Cam y Jafet.
+<verse eid="GEN 6:9"/><verse number="10" style="v" sid="GEN 6:10"/>Noé tuvo 3 hijos: Sem, Cam y Jafet.
 <verse eid="GEN 6:10"/><verse number="13" style="v" sid="GEN 6:13"/>Dios vio que la humanidad se había degenerado, y se había vuelto violenta. 
 <verse eid="GEN 6:13"/><verse number="14" style="v" sid="GEN 6:14"/>Hazte un barco de madera, y cúbrelo por dentro y por fuera con alquitrán.
-<verse eid="GEN 6:14"/><verse number="15" style="v" sid="GEN 6:15"/>Debe tener ciento treinta y cinco metros de largo, veintidós metros y medio de ancho y trece metros y medio de alto.
-<verse eid="GEN 6:15"/><verse number="16" style="v" sid="GEN 6:16"/>Entre el techo y la pared alrededor de todo el barco deja un espacio libre de unos cuarenta y cinco centímetros para que entren la luz y el aire. Hazle tres cubiertas: una cubierta inferior, una intermedia y una superior, y ponle una puerta al costado.
+<verse eid="GEN 6:14"/><verse number="15" style="v" sid="GEN 6:15"/>Debe tener 135 metros de largo, 22,5 metros  de ancho y 13,5 metros de alto.
+<verse eid="GEN 6:15"/><verse number="16" style="v" sid="GEN 6:16"/>Entre el techo y la pared alrededor de todo el barco deja un espacio libre de unos 45 centímetros para que entren la luz y el aire. Hazle 3 cubiertas: 1 cubierta inferior, 1 intermedia y 1 superior, y ponle una puerta al costado.
 <verse eid="GEN 6:16"/><verse number="17" style="v" sid="GEN 6:17"/>Voy a inundar la tierra con un diluvio para destruir a todos los seres vivos. No quedará nada vivo.
 <verse eid="GEN 6:17"/><verse number="18" style="v" sid="GEN 6:18"/>Pero haré un pacto contigo. Tú entrarás en el barco junto con tus hijos, tu esposa y tus nueras, para que no mueran.
 <verse eid="GEN 6:18"/><verse number="20" style="v" sid="GEN 6:20"/>Trae un macho y una hembra de cada animal y hazlos entrar en el barco contigo, para que sobrevivan al diluvio. 
@@ -167,44 +165,44 @@
   <chapter eid="GEN 6"/>
   <chapter number="7" style="c" sid="GEN 7"/>
   <para style="p"><verse number="1" style="v" sid="GEN 7:1"/>Después el Señor le dijo a Noé: «Entra en el barco con toda tu familia, porque eres el único  justo que he encontrado de esta generación.
-<verse eid="GEN 7:1"/><verse number="2" style="v" sid="GEN 7:2"/>Lleva en el barco siete machos y siete hembras de todos los animales que se consideran puros; pero de los impuros lleva solo un macho y una hembra.
-<verse eid="GEN 7:2"/><verse number="3" style="v" sid="GEN 7:3"/>Lleva también siete machos y siete hembras de todas las aves del cielo, para conservar su especie.
-<verse eid="GEN 7:3"/><verse number="4" style="v" sid="GEN 7:4"/>Dentro de siete días haré que llueva sobre la tierra durante cuarenta días y cuarenta noches, y será destruida  toda clase de ser vivo».
+<verse eid="GEN 7:1"/><verse number="2" style="v" sid="GEN 7:2"/>Lleva en el barco 7 machos y 7 hembras de todos los animales que se consideran puros; pero de los impuros lleva solo un macho y una hembra.
+<verse eid="GEN 7:2"/><verse number="3" style="v" sid="GEN 7:3"/>Lleva también 7 machos y 7 hembras de todas las aves del cielo, para conservar su especie.
+<verse eid="GEN 7:3"/><verse number="4" style="v" sid="GEN 7:4"/>Dentro de 7 días haré que llueva sobre la tierra durante 40 días y 40 noches, y será destruida  toda clase de ser vivo».
 <verse eid="GEN 7:4"/><verse number="5" style="v" sid="GEN 7:5"/>Noé hizo todo lo que el Señor le había mandado.
-<verse eid="GEN 7:5"/><verse number="7" style="v" sid="GEN 7:7"/>Cuando comenzó el diluvio, Noé tenía seiscientos años. 
+<verse eid="GEN 7:5"/><verse number="7" style="v" sid="GEN 7:7"/>Cuando comenzó el diluvio, Noé tenía 600 años. 
 <verse eid="GEN 7:7"/><verse number="9" style="v" sid="GEN 7:9"/>También los animales puros y los impuros, las aves y los reptiles, 
-<verse eid="GEN 7:9"/><verse number="10" style="v" sid="GEN 7:10"/>Después de siete días, las aguas del diluvio comenzaron a inundar la tierra.
-<verse eid="GEN 7:10"/><verse number="11" style="v" sid="GEN 7:11"/>Eso ocurrió el día diecisiete del mes segundo del año en que Noé cumplió seiscientos años. Ese día se rompieron todas las fuentes del gran abismo, y se abrieron las compuertas del cielo, dejando caer una lluvia torrencial.
-<verse eid="GEN 7:11"/><verse number="12" style="v" sid="GEN 7:12"/>Llovió sin parar durante cuarenta días y cuarenta noches.
+<verse eid="GEN 7:9"/><verse number="10" style="v" sid="GEN 7:10"/>Después de 7 días, las aguas del diluvio comenzaron a inundar la tierra.
+<verse eid="GEN 7:10"/><verse number="11" style="v" sid="GEN 7:11"/>Eso ocurrió el día 17 del mes segundo del año en que Noé cumplió 600 años. Ese día se rompieron todas las fuentes del gran abismo, y se abrieron las compuertas del cielo, dejando caer una lluvia torrencial.
+<verse eid="GEN 7:11"/><verse number="12" style="v" sid="GEN 7:12"/>Llovió sin parar durante 40 días y 40 noches.
 <verse eid="GEN 7:12"/><verse number="13" style="v" sid="GEN 7:13"/>Fue en ese día cuando Noé entró en el barco con su esposa, sus hijos Sem, Cam y Jafet, y sus nueras.
-<verse eid="GEN 7:13"/><verse number="15" style="v" sid="GEN 7:15"/>Con ellos entró en el barco toda clase de animales, domésticos y salvajes, reptiles y aves.
+<verse eid="GEN 7:13"/><verse number="15" style="v" sid="GEN 7:15"/>Con ellos entró en el barco toda clase de animales, domésticos y salvajes, reptiles y aves,
 <verse eid="GEN 7:15"/><verse number="16" style="v" sid="GEN 7:16"/>macho y hembra, tal como Dios lo había ordenado. Después el Señor cerró la puerta del barco.
-<verse eid="GEN 7:16"/><verse number="17" style="v" sid="GEN 7:17"/>El diluvio duró cuarenta días. Cuando el nivel de las aguas subió, el barco comenzó a flotar sobre las aguas.
+<verse eid="GEN 7:16"/><verse number="17" style="v" sid="GEN 7:17"/>El diluvio duró 40 días. Cuando el nivel de las aguas subió, el barco comenzó a flotar sobre las aguas.
 <verse eid="GEN 7:17"/><verse number="18" style="v" sid="GEN 7:18"/>El nivel del agua subía, y el barco flotaba sin peligro.
 <verse eid="GEN 7:18"/><verse number="19" style="v" sid="GEN 7:19"/>El nivel del agua subió tanto que cubrió hasta las montañas más altas.
-<verse eid="GEN 7:19"/><verse number="20" style="v" sid="GEN 7:20"/>Subió unos siete metros por encima de las montañas.
+<verse eid="GEN 7:19"/><verse number="20" style="v" sid="GEN 7:20"/>Subió unos 7 metros por encima de las montañas.
 <verse eid="GEN 7:20"/><verse number="22" style="v" sid="GEN 7:22"/>Por tanto, murieron todos los seres vivos: las aves, los animales salvajes, los domésticos, todos los reptiles y todos los seres humanos.
 <verse eid="GEN 7:22"/><verse number="23" style="v" sid="GEN 7:23"/>Solo Noé y los que estaban con él en el barco sobrevivieron. Todos los demás seres humanos murieron, junto con los animales domésticos, las aves y los reptiles.
-<verse eid="GEN 7:23"/><verse number="24" style="v" sid="GEN 7:24"/>Las aguas inundaron la tierra durante ciento cincuenta días.
+<verse eid="GEN 7:23"/><verse number="24" style="v" sid="GEN 7:24"/>Las aguas inundaron la tierra durante 150 días.
 <verse eid="GEN 7:24"/><verse eid="GEN 7:24"/></para>
   <chapter eid="GEN 7"/>
   <chapter number="8" style="c" sid="GEN 8"/>
   <para style="p"><verse number="1" style="v" sid="GEN 8:1"/>Entonces Dios se acordó de Noé y de todos los animales que estaban con él en el barco. Dios hizo pasar un viento sobre la tierra, y las aguas comenzaron a bajar.
 <verse eid="GEN 8:1"/><verse number="2" style="v" sid="GEN 8:2"/>Se cerraron las fuentes del abismo y las compuertas del cielo, y la lluvia cesó.
 <verse eid="GEN 8:2"/><verse number="3" style="v" sid="GEN 8:3"/>El nivel de las aguas fue bajando poco a poco. Después de ciento cincuenta días las aguas habían bajado bastante.
-<verse eid="GEN 8:3"/><verse number="4" style="v" sid="GEN 8:4"/>Así, el día diecisiete del mes séptimo el barco se posó sobre los montes de Ararat.
+<verse eid="GEN 8:3"/><verse number="4" style="v" sid="GEN 8:4"/>Así, el día 17 del mes séptimo el barco se posó sobre los montes de Ararat.
 <verse eid="GEN 8:4"/><verse number="5" style="v" sid="GEN 8:5"/>El nivel del agua continuó bajando, y el día primero del mes décimo ya se pudieron ver las cumbres de las montañas.
-<verse eid="GEN 8:5"/><verse number="6" style="v" sid="GEN 8:6"/>Después de cuarenta días, Noé abrió la ventana que había hecho en el barco
+<verse eid="GEN 8:5"/><verse number="6" style="v" sid="GEN 8:6"/>Después de 40 días, Noé abrió la ventana que había hecho en el barco
 <verse eid="GEN 8:6"/><verse number="7" style="v" sid="GEN 8:7"/>y soltó un cuervo, que estuvo yendo y viniendo hasta que las aguas se secaron sobre la tierra.
 <verse eid="GEN 8:7"/><verse number="8" style="v" sid="GEN 8:8"/>Luego Noé soltó una paloma para ver si la tierra ya no estaba cubierta de agua.
 <verse eid="GEN 8:8"/><verse number="9" style="v" sid="GEN 8:9"/>Pero la paloma regresó al barco porque no encontró ningún lugar seco donde posarse.  Noé extendió su mano, tomó la paloma y la metió en el barco.
-<verse eid="GEN 8:9"/><verse number="10" style="v" sid="GEN 8:10"/>Esperó otros siete días y volvió a soltar la paloma.
+<verse eid="GEN 8:9"/><verse number="10" style="v" sid="GEN 8:10"/>Esperó otros 7 días y volvió a soltar la paloma.
 <verse eid="GEN 8:10"/><verse number="11" style="v" sid="GEN 8:11"/>Ya estaba oscureciendo cuando la paloma regresó. Traía en su pico una ramita verde de olivo. Por eso Noé entendió que las aguas habían bajado mucho y ya se podía ver la tierra seca.
-<verse eid="GEN 8:11"/><verse number="12" style="v" sid="GEN 8:12"/>Siete días después volvió a soltar la paloma, pero esta vez no regresó.
-<verse eid="GEN 8:12"/><verse number="13" style="v" sid="GEN 8:13"/>Noé tenía seiscientos un años de vida cuando las aguas se retiraron. El primer día del primer mes de ese año, Noé retiró el techo del barco y vio que la tierra estaba casi seca.
-<verse eid="GEN 8:13"/><verse number="14" style="v" sid="GEN 8:14"/>El día veintisiete del mes segundo, la tierra ya estaba completamente seca.
+<verse eid="GEN 8:11"/><verse number="12" style="v" sid="GEN 8:12"/>Después de 7 días, volvió a soltar la paloma, pero esta vez no regresó.
+<verse eid="GEN 8:12"/><verse number="13" style="v" sid="GEN 8:13"/>Noé tenía 601 años de vida cuando las aguas se retiraron. El primer día del primer mes de ese año, Noé retiró el techo del barco y vio que la tierra estaba casi seca.
+<verse eid="GEN 8:13"/><verse number="14" style="v" sid="GEN 8:14"/>El día 27 del mes segundo, la tierra ya estaba completamente seca.
 <verse eid="GEN 8:14"/><verse number="15" style="v" sid="GEN 8:15"/>Entonces Dios le dijo a Noé:
-<verse eid="GEN 8:15"/><verse number="17" style="v" sid="GEN 8:17"/>«Ya pueden salir todos del barco. Saca a todos los animales, aves y reptiles para que se reproduzcan en abundancia y llenen la tierra».
+<verse eid="GEN 8:15"/><verse number="17" style="v" sid="GEN 8:17"/>—Ya pueden salir todos del barco. Saca a todos los animales, aves y reptiles para que se reproduzcan en abundancia y llenen la tierra.
 <verse eid="GEN 8:17"/><verse number="18" style="v" sid="GEN 8:18"/>Así que Noé, sus hijos, su esposa y sus nueras salieron del barco.
 <verse eid="GEN 8:18"/><verse number="19" style="v" sid="GEN 8:19"/>También salieron todos los animales, cada uno según su especie: los animales salvajes y los domésticos, las aves y los reptiles.
 <verse eid="GEN 8:19"/><verse number="20" style="v" sid="GEN 8:20"/>Después Noé construyó un altar  al Señor. En ese altar Noé le ofreció a Dios animales y aves puros en sacrificio.
@@ -213,30 +211,27 @@
 <verse eid="GEN 8:22"/><verse eid="GEN 8:22"/></para>
   <chapter eid="GEN 8"/>
   <chapter number="9" style="c" sid="GEN 9"/>
-  <para style="p"><verse number="1" style="v" sid="GEN 9:1"/>Dios bendijo a Noé y a sus hijos con estas palabras: «¡Sean fructíferos, multiplíquense y vuelvan a llenar la tierra!
+  <para style="p"><verse number="1" style="v" sid="GEN 9:1"/>Dios bendijo a Noé y a sus hijos con estas palabras: —¡Sean fructíferos, multiplíquense y vuelvan a llenar la tierra!
 <verse eid="GEN 9:1"/><verse number="2" style="v" sid="GEN 9:2"/>Todos los animales de la tierra tendrán temor de ustedes y los respetarán. Todas las bestias de la tierra, todas las aves, todos los reptiles y todos los peces se someterán a ustedes.
 <verse eid="GEN 9:2"/><verse number="3" style="v" sid="GEN 9:3"/>Les doy para su alimento todos los animales, así como las plantas y verduras.
 <verse eid="GEN 9:3"/><verse number="4" style="v" sid="GEN 9:4"/>»Pero no deberán comer carne con su sangre, porque la vida está en la sangre.
 <verse eid="GEN 9:4"/><verse number="5" style="v" sid="GEN 9:5"/>Si un animal mata a un ser humano, yo le pediré cuentas. También le pediré cuentas a cualquier ser humano que mate a otro. Sí, yo pediré cuentas a cualquier animal o persona que mate a un ser humano.
 <verse eid="GEN 9:5"/><verse number="6" style="v" sid="GEN 9:6"/>»Si alguien derrama la sangre de un ser humano, otro ser humano derramará la suya, porque el ser humano fue creado a imagen de Dios.
-<verse eid="GEN 9:6"/><verse number="7" style="v" sid="GEN 9:7"/>Sean fructíferos y multiplíquense; sí, multiplíquense en la tierra y llénenla».
+<verse eid="GEN 9:6"/><verse number="7" style="v" sid="GEN 9:7"/>Sean fructíferos y multiplíquense; sí, multiplíquense en la tierra y llénenla.
 <verse eid="GEN 9:7"/><verse number="11" style="v" sid="GEN 9:11"/>Entonces Dios les dijo a Noé y a sus hijos: 
-<verse eid="GEN 9:11"/><verse number="13" style="v" sid="GEN 9:13"/>Dios dijo también: «Habrá una señal del pacto que acabo de hacer con ustedes y con todos los animales. 
-<verse eid="GEN 9:13"/><verse number="0" style="v" sid="GEN 9:0"/>Será el arcoíris. Cada vez que aparezca el arcoíris  en las nubes, les recordará la promesa que he hecho a toda la tierra.
-<verse eid="GEN 9:0"/><verse number="16" style="v" sid="GEN 9:16"/>Cuando yo cubra de nubes la tierra y aparezca el arcoíris, 
-<verse eid="GEN 9:16"/><verse number="4" style="v" sid="GEN 9:4"/>Siempre que entre las nubes aparezca el arcoíris, lo veré. Así me acordaré del pacto que existe para siempre entre  todos los seres vivos de la tierra y yo».
-<verse eid="GEN 9:4"/><verse number="17" style="v" sid="GEN 9:17"/>Dios le dijo a Noé: «Esta es la señal del pacto que hago con todos los seres vivos de la tierra».
-<verse eid="GEN 9:17"/><verse number="18" style="v" sid="GEN 9:18"/>Los tres hijos de Noé que salieron del barco fueron Sem, Cam y Jafet. Cam fue el padre de Canaán.
-<verse eid="GEN 9:18"/><verse number="19" style="v" sid="GEN 9:19"/>De estos tres hijos de Noé proceden todas las naciones de la tierra.
+<verse eid="GEN 9:11"/><verse number="13" style="v" sid="GEN 9:13"/>Dios dijo también:—Habrá una señal del pacto que acabo de hacer con ustedes y con todos los animales. 
+<verse eid="GEN 9:13"/><verse number="16" style="v" sid="GEN 9:16"/>Cuando yo cubra de nubes la tierra y aparezca el arcoíris, 
+<verse eid="GEN 9:16"/><verse number="17" style="v" sid="GEN 9:17"/>Dios le dijo a Noé:—Esta es la señal del pacto que hago con todos los seres vivos de la tierra.
+<verse eid="GEN 9:17"/><verse number="18" style="v" sid="GEN 9:18"/>Los 3 hijos de Noé que salieron del barco fueron Sem, Cam y Jafet. Cam fue el padre de Canaán.
+<verse eid="GEN 9:18"/><verse number="19" style="v" sid="GEN 9:19"/>De estos 3 hijos de Noé proceden todas las naciones de la tierra.
 <verse eid="GEN 9:19"/><verse number="21" style="v" sid="GEN 9:21"/>Noé, que cultivaba la tierra, plantó una viña. 
-<verse eid="GEN 9:21"/><verse number="6" style="v" sid="GEN 9:6"/>Bebió del vino, se embriagó y se quedó desnudo dentro de su tienda.
-<verse eid="GEN 9:6"/><verse number="22" style="v" sid="GEN 9:22"/>Entonces, Cam, el padre de Canaán, entró a la tienda y vio a Noé desnudo. Salió y se lo contó a sus hermanos.
+<verse eid="GEN 9:21"/><verse number="22" style="v" sid="GEN 9:22"/>Entonces, Cam, el padre de Canaán, entró a la tienda y vio a Noé desnudo. Salió y se lo contó a sus hermanos.
 <verse eid="GEN 9:22"/><verse number="23" style="v" sid="GEN 9:23"/>Entonces Sem y Jafet tomaron un manto, se lo pusieron sobre los hombros y, caminando hacia atrás para no ver la desnudez de su padre, lo cubrieron.
 <verse eid="GEN 9:23"/><verse number="25" style="v" sid="GEN 9:25"/>Cuando Noé despertó de su borrachera y supo lo que su hijo menor le había hecho, 
-<verse eid="GEN 9:25"/><verse number="26" style="v" sid="GEN 9:26"/>Luego Noé dijo: «¡Bendito sea el Señor, Dios de Sem! ¡Que Canaán sea su esclavo!
-<verse eid="GEN 9:26"/><verse number="27" style="v" sid="GEN 9:27"/>¡Que Dios entregue mucho territorio a Jafet, y habite Jafet en las tiendas de Sem! ¡Que Canaán sea su esclavo!».
-<verse eid="GEN 9:27"/><verse number="28" style="v" sid="GEN 9:28"/>Noé vivió otros trescientos cincuenta años después del diluvio.
-<verse eid="GEN 9:28"/><verse number="29" style="v" sid="GEN 9:29"/>Murió a la edad de novecientos cincuenta años.
+<verse eid="GEN 9:25"/><verse number="26" style="v" sid="GEN 9:26"/>Luego Noé dijo:—¡Bendito sea el Señor, Dios de Sem! ¡Que Canaán sea su esclavo!
+<verse eid="GEN 9:26"/><verse number="27" style="v" sid="GEN 9:27"/>¡Que Dios entregue mucho territorio a Jafet, y habite Jafet en las tiendas de Sem! ¡Que Canaán sea su esclavo!
+<verse eid="GEN 9:27"/><verse number="28" style="v" sid="GEN 9:28"/>Noé vivió otros 350 años después del diluvio.
+<verse eid="GEN 9:28"/><verse number="29" style="v" sid="GEN 9:29"/>Murió a la edad de 950 años.
 <verse eid="GEN 9:29"/><verse eid="GEN 9:29"/></para>
   <chapter eid="GEN 9"/>
   <chapter number="10" style="c" sid="GEN 10"/>
@@ -251,10 +246,8 @@
 <verse eid="GEN 10:8"/><verse number="9" style="v" sid="GEN 10:9"/>Nimrod llegó a ser un cazador muy valiente delante del Señor. Por eso se extendió el dicho: «Tan valiente como Nimrod, valiente cazador delante del Señor».
 <verse eid="GEN 10:9"/><verse number="10" style="v" sid="GEN 10:10"/>Las ciudades principales de su reino fueron Babel, Érec, Acad y Calné. Todas estas ciudades estaban en la región de Sinar.
 <verse eid="GEN 10:10"/><verse number="12" style="v" sid="GEN 10:12"/>De esa región salió hacia Asur, donde edificó las ciudades de Nínive, Rejobot Ir, Cala
-<verse eid="GEN 10:12"/><verse number="8" style="v" sid="GEN 10:8"/>y la gran ciudad de Resén, que está entre Nínive y Cala.
-<verse eid="GEN 10:8"/><verse number="14" style="v" sid="GEN 10:14"/>Misrayin fue el antepasado de los ludeos, los anameos, los leabitas, los naftuitas, 
-<verse eid="GEN 10:14"/><verse number="2" style="v" sid="GEN 10:2"/>los patruseos, los caslujitas —de quienes descienden los filisteos— y los caftoritas.
-<verse eid="GEN 10:2"/><verse number="15" style="v" sid="GEN 10:15"/>Canaán fue el padre de Sidón, su primogénito, y de Het.
+<verse eid="GEN 10:12"/><verse number="14" style="v" sid="GEN 10:14"/>Misrayin fue el antepasado de los ludeos, los anameos, los leabitas, los naftuitas, 
+<verse eid="GEN 10:14"/><verse number="15" style="v" sid="GEN 10:15"/>Canaán fue el padre de Sidón, su primogénito, y de Het.
 <verse eid="GEN 10:15"/><verse number="18" style="v" sid="GEN 10:18"/>De Canaán descienden también los jebuseos, los amorreos, los gergeseos,
 <verse eid="GEN 10:18"/><verse number="19" style="v" sid="GEN 10:19"/>El territorio de Canaán iba desde Sidón hasta Guerar, pasando por Gaza, hasta Sodoma, Gomorra, Admá y Zeboyín, y llegaba hasta Lasa.
 <verse eid="GEN 10:19"/><verse number="20" style="v" sid="GEN 10:20"/>Estos fueron los descendientes  de Cam, según sus familias, sus lenguas, sus territorios y sus naciones.
@@ -264,9 +257,7 @@
 <verse eid="GEN 10:23"/><verse number="24" style="v" sid="GEN 10:24"/>Arfaxad fue el padre de Selaj, y Selaj fue el padre de Éber.
 <verse eid="GEN 10:24"/><verse number="25" style="v" sid="GEN 10:25"/>Éber tuvo dos hijos. El primero se llamó Péleg,<char style="em" closed="true">Péleg: </char>En hebreo,&amp;nbsp;<char style="em" closed="true">Péleg</char>&amp;nbsp;significa<char style="em" closed="true">división</char>." class="footnote-marker"&gt;1 porque en sus días se dividió la tierra. El otro hijo de Éber fue Joctán.
 <verse eid="GEN 10:25"/><verse number="30" style="v" sid="GEN 10:30"/>Joctán fue el padre de Almodad, Sélef, Jazar Mávet, Yeraj, 
-<verse eid="GEN 10:30"/><verse number="0" style="v" sid="GEN 10:0"/>Hadorán, Uzal, Diclá, 
-<verse eid="GEN 10:0"/><verse number="0" style="v" sid="GEN 10:0"/>Ofir, Javilá y Jobab. Todos estos fueron hijos de Joctán
-<verse eid="GEN 10:0"/><verse number="31" style="v" sid="GEN 10:31"/>Estos fueron los descendientes de Sem, según sus familias, sus lenguas, sus tierras y sus naciones.
+<verse eid="GEN 10:30"/><verse number="31" style="v" sid="GEN 10:31"/>Estos fueron los descendientes de Sem, según sus familias, sus lenguas, sus tierras y sus naciones.
 <verse eid="GEN 10:31"/><verse number="32" style="v" sid="GEN 10:32"/>Estas son las familias de los hijos de Noé, según sus listas de descendientes, según sus naciones.  A partir de estas familias se extendieron las naciones por la tierra después del diluvio.
 <verse eid="GEN 10:32"/><verse eid="GEN 10:32"/></para>
   <chapter eid="GEN 10"/>
@@ -280,36 +271,36 @@
 <verse eid="GEN 11:6"/><verse number="7" style="v" sid="GEN 11:7"/>Vamos, descendamos y hagamos que hablen idiomas diferentes, para que no puedan entenderse».
 <verse eid="GEN 11:7"/><verse number="8" style="v" sid="GEN 11:8"/>De esta manera Dios los dispersó por toda la tierra, y no pudieron terminar de construir la ciudad.
 <verse eid="GEN 11:8"/><verse number="9" style="v" sid="GEN 11:9"/>Por eso la ciudad se llamó Babel, porque allí Dios confundió la lengua de las gentes y las dispersó por toda la tierra.
-<verse eid="GEN 11:9"/><verse number="10" style="v" sid="GEN 11:10"/>La siguiente es la lista de los descendientes de Sem. Dos años después del diluvio, cuando Sem tenía cien años, tuvo un hijo al que llamó Arfaxad.
-<verse eid="GEN 11:10"/><verse number="11" style="v" sid="GEN 11:11"/>Después del nacimiento de Arfaxad, Sem vivió quinientos años más y tuvo más hijos e hijas.
-<verse eid="GEN 11:11"/><verse number="12" style="v" sid="GEN 11:12"/>Arfaxad tenía treinta y cinco años cuando nació su hijo Selaj.
-<verse eid="GEN 11:12"/><verse number="13" style="v" sid="GEN 11:13"/>Después del nacimiento de Selaj, Arfaxad vivió cuatrocientos tres años más y tuvo más hijos e hijas.
-<verse eid="GEN 11:13"/><verse number="14" style="v" sid="GEN 11:14"/>Selaj tenía treinta años cuando nació su hijo Éber.
-<verse eid="GEN 11:14"/><verse number="15" style="v" sid="GEN 11:15"/>Después del nacimiento de Éber, Selaj vivió cuatrocientos tres años más y tuvo más hijos e hijas.
-<verse eid="GEN 11:15"/><verse number="16" style="v" sid="GEN 11:16"/>Éber tenía treinta y cuatro años cuando nació su hijo Péleg.
-<verse eid="GEN 11:16"/><verse number="17" style="v" sid="GEN 11:17"/>Después del nacimiento de Péleg, Éber vivió cuatrocientos treinta años más y tuvo más hijos e hijas.
-<verse eid="GEN 11:17"/><verse number="18" style="v" sid="GEN 11:18"/>Péleg tenía treinta años cuando nació su hijo Reú.
-<verse eid="GEN 11:18"/><verse number="19" style="v" sid="GEN 11:19"/>Después del nacimiento de Reú, Péleg vivió doscientos nueve años más y tuvo más hijos e hijas.
-<verse eid="GEN 11:19"/><verse number="20" style="v" sid="GEN 11:20"/>Reú tenía treinta y dos años cuando nació su hijo Serug.
+<verse eid="GEN 11:9"/><verse number="10" style="v" sid="GEN 11:10"/>La siguiente es la lista de los descendientes de Sem. Dos años después del diluvio, cuando Sem tenía 100 años, tuvo un hijo al que llamó Arfaxad.
+<verse eid="GEN 11:10"/><verse number="11" style="v" sid="GEN 11:11"/>Después del nacimiento de Arfaxad, Sem vivió 500 años más y tuvo más hijos e hijas.
+<verse eid="GEN 11:11"/><verse number="12" style="v" sid="GEN 11:12"/>Arfaxad tenía 35 años cuando nació su hijo Selaj.
+<verse eid="GEN 11:12"/><verse number="13" style="v" sid="GEN 11:13"/>Después del nacimiento de Selaj, Arfaxad vivió 403 años más y tuvo más hijos e hijas.
+<verse eid="GEN 11:13"/><verse number="14" style="v" sid="GEN 11:14"/>Selaj tenía 30 años cuando nació su hijo Éber.
+<verse eid="GEN 11:14"/><verse number="15" style="v" sid="GEN 11:15"/>Después del nacimiento de Éber, Selaj vivió 403 años más y tuvo más hijos e hijas.
+<verse eid="GEN 11:15"/><verse number="16" style="v" sid="GEN 11:16"/>Éber tenía 34 años cuando nació su hijo Péleg.
+<verse eid="GEN 11:16"/><verse number="17" style="v" sid="GEN 11:17"/>Después del nacimiento de Péleg, Éber vivió 430 años más y tuvo más hijos e hijas.
+<verse eid="GEN 11:17"/><verse number="18" style="v" sid="GEN 11:18"/>Péleg tenía 30 años cuando nació su hijo Reú.
+<verse eid="GEN 11:18"/><verse number="19" style="v" sid="GEN 11:19"/>Después del nacimiento de Reú, Péleg vivió 209 años más y tuvo más hijos e hijas.
+<verse eid="GEN 11:19"/><verse number="20" style="v" sid="GEN 11:20"/>Reú tenía 32 años cuando nació su hijo Serug.
 <verse eid="GEN 11:20"/><verse number="21" style="v" sid="GEN 11:21"/>Después del nacimiento de Serug, Reú vivió doscientos siete años más y tuvo más hijos e hijas.
 <verse eid="GEN 11:21"/><verse number="22" style="v" sid="GEN 11:22"/>Serug tenía treinta años cuando nació su hijo Najor.
-<verse eid="GEN 11:22"/><verse number="23" style="v" sid="GEN 11:23"/>Después del nacimiento de Najor, Serug vivió doscientos años más y tuvo más hijos e hijas.
-<verse eid="GEN 11:23"/><verse number="24" style="v" sid="GEN 11:24"/>Najor tenía veintinueve años cuando nació su hijo Téraj.
-<verse eid="GEN 11:24"/><verse number="25" style="v" sid="GEN 11:25"/>Después del nacimiento de Téraj, Najor vivió ciento diecinueve años más y tuvo más hijos e hijas.
-<verse eid="GEN 11:25"/><verse number="26" style="v" sid="GEN 11:26"/>Téraj tenía setenta años cuando tuvo a sus hijos Abrán, Najor y Aram.
+<verse eid="GEN 11:22"/><verse number="23" style="v" sid="GEN 11:23"/>Después del nacimiento de Najor, Serug vivió 200 años más y tuvo más hijos e hijas.
+<verse eid="GEN 11:23"/><verse number="24" style="v" sid="GEN 11:24"/>Najor tenía 29 años cuando nació su hijo Téraj.
+<verse eid="GEN 11:24"/><verse number="25" style="v" sid="GEN 11:25"/>Después del nacimiento de Téraj, Najor vivió 119 años más y tuvo más hijos e hijas.
+<verse eid="GEN 11:25"/><verse number="26" style="v" sid="GEN 11:26"/>Téraj tenía 70 años cuando tuvo a sus hijos Abrán, Najor y Aram.
 <verse eid="GEN 11:26"/><verse number="27" style="v" sid="GEN 11:27"/>Esta es la lista de los descendientes de Téraj, el padre de Abram, Najor y Harán. Harán, que fue el padre de Lot,
 <verse eid="GEN 11:27"/><verse number="28" style="v" sid="GEN 11:28"/>murió en la tierra donde nació, en Ur de los caldeos. Harán murió antes que su padre Téraj.
 <verse eid="GEN 11:28"/><verse number="29" style="v" sid="GEN 11:29"/>Abram se casó con Saray, y Najor se casó con Milca, que era hija de Harán y hermana de Iscá.
 <verse eid="GEN 11:29"/><verse number="30" style="v" sid="GEN 11:30"/>Saray no podía tener hijos, pues era estéril.
 <verse eid="GEN 11:30"/><verse number="31" style="v" sid="GEN 11:31"/>Un día Téraj decidió salir de Ur de los caldeos rumbo a Canaán. Se llevó consigo a su hijo Abram, a su nieto Lot y a su nuera Saray. Pero cuando llegaron a la ciudad de Jarán, se quedaron a vivir allí.
-<verse eid="GEN 11:31"/><verse number="32" style="v" sid="GEN 11:32"/>Allí en Jarán murió Téraj, a la edad de doscientos cinco años.
+<verse eid="GEN 11:31"/><verse number="32" style="v" sid="GEN 11:32"/>Allí en Jarán murió Téraj, a la edad de 205 años.
 <verse eid="GEN 11:32"/><verse eid="GEN 11:32"/></para>
   <chapter eid="GEN 11"/>
   <chapter number="12" style="c" sid="GEN 12"/>
   <para style="p"><verse number="1" style="v" sid="GEN 12:1"/>El Señor le dijo a Abram: «Sal de tu tierra, del lugar donde naciste y de la casa de tu padre, para ir a la tierra que te voy a mostrar.
 <verse eid="GEN 12:1"/><verse number="2" style="v" sid="GEN 12:2"/>Te convertiré en una nación grande. Te bendeciré y haré que tu nombre sea muy improtante, y serás una bendición para otros.
 <verse eid="GEN 12:2"/><verse number="3" style="v" sid="GEN 12:3"/>Bendeciré a los que te bendigan y maldeciré a los que te maldigan. Por medio de ti serán bendecidos todos los pueblos de la tierra».
-<verse eid="GEN 12:3"/><verse number="4" style="v" sid="GEN 12:4"/>Tal como el Señor le había dicho, Abram salió de Jarán, y Lot fue con él. Abram tenía entonces setenta y cinco años.
+<verse eid="GEN 12:3"/><verse number="4" style="v" sid="GEN 12:4"/>Tal como el Señor le había dicho, Abram salió de Jarán, y Lot fue con él. Abram tenía entonces 75 años.
 <verse eid="GEN 12:4"/><verse number="5" style="v" sid="GEN 12:5"/>Cuando Abram salió hacia la región de Canaán, tomó a su esposa Saray y a su sobrino Lot. Tomó todas sus posesiones y la gente que había adquirido en Jarán. También se llevó todas las cosas y animales que había conseguido.
 <verse eid="GEN 12:5"/><verse number="6" style="v" sid="GEN 12:6"/>Abram atravesó toda esa región hasta Siquén, donde está el roble de Moré. En aquel tiempo, los cananeos vivían allí.
 <verse eid="GEN 12:6"/><verse number="7" style="v" sid="GEN 12:7"/>El Señor se le apareció a Abram y le dijo: «Esta tierra se la daré a tu descendencia». Y Abram construyó allí un altar al Señor, porque se le había aparecido.
@@ -356,7 +347,7 @@
 <verse eid="GEN 14:4"/><verse number="5" style="v" sid="GEN 14:5"/>Por eso, al año siguiente, el rey Quedorlaómer y los otros reyes que lo apoyaban fueron a la región de Astarot Carnayin y derrotaron a los refaítas. Luego fueron a la región de Jam y derrotaron a los zuzitas; después fueron a la región de Save Quiriatayin y derrotaron a los emitas.
 <verse eid="GEN 14:5"/><verse number="6" style="v" sid="GEN 14:6"/>Derrotaron también a los horeos en las montañas de Seír, hasta El Parán, que está cerca del desierto.
 <verse eid="GEN 14:6"/><verse number="7" style="v" sid="GEN 14:7"/>En su regreso, llegaron a Enmispat, que es Cades, y conquistaron todo el territorio de los amalecitas, y también el de los amorreos que habitaban en Jazezón Tamar.
-<verse eid="GEN 14:7"/><verse number="9" style="v" sid="GEN 14:9"/>Entonces salieron el rey de Sodoma, el rey de Gomorra, el rey de Admá, el rey de Zeboyín y el rey de Bela, también llamada Zoar. Lucharon contra ellos en el valle de Sidín: 
+<verse eid="GEN 14:7"/><verse number="9" style="v" sid="GEN 14:9"/>Entonces salieron el rey de Sodoma, el rey de Gomorra, el rey de Admá, el rey de Zeboyín y el rey de Bela, también llamada Zoar. Lucharon contra ellos en el valle de Sidín.
 <verse eid="GEN 14:9"/><verse number="10" style="v" sid="GEN 14:10"/>En el valle de Sidín había pozos de alquitrán. Cuando el rey de Sodoma y el de Gomorra huyeron,  cayeron en los pozos. Los demás que quedaron escaparon a los montes.
 <verse eid="GEN 14:10"/><verse number="11" style="v" sid="GEN 14:11"/>Los vencedores tomaron todos los bienes y provisiones de las ciudades de Sodoma y Gomorra. Luego regresaron a sus tierras.
 <verse eid="GEN 14:11"/><verse number="12" style="v" sid="GEN 14:12"/>Lot, el sobrino de Abram, vivía en Sodoma. A él también se lo llevaron, junto con todas sus posesiones.
@@ -370,27 +361,25 @@
 <verse eid="GEN 14:19"/><verse number="20" style="v" sid="GEN 14:20"/>Bendito sea el Dios Altísimo, que entregó a tus enemigos en tu mano». Entonces Abram le dio a Melquisedec la décima parte de todo lo que había recuperado.
 <verse eid="GEN 14:20"/><verse number="21" style="v" sid="GEN 14:21"/>El rey de Sodoma le dijo a Abram: —Dame las personas y quédate tú con los bienes.
 <verse eid="GEN 14:21"/><verse number="23" style="v" sid="GEN 14:23"/>Pero Abram le respondió: —He jurado por el Señor, el Dios Altísimo, Creador del cielo y de la tierra, 
-<verse eid="GEN 14:23"/><verse number="644" style="v" sid="GEN 14:644"/>que no tomaré nada de lo que es tuyo, ni un hilo ni una correa de sandalia, para que no digas: “Abram se hizo rico gracias a mí”.
-<verse eid="GEN 14:644"/><verse number="24" style="v" sid="GEN 14:24"/>No quiero nada para mí. Tan solo aceptaré de ti los alimentos que ya comieron mis criados. Pero los hombres que me acompañan, Aner, Escol y Mamré, sí tomarán lo que les corresponde.
+<verse eid="GEN 14:23"/><verse number="24" style="v" sid="GEN 14:24"/>No quiero nada para mí. Tan solo aceptaré de ti los alimentos que ya comieron mis criados. Pero los hombres que me acompañan, Aner, Escol y Mamré, sí tomarán lo que les corresponde.
 <verse eid="GEN 14:24"/><verse eid="GEN 14:24"/></para>
   <chapter eid="GEN 14"/>
   <chapter number="15" style="c" sid="GEN 15"/>
   <para style="p"><verse number="1" style="v" sid="GEN 15:1"/>Después de estas cosas, el Señor le dijo a Abram en una visión: ―Abram, no temas. Yo soy tu escudo. Tu recompensa será muy grande.
 <verse eid="GEN 15:1"/><verse number="3" style="v" sid="GEN 15:3"/>Pero Abram contestó: ―Mi Señor y Dios, ¿para qué me vas a dar algo si continúo sin hijos? 
-<verse eid="GEN 15:3"/><verse number="88" style="v" sid="GEN 15:88"/>Como no me has dado descendencia, mi heredero va a ser un criado de mi casa, Eliezer de Damasco.
-<verse eid="GEN 15:88"/><verse number="4" style="v" sid="GEN 15:4"/>Entonces el Señor le dijo: ―¡Ese hombre no será tu heredero! Tu  heredero será un hijo tuyo.
+<verse eid="GEN 15:3"/><verse number="4" style="v" sid="GEN 15:4"/>Entonces el Señor le dijo: ―¡Ese hombre no será tu heredero! Tu  heredero será un hijo tuyo.
 <verse eid="GEN 15:4"/><verse number="5" style="v" sid="GEN 15:5"/>El Señor lo sacó afuera y le dijo: —Mira los cielos y cuenta las estrellas, si es que puedes. ¡Así de numerosa será tu descendencia!
 <verse eid="GEN 15:5"/><verse number="6" style="v" sid="GEN 15:6"/>Abram creyó al Señor, y el Señor se lo contó como justicia.
 <verse eid="GEN 15:6"/><verse number="7" style="v" sid="GEN 15:7"/>También le dijo: ―Yo soy el Señor que te sacó de Ur de los caldeos, para darte esta tierra.
 <verse eid="GEN 15:7"/><verse number="8" style="v" sid="GEN 15:8"/>Pero Abram le respondió: ―Mi Señor y Dios, ¿cómo sabré que voy a poseerla?
-<verse eid="GEN 15:8"/><verse number="9" style="v" sid="GEN 15:9"/>Entonces el Señor le dijo: ―Tráeme una ternera de tres años, una cabra de tres años y un carnero de tres años, y una tórtola y un pichón.
+<verse eid="GEN 15:8"/><verse number="9" style="v" sid="GEN 15:9"/>Entonces el Señor le dijo: ―Tráeme una ternera de 3 años, una cabra de 3 años y un carnero de 3 años, y una tórtola y un pichón.
 <verse eid="GEN 15:9"/><verse number="10" style="v" sid="GEN 15:10"/>Abram trajo todos estos animales, los partió por la mitad y puso cada mitad frente a la otra. Pero las aves no las partió.
 <verse eid="GEN 15:10"/><verse number="11" style="v" sid="GEN 15:11"/>Las aves de rapiña empezaron a lanzarse sobre los cuerpos de los animales muertos, pero Abram las espantaba.
 <verse eid="GEN 15:11"/><verse number="12" style="v" sid="GEN 15:12"/>Cuando el sol se estaba poniendo, Abram quedó profundamente dormido y una terrible oscuridad cayó sobre él.
-<verse eid="GEN 15:12"/><verse number="13" style="v" sid="GEN 15:13"/>Entonces el Señor le dijo: ―Debes saber que tus descendientes vivirán como extranjeros en una tierra que no es la suya, y serán esclavizados y maltratados durante cuatrocientos años.
+<verse eid="GEN 15:12"/><verse number="13" style="v" sid="GEN 15:13"/>Entonces el Señor le dijo: ―Debes saber que tus descendientes vivirán como extranjeros en una tierra que no es la suya, y serán esclavizados y maltratados durante 400 años.
 <verse eid="GEN 15:13"/><verse number="14" style="v" sid="GEN 15:14"/>Pero yo juzgaré a la nación que los esclavice. Después de eso tus descendientes saldrán en libertad y con muchas riquezas.
 <verse eid="GEN 15:14"/><verse number="15" style="v" sid="GEN 15:15"/>En cuanto a ti, te reunirás con tus antepasados en paz y a una edad avanzada.
-<verse eid="GEN 15:15"/><verse number="16" style="v" sid="GEN 15:16"/>Después de cuatro generaciones, tus descendientes regresarán aquí, pues la maldad de los amorreos  no habrá llegado a su colmo hasta entonces.
+<verse eid="GEN 15:15"/><verse number="16" style="v" sid="GEN 15:16"/>Después de 4 generaciones, tus descendientes regresarán aquí, pues la maldad de los amorreos  no habrá llegado a su colmo hasta entonces.
 <verse eid="GEN 15:16"/><verse number="17" style="v" sid="GEN 15:17"/>Cuando el sol se puso y vino la oscuridad, pasaron entre los trozos de los animales muertos un horno humeante y una antorcha de fuego.
 <verse eid="GEN 15:17"/><verse number="18" style="v" sid="GEN 15:18"/>Ese día el Señor hizo un pacto con Abram. Le dijo: —A tu descendencia he dado esta tierra desde el río de Egipto hasta el gran río, el  Éufrates.
 <verse eid="GEN 15:18"/><verse number="21" style="v" sid="GEN 15:21"/>Es la tierra en la que ahora viven los quenitas, los quenizitas, los cadmoneos, 
@@ -399,7 +388,6 @@
   <chapter number="16" style="c" sid="GEN 16"/>
   <para style="p"><verse number="1" style="v" sid="GEN 16:1"/>Saray, la esposa de Abram, no le había dado hijos. Pero Saray tenía una esclava egipcia llamada Agar.
 <verse eid="GEN 16:1"/><verse number="3" style="v" sid="GEN 16:3"/>Así que le dijo a Abram: —Mira, el Señor no me ha permitido tener hijos. Acuéstate con mi sierva, y tal vez por medio de ella pueda tener descendencia. Abram aceptó. 
-<verse eid="GEN 16:3"/><verse number="3" style="v" sid="GEN 16:3"/>Entonces Saray tomó a su sierva Agar la egipcia y se la entregó. Llevaban diez años viviendo en Canaán cuando sucedió esto.
 <verse eid="GEN 16:3"/><verse number="4" style="v" sid="GEN 16:4"/>Abram se acostó con Agar, y ella quedó embarazada. Al ver que estaba embarazada, comenzó a tratar con desprecio a Saray, su señora.
 <verse eid="GEN 16:4"/><verse number="5" style="v" sid="GEN 16:5"/>Saray le dijo a Abram: —¡Tú tienes la culpa! Yo te entregué a mi sierva y, al ver que ha concebido, me mira con desprecio. ¡Que el Señor diga quién de nosotros tiene la culpa!
 <verse eid="GEN 16:5"/><verse number="6" style="v" sid="GEN 16:6"/>Entonces Abram le dijo a Saray: —Tu sierva está en tus manos. Haz con ella lo que bien te parezca. Saray comenzó a maltratar tanto a Agar que esta decidió huir.
@@ -412,11 +400,11 @@
 <verse eid="GEN 16:12"/><verse number="13" style="v" sid="GEN 16:13"/>Al Señor que hablaba con ella, Agar le llamó «el Dios que me ve»,<char style="em" closed="true">El Dios que me ve:</char>&amp;nbsp;En hebreo, el nombre es <char style="em" closed="true">El Roí.</char>" class="footnote-marker"&gt;2 pues se decía en su interior: «He visto al Dios que me ve».
 <verse eid="GEN 16:13"/><verse number="14" style="v" sid="GEN 16:14"/>También por eso llamó al pozo «Pozo del Viviente que me ve». Está entre Cades y Béred.
 <verse eid="GEN 16:14"/><verse number="15" style="v" sid="GEN 16:15"/>Así que Agar le dio un hijo a Abram, y Abram lo llamó Ismael.
-<verse eid="GEN 16:15"/><verse number="16" style="v" sid="GEN 16:16"/>Abram tenía ochenta y seis años cuando nació Ismael.
+<verse eid="GEN 16:15"/><verse number="16" style="v" sid="GEN 16:16"/>Abram tenía 86 años cuando nació Ismael.
 <verse eid="GEN 16:16"/><verse eid="GEN 16:16"/></para>
   <chapter eid="GEN 16"/>
   <chapter number="17" style="c" sid="GEN 17"/>
-  <para style="p"><verse number="1" style="v" sid="GEN 17:1"/>Cuando Abram tenía noventa y nueve años, el Señor se le apareció y le dijo: —Yo soy el Dios Todopoderoso. Camina delante de mí y sé íntegro.
+  <para style="p"><verse number="1" style="v" sid="GEN 17:1"/>Cuando Abram tenía 99 años, el Señor se le apareció y le dijo: —Yo soy el Dios Todopoderoso. Camina delante de mí y sé íntegro.
 <verse eid="GEN 17:1"/><verse number="2" style="v" sid="GEN 17:2"/>Yo confirmaré mi pacto contigo y te daré una descendencia numerosísima.
 <verse eid="GEN 17:2"/><verse number="3" style="v" sid="GEN 17:3"/>Entonces Abram cayó rostro en tierra, y Dios le habló, diciendo:
 <verse eid="GEN 17:3"/><verse number="4" style="v" sid="GEN 17:4"/>—Este es mi pacto contigo: serás padre de una multitud de naciones.
@@ -425,8 +413,7 @@
 <verse eid="GEN 17:6"/><verse number="7" style="v" sid="GEN 17:7"/>Haré mi pacto contigo y con tus descendientes por generaciones. Mediante este pacto, yo seré tu Dios y el de tus descendientes.
 <verse eid="GEN 17:7"/><verse number="8" style="v" sid="GEN 17:8"/>A ti y a tus descendientes daré la tierra donde vives ahora, toda la tierra de Canaán, como posesión eterna. Y yo seré el Dios de ustedes.
 <verse eid="GEN 17:8"/><verse number="10" style="v" sid="GEN 17:10"/>Dios dijo además a Abraham: ―Tú y tus descendientes después de ti guardarán mi pacto por generaciones. 
-<verse eid="GEN 17:10"/><verse number="5" style="v" sid="GEN 17:5"/>Este es mi pacto que guardarán: todo varón entre ustedes será circuncidado.
-<verse eid="GEN 17:5"/><verse number="11" style="v" sid="GEN 17:11"/>A cada varón le cortarás la carne de su prepucio. Esta será la señal del pacto entre nosotros.
+<verse eid="GEN 17:10"/><verse number="11" style="v" sid="GEN 17:11"/>A cada varón le cortarás la carne de su prepucio. Esta será la señal del pacto entre nosotros.
 <verse eid="GEN 17:11"/><verse number="12" style="v" sid="GEN 17:12"/>Todo varón de entre ustedes será circuncidado al octavo día de vida, tanto el nacido en casa como el comprado con dinero a algún extranjero. 
 <verse eid="GEN 17:12"/><verse number="13" style="v" sid="GEN 17:13"/>Todos, sin excepción, tanto el esclavo nacido en casa como el comprado por dinero, deben ser circuncidados. De esa manera todos los varones llevarán en su cuerpo la señal de mi pacto eterno.
 <verse eid="GEN 17:13"/><verse number="14" style="v" sid="GEN 17:14"/>Pero el varón incircunciso, el que no haya sido circuncidado, será eliminado de mi pueblo por haber violado mi pacto.
@@ -439,14 +426,14 @@
 <verse eid="GEN 17:20"/><verse number="21" style="v" sid="GEN 17:21"/>Pero mi pacto lo haré con Isaac, el hijo que te dará Sara dentro de un año, por estas fechas.
 <verse eid="GEN 17:21"/><verse number="22" style="v" sid="GEN 17:22"/>Cuando terminó de hablar, Dios se apartó de Abraham.
 <verse eid="GEN 17:22"/><verse number="23" style="v" sid="GEN 17:23"/>Ese mismo día Abraham tomó a su hijo Ismael y lo circuncidó. También tomó a todos los nacidos en su casa, a todos los esclavos que había comprado y a todos los varones de su casa. Los circuncidó, tal como Dios le había ordenado.
-<verse eid="GEN 17:23"/><verse number="25" style="v" sid="GEN 17:25"/>Abraham tenía noventa y nueve años cuando fue circuncidado, 
+<verse eid="GEN 17:23"/><verse number="25" style="v" sid="GEN 17:25"/>Abraham tenía 99 años cuando fue circuncidado, 
 <verse eid="GEN 17:25"/><verse number="26" style="v" sid="GEN 17:26"/>Abraham y su hijo Ismael  fueron circuncidados ese mismo día.
 <verse eid="GEN 17:26"/><verse number="27" style="v" sid="GEN 17:27"/>También ese mismo día fueron circuncidados con él todos los varones de su casa, tanto los nacidos en ella como los comprados a extranjeros.
 <verse eid="GEN 17:27"/><verse eid="GEN 17:27"/></para>
   <chapter eid="GEN 17"/>
   <chapter number="18" style="c" sid="GEN 18"/>
   <para style="p"><verse number="1" style="v" sid="GEN 18:1"/>El Señor se le apareció a Abraham junto al bosque de encinas de Mamré. Ese día Abraham estaba sentado a la entrada de su tienda, en la hora más calurosa del día.
-<verse eid="GEN 18:1"/><verse number="2" style="v" sid="GEN 18:2"/>Abraham levantó la mirada y vio a tres hombres de pie frente a él. Entonces corrió desde la entrada de su tienda a saludarlos. Se inclinó  rostro en tierra,
+<verse eid="GEN 18:1"/><verse number="2" style="v" sid="GEN 18:2"/>Abraham levantó la mirada y vio a 3 hombres de pie frente a él. Entonces corrió desde la entrada de su tienda a saludarlos. Se inclinó  rostro en tierra,
 <verse eid="GEN 18:2"/><verse number="3" style="v" sid="GEN 18:3"/>y dijo: —Mi señor, si me haces este gran favor, te ruego que no pases de largo, sino que te detengas aquí un momento.
 <verse eid="GEN 18:3"/><verse number="4" style="v" sid="GEN 18:4"/>Voy a traer un poco de agua para que se laven los pies, y pueden quedarse a descansar bajo la sombra de este árbol.
 <verse eid="GEN 18:4"/><verse number="5" style="v" sid="GEN 18:5"/>Y ya que han pasado por la tienda de este servidor de ustedes, les voy a traer algo de comer, para que recobren las fuerzas y puedan continuar su camino. —Muy bien —dijeron ellos—, aceptamos tu invitación.
@@ -466,16 +453,16 @@
 <verse eid="GEN 18:18"/><verse number="19" style="v" sid="GEN 18:19"/>Yo lo he escogido para que instruya a sus descendientes, a fin de  que guarden el camino del Señor y practiquen lo que es justo y recto. Así  el Señor hará venir sobre Abraham lo que ha hablado acerca de él».
 <verse eid="GEN 18:19"/><verse number="20" style="v" sid="GEN 18:20"/>Así que el Señor le dijo a Abraham: ―El clamor contra Sodoma y Gomorra es grande, y su pecado es muy grave.
 <verse eid="GEN 18:20"/><verse number="21" style="v" sid="GEN 18:21"/>Ahora bajaré y veré si el clamor que ha llegado a mí es justificado, si han hecho todo lo que ese clamor indica.
-<verse eid="GEN 18:21"/><verse number="23" style="v" sid="GEN 18:23"/>Dos de los varones siguieron su camino hacia Sodoma, pero Abraham se quedó de pie delante del Señor. 
-<verse eid="GEN 18:23"/><verse number="24" style="v" sid="GEN 18:24"/>¿Y si hay cincuenta justos en la ciudad? ¿De verdad exterminarás y no perdonarás la ciudad por amor a los cincuenta justos que hay en ella?
+<verse eid="GEN 18:21"/><verse number="23" style="v" sid="GEN 18:23"/>Siguieron su camino hacia Sodoma 2 de los varones, pero Abraham se quedó de pie delante del Señor. 
+<verse eid="GEN 18:23"/><verse number="24" style="v" sid="GEN 18:24"/>—¿Y si hay 50 justos en la ciudad? ¿De verdad exterminarás y no perdonarás la ciudad por amor a los 50 justos que hay en ella?
 <verse eid="GEN 18:24"/><verse number="25" style="v" sid="GEN 18:25"/>¡Lejos de ti hacer tal cosa: matar al justo junto con el malvado! ¡No querrás tratar al justo como al malvado! ¿El Juez de toda la tierra no ha de hacer lo que es justo?
-<verse eid="GEN 18:25"/><verse number="26" style="v" sid="GEN 18:26"/>El Señor le contestó: —Si encuentro cincuenta justos en Sodoma, perdonaré toda la ciudad por causa de ellos.
+<verse eid="GEN 18:25"/><verse number="26" style="v" sid="GEN 18:26"/>El Señor le contestó: —Si encuentro 50 justos en Sodoma, perdonaré toda la ciudad por causa de ellos.
 <verse eid="GEN 18:26"/><verse number="27" style="v" sid="GEN 18:27"/>Abraham volvió a hablar: —Sé que soy muy atrevido al hablar a mi Señor, cuando no soy más que polvo y ceniza.
-<verse eid="GEN 18:27"/><verse number="28" style="v" sid="GEN 18:28"/>Quizá falten cinco para llegar a los cincuenta justos. ¿Destruirías la ciudad por faltar esos cinco? El Señor le dijo: —Si encontrara en la ciudad cuarenta y cinco justos, no la destruiría.
-<verse eid="GEN 18:28"/><verse number="29" style="v" sid="GEN 18:29"/>Abraham continuó: —Quizá se encuentren allí cuarenta. Y el Señor le respondió: —No la destruiría, por causa de esos cuarenta.
-<verse eid="GEN 18:29"/><verse number="30" style="v" sid="GEN 18:30"/>—No te enojes conmigo, mi Señor —le rogó Abraham—, pero deja que insista: quizá se encuentren allí treinta. Y el Señor le dijo: —No destruiré la ciudad si encuentro en ella treinta justos.
-<verse eid="GEN 18:30"/><verse number="31" style="v" sid="GEN 18:31"/>Abraham siguió: —Me atreveré a insistir a mi Señor: quizá se encuentren allí veinte. Y el Señor le contestó: —No la destruiré, por causa de los veinte.
-<verse eid="GEN 18:31"/><verse number="32" style="v" sid="GEN 18:32"/>Finalmente, Abraham dijo: —No te enojes, Señor. Esto es lo último que te digo: quizá se encuentren allí diez. Y el Señor le dijo: —No la destruiré, por causa de los diez.
+<verse eid="GEN 18:27"/><verse number="28" style="v" sid="GEN 18:28"/>Quizá falten 5 para llegar a los 50 justos. ¿Destruirías la ciudad por faltar esos 5? El Señor le dijo: —Si encontrara en la ciudad 45 justos, no la destruiría.
+<verse eid="GEN 18:28"/><verse number="29" style="v" sid="GEN 18:29"/>Abraham continuó: —Quizá se encuentren allí 40. Y el Señor le respondió: —No la destruiría, por causa de esos 40.
+<verse eid="GEN 18:29"/><verse number="30" style="v" sid="GEN 18:30"/>—No te enojes conmigo, mi Señor —le rogó Abraham—, pero deja que insista: quizá se encuentren allí 30. Y el Señor le dijo: —No destruiré la ciudad si encuentro en ella 30 justos.
+<verse eid="GEN 18:30"/><verse number="31" style="v" sid="GEN 18:31"/>Abraham siguió: —Me atreveré a insistir a mi Señor: quizá se encuentren allí 20. Y el Señor le contestó: —No la destruiré, por causa de los 20.
+<verse eid="GEN 18:31"/><verse number="32" style="v" sid="GEN 18:32"/>Finalmente, Abraham dijo: —No te enojes, Señor. Esto es lo último que te digo: quizá se encuentren allí 10. Y el Señor le dijo: —No la destruiré, por causa de los 10.
 <verse eid="GEN 18:32"/><verse number="33" style="v" sid="GEN 18:33"/>Cuando el Señor terminó de hablar con Abraham, continuó su camino hacia Sodoma. Y Abraham regresó a su tienda.
 <verse eid="GEN 18:33"/><verse eid="GEN 18:33"/></para>
   <chapter eid="GEN 18"/>
@@ -487,21 +474,20 @@
 <verse eid="GEN 19:4"/><verse number="5" style="v" sid="GEN 19:5"/>Llamaron a Lot y le dijeron: —¿Dónde están los hombres que vinieron a tu casa esta noche? ¡Sácalos para que tengamos relaciones sexuales con ellos!
 <verse eid="GEN 19:5"/><verse number="6" style="v" sid="GEN 19:6"/>Lot salió a hablar con ellos, cerró la puerta trás de sí
 <verse eid="GEN 19:6"/><verse number="7" style="v" sid="GEN 19:7"/>y les dijo: —Por favor, hermanos míos, no cometan esta maldad.
-<verse eid="GEN 19:7"/><verse number="8" style="v" sid="GEN 19:8"/>Miren, tengo dos hijas vírgenes. Las sacaré y podrán hacer con ellas lo que les parezca. Pero no hagan nada a estos hombres, pues han venido a hospedarse bajo mi techo.
+<verse eid="GEN 19:7"/><verse number="8" style="v" sid="GEN 19:8"/>Miren, tengo 2 hijas vírgenes. Las sacaré y podrán hacer con ellas lo que les parezca. Pero no hagan nada a estos hombres, pues han venido a hospedarse bajo mi techo.
 <verse eid="GEN 19:8"/><verse number="9" style="v" sid="GEN 19:9"/>—¡Quítate de en medio! —le respondieron—. Ni siquiera eres de aquí y ahora quieres decirnos qué podemos hacer o no. ¡Pues ahora te trataremos peor que a ellos! Así que comenzaron a maltratar a Lot, y se acercaron a la puerta para echarla abajo.
-<verse eid="GEN 19:9"/><verse number="10" style="v" sid="GEN 19:10"/>Pero los dos varones agarraron a Lot, lo metieron en la casa y cerraron la puerta.
+<verse eid="GEN 19:9"/><verse number="10" style="v" sid="GEN 19:10"/>Pero los 2 varones agarraron a Lot, lo metieron en la casa y cerraron la puerta.
 <verse eid="GEN 19:10"/><verse number="11" style="v" sid="GEN 19:11"/>Luego dejaron ciegos a los hombres que estaban en la entrada de la casa, desde el más joven hasta el más viejo, de modo que no pudieron encontrar la puerta.
 <verse eid="GEN 19:11"/><verse number="12" style="v" sid="GEN 19:12"/>Entonces los varones le dijeron a Lot: —¿Tienes más familia aquí en la ciudad? Saca de aquí a tus yernos, tus hijos, tus hijas y a todos los que te pertenecen,
 <verse eid="GEN 19:12"/><verse number="13" style="v" sid="GEN 19:13"/>porque vamos a destruir este lugar. El clamor contra ellos ha llegado hasta el Señor, y él nos ha enviado para destruirla.
 <verse eid="GEN 19:13"/><verse number="14" style="v" sid="GEN 19:14"/>Lot salió y les dijo sus futuros yernos: —¡Apresúrense! ¡Salgan de la ciudad, porque el Señor va a destruirla!Pero los jóvenes creyeron que estaba bromeando.
 <verse eid="GEN 19:14"/><verse number="15" style="v" sid="GEN 19:15"/>Al amanecer, los ángeles urgieron a Lot: —¡Levántate! Toma a tu esposa y a tus dos hijas y sal de este lugar, para que no perezcas en el castigo de la ciudad.
-<verse eid="GEN 19:15"/><verse number="16" style="v" sid="GEN 19:16"/>Pero Lot titubeaba, así que los hombres lo tomaron de la mano, junto con su esposa y sus dos hijas. Los sacaron y los dejaron fuera de la ciudad, porque el Señor les tuvo misericordia.
+<verse eid="GEN 19:15"/><verse number="16" style="v" sid="GEN 19:16"/>Pero Lot titubeaba, así que los hombres lo tomaron de la mano, junto con su esposa y sus 2 hijas. Los sacaron y los dejaron fuera de la ciudad, porque el Señor les tuvo misericordia.
 <verse eid="GEN 19:16"/><verse number="17" style="v" sid="GEN 19:17"/>Cuando los sacaron de la ciudad, uno de los ángeles le dijo: —¡Huye! No mires atrás ni te detengas en ninguna parte de la llanura; escapa a las montañas, no sea que perezcas.
 <verse eid="GEN 19:17"/><verse number="19" style="v" sid="GEN 19:19"/>Pero Lot les dijo: —Por favor, señores míos, 
 <verse eid="GEN 19:19"/><verse number="20" style="v" sid="GEN 19:20"/>Cerca de aquí hay una ciudad pequeña. Podría refugiarme allí. Déjenme buscar refugio en ella. Es una ciudad muy pequeña. En ella estaré a salvo.
 <verse eid="GEN 19:20"/><verse number="22" style="v" sid="GEN 19:22"/>—Muy bien —dijo uno de los ángeles—. He escuchado tu petición y no destruiré la ciudad de la que hablas. 
-<verse eid="GEN 19:22"/><verse number="06" style="v" sid="GEN 19:06"/>¡Apresúrate, porque no puedo hacer nada hasta que llegues! Por eso, desde entonces, la ciudad se llamó Zoar.<char style="em" closed="true">Zoar: </char>En hebreo, <char style="em" closed="true">Zoar</char> significa <char style="em" closed="true">pequeña.</char>" class="footnote-marker"&gt;2
-<verse eid="GEN 19:06"/><verse number="23" style="v" sid="GEN 19:23"/>Lot llegó a Zoar cuando el sol estaba saliendo.
+<verse eid="GEN 19:22"/><verse number="23" style="v" sid="GEN 19:23"/>Lot llegó a Zoar cuando el sol estaba saliendo.
 <verse eid="GEN 19:23"/><verse number="24" style="v" sid="GEN 19:24"/>Entonces el Señor hizo que sobre Sodoma y Gomorra lloviera del cielo azufre y fuego.
 <verse eid="GEN 19:24"/><verse number="25" style="v" sid="GEN 19:25"/>De este modo destruyó por completo esas ciudades y a todos sus habitantes. También acabó con toda la vegetación que había en esa llanura.
 <verse eid="GEN 19:25"/><verse number="26" style="v" sid="GEN 19:26"/>Pero la esposa de Lot miró hacia atrás, y quedó convertida en una estatua de sal.
@@ -514,7 +500,7 @@
 <verse eid="GEN 19:32"/><verse number="33" style="v" sid="GEN 19:33"/>Aquella noche embriagaron a su padre, y la hija mayor se acostó con él. Pero Lot no se dio cuenta de nada.
 <verse eid="GEN 19:33"/><verse number="34" style="v" sid="GEN 19:34"/>La mayor le dijo a la menor: —Anoche me acosté con nuestro padre; démosle vino también esta noche, y acuéstate tú con él, así tendremos descendencia.
 <verse eid="GEN 19:34"/><verse number="35" style="v" sid="GEN 19:35"/>Esa noche volvieron a emborracharlo. La hija menor entró, se acostó con él y salió. Pero Lot no se dio cuenta de nada.
-<verse eid="GEN 19:35"/><verse number="36" style="v" sid="GEN 19:36"/>Y las dos hijas de Lot quedaron embarazadas de su padre.
+<verse eid="GEN 19:35"/><verse number="36" style="v" sid="GEN 19:36"/>Y las 2 hijas de Lot quedaron embarazadas de su padre.
 <verse eid="GEN 19:36"/><verse number="37" style="v" sid="GEN 19:37"/>La mayor dio a luz un hijo y lo llamó Moab. Este es el padre de los actuales moabitas.
 <verse eid="GEN 19:37"/><verse number="38" style="v" sid="GEN 19:38"/>La menor también dio a luz un hijo y lo llamó Ben Amí. Este es el padre de los actuales amonitas.
 <verse eid="GEN 19:38"/><verse eid="GEN 19:38"/></para>
@@ -565,11 +551,11 @@
 <verse eid="GEN 21:23"/><verse number="24" style="v" sid="GEN 21:24"/>Abraham respondió: —Lo juro.
 <verse eid="GEN 21:24"/><verse number="25" style="v" sid="GEN 21:25"/>Luego, Abraham le reclamó a Abimélec por un pozo que los siervos de él le habían quitado.
 <verse eid="GEN 21:25"/><verse number="26" style="v" sid="GEN 21:26"/>Pero Abimélec dijo:—No sé quién pudo haber hecho eso. Yo no sabía nada. No me dijiste nada.
-<verse eid="GEN 21:26"/><verse number="27" style="v" sid="GEN 21:27"/>Entonces Abraham tomó ovejas y vacas y se las dio a Abimélec. Y los dos hicieron un pacto.
-<verse eid="GEN 21:27"/><verse number="28" style="v" sid="GEN 21:28"/>Abraham apartó siete corderas del rebaño.
-<verse eid="GEN 21:28"/><verse number="29" style="v" sid="GEN 21:29"/>Entonces Abimélec le preguntó: —¿Para qué son esas siete corderas que has apartado?
+<verse eid="GEN 21:26"/><verse number="27" style="v" sid="GEN 21:27"/>Entonces Abraham tomó ovejas y vacas y se las dio a Abimélec. Y los 2 hicieron un pacto.
+<verse eid="GEN 21:27"/><verse number="28" style="v" sid="GEN 21:28"/>Abraham apartó 7 corderas del rebaño.
+<verse eid="GEN 21:28"/><verse number="29" style="v" sid="GEN 21:29"/>Entonces Abimélec le preguntó: —¿Para qué son esas 7 corderas que has apartado?
 <verse eid="GEN 21:29"/><verse number="30" style="v" sid="GEN 21:30"/>Abraham contestó: —Estas siete corderas que te regalo servirán de testimonio de que este pozo lo cavé yo.
-<verse eid="GEN 21:30"/><verse number="31" style="v" sid="GEN 21:31"/>Desde ese momento, ese lugar se llamó Berseba,<char style="em" closed="true">Berseba: </char>En hebreo, <char style="em" closed="true">Berseba </char>quiere decir&amp;nbsp;<char style="em" closed="true">pozo del juramento&amp;nbsp;</char>o<char style="em" closed="true">pozo de los siete</char>." class="footnote-marker"&gt;1 porque allí los dos hicieron un juramento.
+<verse eid="GEN 21:30"/><verse number="31" style="v" sid="GEN 21:31"/>Desde ese momento, ese lugar se llamó Berseba,1 porque allí los 2 hicieron un juramento.
 <verse eid="GEN 21:31"/><verse number="32" style="v" sid="GEN 21:32"/>Después de haber hecho este pacto en Berseba, el rey Abimélec y Ficol, el comandante de su ejército, volvieron al país de los filisteos.
 <verse eid="GEN 21:32"/><verse number="33" style="v" sid="GEN 21:33"/>Abraham plantó un árbol tamarisco allí en Berseba. Invocó allí el nombre del Señor, el Dios eterno.
 <verse eid="GEN 21:33"/><verse number="34" style="v" sid="GEN 21:34"/>Y Abraham habitó como extranjero en la tierra de los filisteos por muchos días.
@@ -596,13 +582,11 @@
 <verse eid="GEN 22:17"/><verse number="18" style="v" sid="GEN 22:18"/>Por haberme obedecido, todas las naciones de la tierra serán bendecidas por medio de tu descendencia.
 <verse eid="GEN 22:18"/><verse number="19" style="v" sid="GEN 22:19"/>Entonces Abraham regresó a donde estaban sus siervos. Se levantaron y partieron juntos hacia Berseba, donde Abraham se quedó a vivir.
 <verse eid="GEN 22:19"/><verse number="23" style="v" sid="GEN 22:23"/>Pasado cierto tiempo, le llegó a Abraham la noticia de que Milca también le había dado hijos a Najor, su hermano. 
-<verse eid="GEN 22:23"/><verse number="4" style="v" sid="GEN 22:4"/>El primogénito fue Uz; luego nacieron Buz y Quemuel, que es el padre de Aram. 
-<verse eid="GEN 22:4"/><verse number="4" style="v" sid="GEN 22:4"/>Tuvo después a Quésed, Jazó, Pildás, Yidlaf y Betuel. 
-<verse eid="GEN 22:4"/><verse number="24" style="v" sid="GEN 22:24"/>Najor tuvo además cuatro hijos con su concubina Reumá. Estos hijos fueron Tébaj, Gaján, Tajás y Macá.
+<verse eid="GEN 22:23"/><verse number="24" style="v" sid="GEN 22:24"/>Najor tuvo además cuatro hijos con su concubina Reumá. Estos hijos fueron Tébaj, Gaján, Tajás y Macá.
 <verse eid="GEN 22:24"/><verse eid="GEN 22:24"/></para>
   <chapter eid="GEN 22"/>
   <chapter number="23" style="c" sid="GEN 23"/>
-  <para style="p"><verse number="1" style="v" sid="GEN 23:1"/>Sara vivió ciento veintisiete años
+  <para style="p"><verse number="1" style="v" sid="GEN 23:1"/>Sara vivió 127 años
 <verse eid="GEN 23:1"/><verse number="2" style="v" sid="GEN 23:2"/>y murió en Quiriat Arbá, es decir, en Hebrón, en la tierra de Canaán. Abraham  lloró a Sara e hizo duelo por ella.
 <verse eid="GEN 23:2"/><verse number="3" style="v" sid="GEN 23:3"/>Luego salió de donde estaban los restos de su esposa y fue a proponerles algo a los hititas. Les dijo:
 <verse eid="GEN 23:3"/><verse number="4" style="v" sid="GEN 23:4"/>—Sé que soy un extranjero entre ustedes, un forastero, pero les ruego que me vendan un sepulcro para enterrar a mi esposa.
@@ -616,8 +600,8 @@
 <verse eid="GEN 23:11"/><verse number="12" style="v" sid="GEN 23:12"/>Abraham se inclinó una vez más ante ellos
 <verse eid="GEN 23:12"/><verse number="13" style="v" sid="GEN 23:13"/>y le dijo a Efrón delante de todos: —Por favor, escúchame. Yo te pagaré el precio del campo. Acepta el dinero, para que pueda enterrar allí a mi esposa.
 <verse eid="GEN 23:13"/><verse number="14" style="v" sid="GEN 23:14"/>Efrón le respondió a Abraham:
-<verse eid="GEN 23:14"/><verse number="15" style="v" sid="GEN 23:15"/>—Señor mío, escúchame. El terreno vale cuatrocientas monedas de plata. Pero ¿qué importancia tiene esa cantidad para nosotros? Ve y entierra a tu esposa.
-<verse eid="GEN 23:15"/><verse number="16" style="v" sid="GEN 23:16"/>Abraham se puso de acuerdo con Efrón. Pesó para él la cantidad de plata que había mencionado delante de los hititas, cuatrocientas monedas, conforme al peso habitual de los comerciantes.
+<verse eid="GEN 23:14"/><verse number="15" style="v" sid="GEN 23:15"/>—Señor mío, escúchame. El terreno vale 400 monedas de plata. Pero ¿qué importancia tiene esa cantidad para nosotros? Ve y entierra a tu esposa.
+<verse eid="GEN 23:15"/><verse number="16" style="v" sid="GEN 23:16"/>Abraham se puso de acuerdo con Efrón. Pesó para él la cantidad de plata que había mencionado delante de los hititas, 400 monedas, conforme al peso habitual de los comerciantes.
 <verse eid="GEN 23:16"/><verse number="17" style="v" sid="GEN 23:17"/>Así fue como el campo de Efrón, que está en Macpela, frente a Mamré, además de la cueva y todos los árboles que hay en él, pasaron a ser propiedad de Abraham.
 <verse eid="GEN 23:17"/><verse number="18" style="v" sid="GEN 23:18"/>Los hititas y  todos los que pasaban por la puerta de la ciudad fueron testigos de la compra.
 <verse eid="GEN 23:18"/><verse number="19" style="v" sid="GEN 23:19"/>Abraham sepultó a su esposa en la cueva del campo de Macpela, cerca de Mamré, es decir, en Hebrón, en la tierra de Canaán.
@@ -634,7 +618,7 @@
 <verse eid="GEN 24:6"/><verse number="7" style="v" sid="GEN 24:7"/>El Señor, el Dios del cielo,  me sacó de la casa de mi padre y de la tierra donde nací. Juró dar esta tierra a mis descendientes. Él enviará su ángel delante de ti para que encuentres allá una esposa para mi hijo.
 <verse eid="GEN 24:7"/><verse number="8" style="v" sid="GEN 24:8"/>Pero si ella no quiere venir contigo, quedarás libre de este juramento. Eso sí, a mi hijo no lo llevarás de vuelta allá.
 <verse eid="GEN 24:8"/><verse number="9" style="v" sid="GEN 24:9"/>Entonces el criado puso su mano bajo el muslo de su amo Abraham y juró que cumpliría con su encargo.
-<verse eid="GEN 24:9"/><verse number="10" style="v" sid="GEN 24:10"/>Luego tomó diez camellos de Abraham y los cargó con toda clase de regalos de su amo. Emprendió camino hacia Aram Najarayin, a la ciudad de Najor.
+<verse eid="GEN 24:9"/><verse number="10" style="v" sid="GEN 24:10"/>Luego tomó 10 camellos de Abraham y los cargó con toda clase de regalos de su amo. Emprendió camino hacia Aram Najarayin, a la ciudad de Najor.
 <verse eid="GEN 24:10"/><verse number="11" style="v" sid="GEN 24:11"/>Una vez allí, hizo que los camellos se arrodillaran junto al pozo de agua que había fuera de la ciudad. Era la hora del atardecer, cuando las mujeres salían a buscar agua.
 <verse eid="GEN 24:11"/><verse number="12" style="v" sid="GEN 24:12"/>Entonces comenzó a orar: «Señor, Dios de mi amo Abraham, te ruego que me vaya bien y que muestres tu misericordia a mi amo Abraham.
 <verse eid="GEN 24:12"/><verse number="13" style="v" sid="GEN 24:13"/>Mira, aquí estoy, en la fuente, a la hora en que las muchachas del pueblo vienen a sacar agua.
@@ -646,12 +630,12 @@
 <verse eid="GEN 24:18"/><verse number="19" style="v" sid="GEN 24:19"/>Cuando el siervo terminó de beber, la joven dijo: —Sacaré también agua para tus camellos, para que beban hasta saciarse.
 <verse eid="GEN 24:19"/><verse number="20" style="v" sid="GEN 24:20"/>Enseguida inclinó el cántaro sobre el bebedero, corrió de nuevo al pozo para sacar agua y sacó para todos los camellos.
 <verse eid="GEN 24:20"/><verse number="21" style="v" sid="GEN 24:21"/>Mientras tanto, él la observaba en silencio, preguntándose si el Señor le había concedido éxito a su viaje.
-<verse eid="GEN 24:21"/><verse number="22" style="v" sid="GEN 24:22"/>Cuando los camellos terminaron de beber, el hombre tomó un anillo de oro para la nariz, de unos seis gramos de peso, y se lo puso a Rebeca. También le puso en las manos dos pulseras de oro, que pesaban unos 115 gramos.
+<verse eid="GEN 24:21"/><verse number="22" style="v" sid="GEN 24:22"/>Cuando los camellos terminaron de beber, el hombre tomó un anillo de oro para la nariz, de unos 6 gramos de peso, y se lo puso a Rebeca. También le puso en las manos 2 pulseras de oro, que pesaban unos 115 gramos.
 <verse eid="GEN 24:22"/><verse number="23" style="v" sid="GEN 24:23"/>Luego el criado le preguntó: —Por favor, ¿podrías decirme quién es tu padre? ¿Habrá lugar para pasar la noche en su casa?
 <verse eid="GEN 24:23"/><verse number="24" style="v" sid="GEN 24:24"/>—Mi padre es Betuel, hijo de Milca y Najor —contestó ella—.
 <verse eid="GEN 24:24"/><verse number="25" style="v" sid="GEN 24:25"/>En casa tenemos paja y mucho forraje para los camellos,  también un lugar para huéspedes.
 <verse eid="GEN 24:25"/><verse number="26" style="v" sid="GEN 24:26"/>Entonces el criado se arrodilló y, postrado ante el Señor,
-<verse eid="GEN 24:26"/><verse number="27" style="v" sid="GEN 24:27"/>dijo: «Bendito sea el Señor, Dios de mi señor Abraham, que no ha dejado de mostrarle su misericordia y su fidelidad. El Señor me ha guiado a la casa de los familiares de mi amo».
+<verse eid="GEN 24:26"/><verse number="27" style="v" sid="GEN 24:27"/>dijo:—Bendito sea el Señor, Dios de mi señor Abraham, que no ha dejado de mostrarle su misericordia y su fidelidad. El Señor me ha guiado a la casa de los familiares de mi amo.
 <verse eid="GEN 24:27"/><verse number="28" style="v" sid="GEN 24:28"/>La joven corrió a la casa para contarle estas cosas a su familia.
 <verse eid="GEN 24:28"/><verse number="30" style="v" sid="GEN 24:30"/>Rebeca tenía un hermano llamado Labán. Este corrió hacia el pozo en busca del criado. Lo encontró allí, junto a los camellos.  
 <verse eid="GEN 24:30"/><verse number="31" style="v" sid="GEN 24:31"/>Al ver al criado, Labán le dijo: ―¡Ven, bendito del Señor, quédate con nosotros! No tienes por qué quedarte aquí afuera. Ya he preparado un lugar para ti. También hay sitio para los camellos.
@@ -677,7 +661,7 @@
 <verse eid="GEN 24:51"/><verse number="52" style="v" sid="GEN 24:52"/>Al oír la respuesta, el siervo de Abraham se postró en tierra ante el Señor.
 <verse eid="GEN 24:52"/><verse number="53" style="v" sid="GEN 24:53"/>Después sacó objetos de plata y de oro, y vestidos, y se los dio a Rebeca. También entregó regalos a su hermano y a su madre.
 <verse eid="GEN 24:53"/><verse number="54" style="v" sid="GEN 24:54"/>Luego el siervo y sus acompañantes comieron y bebieron, y pasaron la noche allí. Al amanecer se levantaron, y el siervo dijo: —Déjenme partir a la casa de mi amo.
-<verse eid="GEN 24:54"/><verse number="55" style="v" sid="GEN 24:55"/>Pero el hermano y la madre de Rebeca dijeron: —Que la joven se quede con nosotros diez días más. Después de eso podrá irse.
+<verse eid="GEN 24:54"/><verse number="55" style="v" sid="GEN 24:55"/>Pero el hermano y la madre de Rebeca dijeron: —Que la joven se quede con nosotros 10 días más. Después de eso podrá irse.
 <verse eid="GEN 24:55"/><verse number="56" style="v" sid="GEN 24:56"/>Pero él les dijo: —No hagan que me retrase, porque el Señor ha prosperado mi viaje. Déjenme partir para ir a la casa de mi amo.
 <verse eid="GEN 24:56"/><verse number="57" style="v" sid="GEN 24:57"/>Ellos dijeron:—Llamemos a la joven a ver qué opina.
 <verse eid="GEN 24:57"/><verse number="58" style="v" sid="GEN 24:58"/>Llamaron a Rebeca y le preguntaron: —¿Quieres irte con este hombre? Ella respondió: —Sí.
@@ -699,18 +683,18 @@
 <verse eid="GEN 25:3"/><verse number="4" style="v" sid="GEN 25:4"/>Los hijos de Madián fueron Efá, Éfer, Janoc, Abidá y Eldá. Todos estos fueron descendientes de Cetura.
 <verse eid="GEN 25:4"/><verse number="5" style="v" sid="GEN 25:5"/>Abraham le entregó a Isaac todo cuanto poseía.
 <verse eid="GEN 25:5"/><verse number="6" style="v" sid="GEN 25:6"/>A los hijos que tuvo con las concubinas les dio regalos y los apartó de su hijo Isaac. Los envió a las tierra del oriente.
-<verse eid="GEN 25:6"/><verse number="8" style="v" sid="GEN 25:8"/>Abraham vivió ciento setenta y cinco años.
+<verse eid="GEN 25:6"/><verse number="8" style="v" sid="GEN 25:8"/>Abraham vivió ciento 75 años.
 <verse eid="GEN 25:8"/><verse number="10" style="v" sid="GEN 25:10"/>Fue sepultado por sus hijos Isaac e Ismael en la cueva de Macpela, en el campo de Efrón hijo de Zojar, el hitita, que está cerca de Mamré. 
 <verse eid="GEN 25:10"/><verse number="11" style="v" sid="GEN 25:11"/>Después de la muerte de Abraham, Dios bendijo a Isaac, su hijo. Isaac se quedó a vivir junto al Pozo del Viviente que me ve.
 <verse eid="GEN 25:11"/><verse number="15" style="v" sid="GEN 25:15"/>Esta es la historia de  Ismael, el hijo que Abraham tuvo con Agar la egipcia, sierva de Sara. 
-<verse eid="GEN 25:15"/><verse number="16" style="v" sid="GEN 25:16"/>Estos fueron y así se llamaban los doce hijos de Ismael. Así los conocían en sus campamentos y en sus tiendas. Fueron doce jefes de doce tribus.
-<verse eid="GEN 25:16"/><verse number="17" style="v" sid="GEN 25:17"/>Ismael vivió ciento treinta y siete años. Murió y fue a reunirse con sus antepasados.
+<verse eid="GEN 25:15"/><verse number="16" style="v" sid="GEN 25:16"/>Estos fueron y así se llamaban los 12 hijos de Ismael. Así los conocían en sus campamentos y en sus tiendas. Fueron 12 jefes de 12 tribus.
+<verse eid="GEN 25:16"/><verse number="17" style="v" sid="GEN 25:17"/>Ismael vivió 137 años. Murió y fue a reunirse con sus antepasados.
 <verse eid="GEN 25:17"/><verse number="18" style="v" sid="GEN 25:18"/>Los descendientes de Ismael habitaron en la región que está entre Javilá y Sur,  frente a Egipto, en la ruta que va a Asiria. Allí estuvieron, en conflicto con todos sus parientes.
 <verse eid="GEN 25:18"/><verse number="19" style="v" sid="GEN 25:19"/>Esta es la historia de Isaac, el hijo de Abraham.
-<verse eid="GEN 25:19"/><verse number="20" style="v" sid="GEN 25:20"/>Isaac tenía cuarenta años cuando se casó con Rebeca, hija de Betuel de Padán Aram y hermana de Labán. Su padre y su hermano eran arameos.
+<verse eid="GEN 25:19"/><verse number="20" style="v" sid="GEN 25:20"/>Isaac tenía 40 años cuando se casó con Rebeca, hija de Betuel de Padán Aram y hermana de Labán. Su padre y su hermano eran arameos.
 <verse eid="GEN 25:20"/><verse number="21" style="v" sid="GEN 25:21"/>Isaac oró al Señor por su esposa, porque ella era estéril. El Señor atendió su súplica y Rebeca quedó embarazada.
 <verse eid="GEN 25:21"/><verse number="22" style="v" sid="GEN 25:22"/>Los niños se peleaban dentro de su vientre. Ella se dijo: «Si esto va a seguir así, ¿para qué vivir?». Entonces fue a consultar al Señor.
-<verse eid="GEN 25:22"/><verse number="23" style="v" sid="GEN 25:23"/>Y Dios le dijo: —En tu vientre hay dos naciones, dos pueblos separados desde tus entrañas. Uno será más fuerte que el otro, y el menor servirá al mayor.
+<verse eid="GEN 25:22"/><verse number="23" style="v" sid="GEN 25:23"/>Y Dios le dijo: —En tu vientre hay dos naciones, 2 pueblos separados desde tus entrañas. Uno será más fuerte que el otro, y el menor servirá al mayor.
 <verse eid="GEN 25:23"/><verse number="24" style="v" sid="GEN 25:24"/>Llegado el momento del parto, vio que tenía mellizos.
 <verse eid="GEN 25:24"/><verse number="25" style="v" sid="GEN 25:25"/>El primero que nació era pelirrojo y muy velludo. A este lo llamaron Esaú.<char style="em" closed="true">Esaú: </char>En hebreo, <char style="em" closed="true">Esaú</char> puede significar <char style="em" closed="true">velludo.</char>" class="footnote-marker"&gt;1
 <verse eid="GEN 25:25"/><verse number="26" style="v" sid="GEN 25:26"/>Luego salió su hermano, que agarraba con la mano el talón de Esaú. A este lo llamaron Jacob.<char style="em" closed="true">Jacob: </char>En hebreo,&amp;nbsp;Jacob&amp;nbsp;quiere decir&amp;nbsp;él agarra el talón.&amp;nbsp;Era una manera hebrea de expresar que alguien engaña a otro." class="footnote-marker"&gt;2 Isaac tenía sesenta años cuando nacieron.
@@ -759,7 +743,7 @@
 <verse eid="GEN 26:31"/><verse number="32" style="v" sid="GEN 26:32"/>Ese mismo día, los siervos de Isaac vinieron y le dijeron: —¡Hemos encontrado agua!
 <verse eid="GEN 26:32"/><verse number="33" style="v" sid="GEN 26:33"/>Isaac le llamó Juramento;<char style="em" closed="true">Juramento: </char>El nombre en hebreo es&amp;nbsp;<char style="em" closed="true">Seba.</char>&amp;nbsp;Quiere decir juramento&amp;nbsp;o s<char style="em" closed="true">iete.</char>" class="footnote-marker"&gt;4 por eso la ciudad se llama Berseba<char style="em" closed="true">Berseba: </char>En hebreo, Berseba quiere decir&amp;nbsp;<char style="em" closed="true">pozo del juramento</char> o <char style="em" closed="true">pozo de los siete.</char>﻿﻿" class="footnote-marker"&gt;5 hasta el día de hoy.
 <verse eid="GEN 26:33"/><verse number="34" style="v" sid="GEN 26:34"/>Cuando Esaú tenía cuarenta años, se casó con Judit, hija de Beerí el hitita. También se casó con Basemat, hija de Elón el hitita.
-<verse eid="GEN 26:34"/><verse number="35" style="v" sid="GEN 26:35"/>Estas dos mujeres fueron una fuente de disgustos para Isaac y Rebeca.
+<verse eid="GEN 26:34"/><verse number="35" style="v" sid="GEN 26:35"/>Estas 2 mujeres fueron una fuente de disgustos para Isaac y Rebeca.
 <verse eid="GEN 26:35"/><verse eid="GEN 26:35"/></para>
   <chapter eid="GEN 26"/>
   <chapter number="27" style="c" sid="GEN 27"/>
@@ -829,12 +813,12 @@
 <verse eid="GEN 28:15"/><verse number="17" style="v" sid="GEN 28:17"/>Al despertar Jacob  de su sueño, tuvo miedo y dijo: «Sin duda, el Señor está en este lugar y yo no lo sabía». 
 <verse eid="GEN 28:17"/><verse number="18" style="v" sid="GEN 28:18"/>Jacob se levantó temprano, tomó la piedra que había usado como almohada y la erigió como monumento recordatorio. Luego derramó aceite sobre ella.
 <verse eid="GEN 28:18"/><verse number="19" style="v" sid="GEN 28:19"/>En ese lugar había una ciudad que se llamaba Luz, pero Jacob le cambió el nombre y la llamó Betel.<char style="em" closed="true">Betel: </char>En hebreo, <char style="em" closed="true">Betel</char>&amp;nbsp;quiere decir <char style="em" closed="true">casa de Dios.</char>" class="footnote-marker"&gt;1
-<verse eid="GEN 28:19"/><verse number="22" style="v" sid="GEN 28:22"/>Jacob hizo esta promesa: «Si Dios está conmigo y me guarda en este camino, si me da alimento y vestido, 
+<verse eid="GEN 28:19"/><verse number="22" style="v" sid="GEN 28:22"/>Jacob hizo esta promesa: «Si Dios está conmigo y me guarda en este camino, si me da alimento y vestido, y regreso en paz a la casa de mi padre, entonces el Señor será mi Dios. Esta piedra que he puesto como monumento recordatorio será casa de Dios. Y le daré a Dios la décima parte de todo lo que  me dé».
 <verse eid="GEN 28:22"/><verse eid="GEN 28:22"/></para>
   <chapter eid="GEN 28"/>
   <chapter number="29" style="c" sid="GEN 29"/>
   <para style="p"><verse number="1" style="v" sid="GEN 29:1"/>Jacob continuó su viaje hasta que llegó a la tierra de los pueblos del este del Jordán.
-<verse eid="GEN 29:1"/><verse number="2" style="v" sid="GEN 29:2"/>Vio un pozo en el campo. Había tres rebaños de ovejas reposando allí, porque abrevaban en ese pozo. El pozo estaba tapado con una piedra muy grande.
+<verse eid="GEN 29:1"/><verse number="2" style="v" sid="GEN 29:2"/>Vio un pozo en el campo. Había 3 rebaños de ovejas reposando allí, porque abrevaban en ese pozo. El pozo estaba tapado con una piedra muy grande.
 <verse eid="GEN 29:2"/><verse number="3" style="v" sid="GEN 29:3"/>Solo quitaban la piedra cuando se reunían todos los pastores  con sus rebaños. Cuando las ovejas ya habían bebido, los pastores volvían a tapar el pozo con la piedra.
 <verse eid="GEN 29:3"/><verse number="4" style="v" sid="GEN 29:4"/>Jacob preguntó a los pastores: ―Amigos, ¿de dónde son ustedes? ―Somos de Jarán —respondieron.
 <verse eid="GEN 29:4"/><verse number="5" style="v" sid="GEN 29:5"/>―¿Conocen a Labán, el nieto de Najor? —les volvió a preguntar. ―¡Claro que sí! —le contestaron.
@@ -848,7 +832,7 @@
 <verse eid="GEN 29:12"/><verse number="13" style="v" sid="GEN 29:13"/>Cuando Labán oyó las noticias sobre Jacob, su sobrino, salió corriendo a recibirlo. Al verlo, lo abrazó, lo besó y lo llevó a su casa. Entonces Jacob le contó todo lo que había sucedido.
 <verse eid="GEN 29:13"/><verse number="14" style="v" sid="GEN 29:14"/>Labán le dijo:—Desde luego, tú eres de mi misma sangre!Jacob llevaba ya un mes con Labán
 <verse eid="GEN 29:14"/><verse number="15" style="v" sid="GEN 29:15"/>cuando este le dijo: —Que seas pariente mío no es razón para que trabajes para mí sin recibir nada a cambio. Dime, ¿cuánto quieres que te pague?
-<verse eid="GEN 29:15"/><verse number="16" style="v" sid="GEN 29:16"/>Labán tenía dos hijas. La mayor se llamaba Lea y la menor, Raquel.
+<verse eid="GEN 29:15"/><verse number="16" style="v" sid="GEN 29:16"/>Labán tenía 2 hijas. La mayor se llamaba Lea y la menor, Raquel.
 <verse eid="GEN 29:16"/><verse number="17" style="v" sid="GEN 29:17"/>Lea tenía ojos tiernos. Raquel era muy hermosa de pies a cabeza.
 <verse eid="GEN 29:17"/><verse number="18" style="v" sid="GEN 29:18"/>Jacob estaba enamorado de Raquel, así que le dijo a Labán: —Trabajaré siete años para ti por Raquel, tu hija menor.
 <verse eid="GEN 29:18"/><verse number="19" style="v" sid="GEN 29:19"/>—Prefiero dártela a ti antes que a alguien que no sea de la familia —dijo Labán—. Quédate conmigo.
@@ -859,10 +843,10 @@
 <verse eid="GEN 29:23"/><verse number="24" style="v" sid="GEN 29:24"/>Además le entregó  su sierva Zilpá a Lea, su hija, para que la atendiera.
 <verse eid="GEN 29:24"/><verse number="25" style="v" sid="GEN 29:25"/>La mañana siguiente, al levantarse, Jacob descubrió que en realidad había dormido con Lea. Entonces fue a ver a Labán para reclamarle:—¿Qué clase de engaño es este? ¿Acaso no trabajé siete años para poder casarme con Raquel? ¿Por qué me has engañado de este modo?
 <verse eid="GEN 29:25"/><verse number="26" style="v" sid="GEN 29:26"/>Labán respondió: — Aquí no es costumbre casar a la hija pequeña antes que a la mayor.
-<verse eid="GEN 29:26"/><verse number="27" style="v" sid="GEN 29:27"/>Cumple con la semana de bodas de Lea y, a cambio de que trabajes siete años más para mí, te entregaré también a Raquel.
+<verse eid="GEN 29:26"/><verse number="27" style="v" sid="GEN 29:27"/>Cumple con la semana de bodas de Lea y, a cambio de que trabajes 7 años más para mí, te entregaré también a Raquel.
 <verse eid="GEN 29:27"/><verse number="28" style="v" sid="GEN 29:28"/>Así lo hizo Jacob. Cumplió con esa semana de bodas y Labán le entregó como esposa a Raquel.
 <verse eid="GEN 29:28"/><verse number="29" style="v" sid="GEN 29:29"/>Labán le entregó su sierva Bilhá a Raquel, su hija, para que la atendiera.
-<verse eid="GEN 29:29"/><verse number="30" style="v" sid="GEN 29:30"/>Jacob se acostó con Raquel y la amó más que a Lea. Y trabajó otros siete años para Labán.
+<verse eid="GEN 29:29"/><verse number="30" style="v" sid="GEN 29:30"/>Jacob se acostó con Raquel y la amó más que a Lea. Y trabajó otros 7 años para Labán.
 <verse eid="GEN 29:30"/><verse number="31" style="v" sid="GEN 29:31"/>Cuando el Señor vio que Lea no era amada, le concedió que tuviera hijos; pero a Raquel no se lo concedió.
 <verse eid="GEN 29:31"/><verse number="32" style="v" sid="GEN 29:32"/>Entonces Lea quedó embarazada y dio a luz un hijo, y lo llamó Rubén,<char style="em" closed="true">Rubén:&amp;nbsp;</char>En hebreo, <char style="em" closed="true">Rubén</char> suena parecido a&amp;nbsp;<char style="em" closed="true">miren, un hijo</char>, y también a&amp;nbsp;<char style="em" closed="true">él vio mi aflicción.</char>" class="footnote-marker"&gt;1 porque dijo: «El Señor ha visto mi aflicción; ahora me amará mi esposo».
 <verse eid="GEN 29:32"/><verse number="33" style="v" sid="GEN 29:33"/>Poco tiempo después volvió a quedar embarazada y tuvo otro hijo. A este lo llamó Simeón,<char style="em" closed="true">Simeón: </char>En hebreo,&amp;nbsp;<char style="em" closed="true">Simeón</char>&amp;nbsp;quiere decir<char style="em" closed="true">&amp;nbsp;el que oye</char>." class="footnote-marker"&gt;2 porque dijo: «El Señor ha oído que no soy amada y por eso me dio también este hijo».
@@ -890,17 +874,16 @@
 <verse eid="GEN 30:16"/><verse number="17" style="v" sid="GEN 30:17"/>Dios escuchó a Lea, que quedó embarazada y le dio a Jacob un quinto hijo.
 <verse eid="GEN 30:17"/><verse number="18" style="v" sid="GEN 30:18"/>Lea dijo: «Dios me ha dado recompensa por haberle entregado mi sierva a mi esposo». Por eso lo llamó Isacar.<char style="em" closed="true">Isacar: Isacar</char> suena como las palabras hebreas que quieren decir&amp;nbsp;<char style="em" closed="true">premiar</char> y <char style="em" closed="true">alquilar.</char>" class="footnote-marker"&gt;5
 <verse eid="GEN 30:18"/><verse number="19" style="v" sid="GEN 30:19"/>Lea quedó embarazada otra vez y le dio a luz a Jacob un sexto hijo.
-<verse eid="GEN 30:19"/><verse number="20" style="v" sid="GEN 30:20"/>Lea dijo: «Dios me ha hecho un buen regalo. Esta vez mi marido me honrará, pues le he dado seis hijos». Por eso lo llamó Zabulón.<char style="em" closed="true">Zabulón: </char>Suena parecido al verbo hebreo que significa <char style="em" closed="true">honrar.</char>" class="footnote-marker"&gt;6
+<verse eid="GEN 30:19"/><verse number="20" style="v" sid="GEN 30:20"/>Lea dijo: «Dios me ha hecho un buen regalo. Esta vez mi marido me honrará, pues le he dado 6 hijos». Por eso lo llamó Zabulón.6
 <verse eid="GEN 30:20"/><verse number="21" style="v" sid="GEN 30:21"/>Después dio a luz una hija, y la llamó Dina.
 <verse eid="GEN 30:21"/><verse number="22" style="v" sid="GEN 30:22"/>Entonces Dios se acordó de Raquel, la escuchó  y le permitió tener hijos.
 <verse eid="GEN 30:22"/><verse number="24" style="v" sid="GEN 30:24"/>Ella quedó embarazada y dio a luz un hijo. Entonces dijo: «Dios ha quitado mi desgracia». 
-<verse eid="GEN 30:24"/><verse number="5" style="v" sid="GEN 30:5"/>Le puso por nombre José,<char style="em" closed="true">José: </char>En hebreo, <char style="em" closed="true">José </char>quiere decir <char style="em" closed="true">que&amp;nbsp;él añada.</char>" class="footnote-marker"&gt;7 y dijo: «Quiera el Señor añadirme un hijo más».
-<verse eid="GEN 30:5"/><verse number="25" style="v" sid="GEN 30:25"/>Después de que Raquel dio a luz a José, Jacob le dijo a Labán: —Déjame regresar a mi casa y a mi tierra.
+<verse eid="GEN 30:24"/><verse number="25" style="v" sid="GEN 30:25"/>Después de que Raquel dio a luz a José, Jacob le dijo a Labán: —Déjame regresar a mi casa y a mi tierra.
 <verse eid="GEN 30:25"/><verse number="26" style="v" sid="GEN 30:26"/>Dame a mis esposas, por las que te he servido, y a mis hijos, y me iré. Sabes bien cómo he trabajado para ti.
 <verse eid="GEN 30:26"/><verse number="27" style="v" sid="GEN 30:27"/>Labán respondió:—No me dejes, te lo ruego. He sabido por oráculo que el Señor me ha bendecido gracias a ti.
 <verse eid="GEN 30:27"/><verse number="28" style="v" sid="GEN 30:28"/>Entonces le propuso: —Dime qué salario quieres ganar y yo te lo pagaré.
 <verse eid="GEN 30:28"/><verse number="29" style="v" sid="GEN 30:29"/>Jacob contestó: —Tú sabes cómo he trabajado para ti y lo bien que ha ido a tu ganado gracias a mí.
-<verse eid="GEN 30:29"/><verse number="30" style="v" sid="GEN 30:30"/>Porque lo poco que tenías antes de mi llegada se ha multiplicado, y el Señor te ha bendecido gracias a mí. Ahora es el momento de que yo haga algo también por mi propia familia.
+<verse eid="GEN 30:29"/><verse number="30" style="v" sid="GEN 30:30"/>Lo poco que tenías antes de mi llegada se ha multiplicado, y el Señor te ha bendecido gracias a mí. Ahora es el momento de que yo haga algo también por mi propia familia.
 <verse eid="GEN 30:30"/><verse number="32" style="v" sid="GEN 30:32"/>―¿Qué salario quieres que te pague? —volvió a preguntarle Labán. Jacob respondió: ―No me tienes que pagar nada. Si aceptas lo que te voy a proponer, seguiré cuidando tus rebaños. 
 <verse eid="GEN 30:32"/><verse number="33" style="v" sid="GEN 30:33"/>Así, el día que vengas a ver cuál ha sido mi salario, no habrá dudas sobre mi honradez, porque si encuentras una cabra o una oveja que no sea manchada, moteada o negra entre mi rebaño, será que te la he robado.
 <verse eid="GEN 30:33"/><verse number="34" style="v" sid="GEN 30:34"/>―De acuerdo —respondió Labán—. Trato hecho.
@@ -914,7 +897,7 @@
 <verse eid="GEN 30:43"/><verse eid="GEN 30:43"/></para>
   <chapter eid="GEN 30"/>
   <chapter number="31" style="c" sid="GEN 31"/>
-  <para style="p"><verse number="1" style="v" sid="GEN 31:1"/>Jacob se enteró de que los hijos de Labán iban diciendo: «Jacob se ha ido quedando con todo lo que era de nuestro padre, por eso se ha hecho tan rico».
+  <para style="p"><verse number="1" style="v" sid="GEN 31:1"/>Jacob se enteró de que los hijos de Labán iban diciendo: —Jacob se ha ido quedando con todo lo que era de nuestro padre, por eso se ha hecho tan rico.
 <verse eid="GEN 31:1"/><verse number="2" style="v" sid="GEN 31:2"/>Jacob notó además que Labán ya no lo trataba como antes.
 <verse eid="GEN 31:2"/><verse number="3" style="v" sid="GEN 31:3"/>Entonces el Señor le dijo a Jacob:—Vuelve a la tierra de tus padres, donde están tus parientes, que yo estaré contigo.
 <verse eid="GEN 31:3"/><verse number="4" style="v" sid="GEN 31:4"/>Jacob envió a llamar a Raquel y a Lea al campo, donde tenía su rebaño, y les dijo:
@@ -930,8 +913,7 @@
 <verse eid="GEN 31:14"/><verse number="15" style="v" sid="GEN 31:15"/>En realidad nos ha tratado como a extranjeras, pues nos vendió y se gastó todo lo que ganó con nuestra venta.
 <verse eid="GEN 31:15"/><verse number="16" style="v" sid="GEN 31:16"/>Toda la riqueza que Dios ha tomado de nuestro padre es nuestra y de nuestros hijos, así que haz todo lo que Dios te ha dicho.
 <verse eid="GEN 31:16"/><verse number="20" style="v" sid="GEN 31:20"/>Entonces Jacob hizo los preparativos, montó a sus hijos y a sus esposas sobre los camellos
-<verse eid="GEN 31:20"/><verse number="1" style="v" sid="GEN 31:1"/>Jacob, pues, engañó a Labán el arameo y salió sin decirle nada.
-<verse eid="GEN 31:1"/><verse number="21" style="v" sid="GEN 31:21"/>Jacob huyó con todas sus pertenencias, cruzó el río y se encaminó hacia los montes de Galaad.
+<verse eid="GEN 31:20"/><verse number="21" style="v" sid="GEN 31:21"/>Jacob huyó con todas sus pertenencias, cruzó el río y se encaminó hacia los montes de Galaad.
 <verse eid="GEN 31:21"/><verse number="22" style="v" sid="GEN 31:22"/>Al tercer día informaron a Labán que Jacob había huido.
 <verse eid="GEN 31:22"/><verse number="23" style="v" sid="GEN 31:23"/>Entonces juntó a sus familiares y salió en su busca, hasta que los alcanzó siete días después en los montes de Galaad.
 <verse eid="GEN 31:23"/><verse number="24" style="v" sid="GEN 31:24"/>Pero esa noche Dios se le apareció a Labán el arameo en sueños y le dijo: —¡Mucho cuidado con lo que le dices a Jacob!
@@ -948,10 +930,10 @@
 <verse eid="GEN 31:34"/><verse number="35" style="v" sid="GEN 31:35"/>Raquel le dijo a su padre: —No se enoje mi señor si no me levanto en su presencia, pero estoy con la menstruación. Labán siguió buscando los ídolos, pero no los encontró.
 <verse eid="GEN 31:35"/><verse number="36" style="v" sid="GEN 31:36"/>Entonces Jacob se enojó y le reclamó a Labán: —¿Qué te he hecho yo para que me persigas así?
 <verse eid="GEN 31:36"/><verse number="37" style="v" sid="GEN 31:37"/>Has registrado todas mis cosas, ¿has encontrado algo que sea tuyo? Ponlo aquí delante de nuestros parientes y que ellos juzguen quién tiene razón.
-<verse eid="GEN 31:37"/><verse number="38" style="v" sid="GEN 31:38"/>Veinte años he estado contigo; he cuidado tus ovejas y tus cabras, y ninguna de tus ovejas se perdió, ni jamás me comí un carnero de tu rebaño.
+<verse eid="GEN 31:37"/><verse number="38" style="v" sid="GEN 31:38"/>Durante 20  años he estado contigo. He cuidado tus ovejas y tus cabras, y ninguna de tus ovejas se perdió, ni jamás me comí un carnero de tu rebaño.
 <verse eid="GEN 31:38"/><verse number="39" style="v" sid="GEN 31:39"/>Nunca te traje  ningún animal despedazado por las fieras. Yo me hacía cargo de la pérdida. Si robaban algo, ya fuera de día o de noche, tú me lo reclamabas.
 <verse eid="GEN 31:39"/><verse number="40" style="v" sid="GEN 31:40"/>Durante el día me consumía el calor y por la noche el frío; ni siquiera podía dormir bien.
-<verse eid="GEN 31:40"/><verse number="41" style="v" sid="GEN 31:41"/>Veinte años: catorce para pagar por tus dos hijas y seis por tu ganado; y me cambiaste el salario diez veces.
+<verse eid="GEN 31:40"/><verse number="41" style="v" sid="GEN 31:41"/>Durante 20  años: 14 para pagar por tus 2 hijas y 6 por tu ganado. Y me cambiaste el salario 10 veces.
 <verse eid="GEN 31:41"/><verse number="42" style="v" sid="GEN 31:42"/>Si no hubiera estado conmigo el Dios de mi padre, el Dios de Abraham y el Temor de Isaac, tú me habrías despedido con las manos vacías. Pero Dios vio mi aflicción y mi duro trabajo. Por eso se te apareció anoche y te advirtió en mi favor.
 <verse eid="GEN 31:42"/><verse number="43" style="v" sid="GEN 31:43"/>Labán contestó: —Estas mujeres son mis hijas y estos niños son mis nietos. También las ovejas y todo lo que ves me pertenece. Pero ¿qué crees que puedo hacerles a mis hijas y a mis nietos?
 <verse eid="GEN 31:43"/><verse number="44" style="v" sid="GEN 31:44"/>Hagamos un pacto. Que sirva de testimonio entre nosotros.
@@ -960,7 +942,7 @@
 <verse eid="GEN 31:46"/><verse number="47" style="v" sid="GEN 31:47"/>A ese montón de piedras Labán le puso el nombre de Yegar Saduta, y Jacob lo llamó Galaad.<char style="em" closed="true">Yegar Saduta ... Galaad: Yegar Saduta</char> en arameo y <char style="em" closed="true">Galaad</char> en hebreo. Se traducen como&amp;nbsp;<char style="em" closed="true">montículo del testimonio.</char>" class="footnote-marker"&gt;1
 <verse eid="GEN 31:47"/><verse number="48" style="v" sid="GEN 31:48"/>Luego Labán dijo: —Este montón de piedras servirá de testimonio entre tú y yo. Por eso ese lugar se llama Galaad
 <verse eid="GEN 31:48"/><verse number="49" style="v" sid="GEN 31:49"/>y también Mizpa, porque dijo: —Que el Señor nos vigile cuando estemos lejos el uno del otro.
-<verse eid="GEN 31:49"/><verse number="50" style="v" sid="GEN 31:50"/>Si maltratas a mis hijas, o si tomas mujeres, Dios es testigo entre tú y yo, aunque no haya ningún hombre que lo sea.
+<verse eid="GEN 31:49"/><verse number="50" style="v" sid="GEN 31:50"/>Si maltratas a mis hijas, o si tomas mujeres, Dios es testigo entre tú y yo, aunque no haya ningún ser humano que lo sea.
 <verse eid="GEN 31:50"/><verse number="52" style="v" sid="GEN 31:52"/>Labán continuó diciéndole a Jacob: —Mira bien, este montón de piedras y este monumento que he levantado entre nosotros. 
 <verse eid="GEN 31:52"/><verse number="53" style="v" sid="GEN 31:53"/>¡Que el Dios de Abraham y el Dios de Najor, el Dios de sus padres, juzgue entre nosotros! Entonces Jacob juró por el Temor de Isaac su padre.
 <verse eid="GEN 31:53"/><verse number="54" style="v" sid="GEN 31:54"/>Jacob ofreció un sacrificio en la montaña e invitó a sus parientes para comer. Ellos comieron pan y pasaron la noche allí.
@@ -970,16 +952,16 @@
   <chapter number="32" style="c" sid="GEN 32"/>
   <para style="p"><verse number="1" style="v" sid="GEN 32:1"/>Jacob continuó su camino y unos ángeles de Dios salieron a su encuentro.
 <verse eid="GEN 32:1"/><verse number="2" style="v" sid="GEN 32:2"/>Entonces exclamó: «¡Este es el campamento de Dios!». Así que llamó a ese lugar Majanayin.<char style="em" closed="true">Majanayin: </char>En hebreo, Majanayin quiere decir&amp;nbsp;dos campamentos." class="footnote-marker"&gt;1
-<verse eid="GEN 32:2"/><verse number="3" style="v" sid="GEN 32:3"/>Luego Jacob envió mensajeros a su hermano Esaú, que estaba en la tierra de Seir, en los campos de Edom,
+<verse eid="GEN 32:2"/><verse number="3" style="v" sid="GEN 32:3"/>Luego Jacob envió mensajeros a su hermano Esaú, que estaba en la tierra de Seír, en los campos de Edom,
 <verse eid="GEN 32:3"/><verse number="4" style="v" sid="GEN 32:4"/>con este encargo:—Así dirán a mi señor Esaú: "Su siervo Jacob nos envía a decirle: 'He estado viviendo con Labán hasta hace poco. 
 <verse eid="GEN 32:4"/><verse number="5" style="v" sid="GEN 32:5"/>Tengo bueyes, burros, ovejas, siervos y siervas. Envío este mensaje a mi señor con la esperanza de ganarme su favor'".
 <verse eid="GEN 32:5"/><verse number="6" style="v" sid="GEN 32:6"/>Cuando los mensajeros regresaron, le dijeron a Jacob: —Hemos ido a donde está su hermano Esaú. Él también viene a su encuentro; le acompañan cuatrocientos hombres.
 <verse eid="GEN 32:6"/><verse number="7" style="v" sid="GEN 32:7"/>Jacob sintió miedo y se angustió mucho. Así que dividió la gente que estaba con él, así como las ovejas, las vacas y los camellos, en dos grupos.
 <verse eid="GEN 32:7"/><verse number="8" style="v" sid="GEN 32:8"/>Lo hizo porque pensó: «Si Esaú ataca a un grupo, al menos el otro podrá escapar».
-<verse eid="GEN 32:8"/><verse number="9" style="v" sid="GEN 32:9"/>Entonces Jacob oró: «Señor, Dios de mi abuelo Abraham y de mi padre Isaac, tú me dijiste que regresara a la tierra donde nací. Me dijiste que estarías conmigo y que me iría bien.
+<verse eid="GEN 32:8"/><verse number="9" style="v" sid="GEN 32:9"/>Entonces Jacob oró:—Señor, Dios de mi abuelo Abraham y de mi padre Isaac, tú me dijiste que regresara a la tierra donde nací. Me dijiste que estarías conmigo y que me iría bien.
 <verse eid="GEN 32:9"/><verse number="10" style="v" sid="GEN 32:10"/>No soy digno de toda la bondad y toda la fidelidad que me has mostrado. Cuando crucé este río Jordán, no tenía más que mi bastón, y ahora puedo formar dos campamentos.
 <verse eid="GEN 32:10"/><verse number="11" style="v" sid="GEN 32:11"/>¡Te suplico que me libres del furor de mi hermano Esaú! Tengo miedo de que venga a matarme a mí a estas mujeres y a sus hijos.
-<verse eid="GEN 32:11"/><verse number="12" style="v" sid="GEN 32:12"/>Tú dijiste que me harías prosperar y que mi descendencia sería muy numerosa, tanto como la arena del mar, que no se puede contar».
+<verse eid="GEN 32:11"/><verse number="12" style="v" sid="GEN 32:12"/>Tú dijiste que me harías prosperar y que mi descendencia sería muy numerosa, tanto como la arena del mar, que no se puede contar.
 <verse eid="GEN 32:12"/><verse number="15" style="v" sid="GEN 32:15"/>Jacob pasó allí la noche y preparó presentes para su hermano Esaú: 
 <verse eid="GEN 32:15"/><verse number="16" style="v" sid="GEN 32:16"/>Luego los confió a sus siervos, en rebaños separados, y les dijo que  mantuvieran una buena distancia entre ellos.
 <verse eid="GEN 32:16"/><verse number="17" style="v" sid="GEN 32:17"/>Al que llevaba el primer grupo le ordenó:—Cuando te encuentres con mi hermano Esaú y él te pregunte: "¿Quién eres? ¿A dónde vas? ¿De quién son estos animales?",
@@ -987,9 +969,8 @@
 <verse eid="GEN 32:18"/><verse number="19" style="v" sid="GEN 32:19"/>Jacob dio las mismas instrucciones al segundo grupo, al tercero y a todos los demás que iban detrás de los rebaños. Les dijo:—Cuando encuentren a Esaú, les dirán todo esto
 <verse eid="GEN 32:19"/><verse number="20" style="v" sid="GEN 32:20"/>y añadirán: "Su siervo Jacob viene detrás de nosotros". Jacob pensaba: «Primero apaciguaré su ira con el regalo que le envío por delante y luego me presentaré yo; quizá así me reciba bien».
 <verse eid="GEN 32:20"/><verse number="21" style="v" sid="GEN 32:21"/>Así que envió por delante los presentes, y él pasó la noche en el campamento.
-<verse eid="GEN 32:21"/><verse number="24" style="v" sid="GEN 32:24"/>Aquella misma noche, Jacob se levantó y tomó a sus dos esposas, a sus dos siervas y a sus once hijos, y cruzaron el vado del río Jaboc. 
-<verse eid="GEN 32:24"/><verse number="9" style="v" sid="GEN 32:9"/>Así se quedó solo. Entonces un hombre luchó con él hasta el amanecer.
-<verse eid="GEN 32:9"/><verse number="25" style="v" sid="GEN 32:25"/>Cuando el hombre vio que no podía vencer a Jacob, lo tocó en la coyuntura de la cadera y se la dislocó mientras luchaban.
+<verse eid="GEN 32:21"/><verse number="24" style="v" sid="GEN 32:24"/>Aquella misma noche, Jacob se levantó y tomó a sus 2 esposas, a sus 2 siervas y a sus 11 hijos, y cruzaron el vado del río Jaboc. Después de hacerlos pasar junto con todas sus posesiones, se quedó solo. Entonces un hombre luchó con él hasta el amanecer.
+<verse eid="GEN 32:24"/><verse number="25" style="v" sid="GEN 32:25"/>Cuando el hombre vio que no podía vencer a Jacob, lo tocó en la coyuntura de la cadera y se la dislocó mientras luchaban.
 <verse eid="GEN 32:25"/><verse number="26" style="v" sid="GEN 32:26"/>Entonces  le dijo: —Déjame ir, porque está a punto de amanecer.Pero Jacob respondió: —No te soltaré hasta que me bendigas.
 <verse eid="GEN 32:26"/><verse number="27" style="v" sid="GEN 32:27"/>—¿Cómo te llamas? —le preguntó aquel hombre.—Jacob —respondió él.
 <verse eid="GEN 32:27"/><verse number="28" style="v" sid="GEN 32:28"/>Entonces  le dijo: —Ya no te llamarás Jacob; desde ahora te llamarás Israel,<char style="em" closed="true">Israel:&amp;nbsp;</char>En hebreo, Israel quiere decir&amp;nbsp;él lucha con Dios." class="footnote-marker"&gt;2 porque has luchado con Dios y con los hombres y has vencido.
@@ -1026,7 +1007,7 @@
   <para style="p"><verse number="1" style="v" sid="GEN 34:1"/>Dina, hija de Lea y Jacob, salió un día a visitar a las jóvenes del lugar.
 <verse eid="GEN 34:1"/><verse number="2" style="v" sid="GEN 34:2"/>Siquén, hijo de Jamor, el jefe de los heveos, la vio. Entonces la tomó por la fuerza, se acostó con ella y la violó.
 <verse eid="GEN 34:2"/><verse number="3" style="v" sid="GEN 34:3"/>Pero luego se enamoró intensamente de ella, así que trató de ganarse su amor.
-<verse eid="GEN 34:3"/><verse number="4" style="v" sid="GEN 34:4"/>Por eso le dijo a su padre: «Consígueme a esa muchacha para que sea mi esposa».
+<verse eid="GEN 34:3"/><verse number="4" style="v" sid="GEN 34:4"/>Por eso le dijo a su padre:—Consígueme a esa muchacha para que sea mi esposa.
 <verse eid="GEN 34:4"/><verse number="5" style="v" sid="GEN 34:5"/>Jacob se enteró de que Siquén había violado a su hija Dina. Pero como sus hijos estaban con su ganado en el campo, guardó silencio hasta que ellos regresaron.
 <verse eid="GEN 34:5"/><verse number="7" style="v" sid="GEN 34:7"/>Jamor, padre de Siquén, fue a hablar con Jacob. 
 <verse eid="GEN 34:7"/><verse number="8" style="v" sid="GEN 34:8"/>Pero Jamor les dijo: —Mi hijo Siquén está muy enamorado de la hermana de ustedes. Por favor, permítanle casarse con ella.
@@ -1078,7 +1059,7 @@
 <verse eid="GEN 35:24"/><verse number="25" style="v" sid="GEN 35:25"/>Con Bilhá, la sierva de Raquel, tuvo a Dan y Neftalí.
 <verse eid="GEN 35:25"/><verse number="26" style="v" sid="GEN 35:26"/>Con Zilpá, la sierva de Lea, tuvo a Gad y Aser. Estos son los hijos de Jacob que nacieron en Padán Aram.
 <verse eid="GEN 35:26"/><verse number="27" style="v" sid="GEN 35:27"/>Jacob regresó a Mamré, cerca de Quiriat Arbá, a la casa de su padre Isaac. Quiriat Arbá es  Hebrón. Allí habían vivido Abraham e Isaac.
-<verse eid="GEN 35:27"/><verse number="29" style="v" sid="GEN 35:29"/>Isaac tenía ciento ochenta años 
+<verse eid="GEN 35:27"/><verse number="29" style="v" sid="GEN 35:29"/>Isaac era muy anciano cuando murió. Tenía 180 años. Sus hijos Esaú y Jacob lo sepultaron.
 <verse eid="GEN 35:29"/><verse eid="GEN 35:29"/></para>
   <chapter eid="GEN 35"/>
   <chapter number="36" style="c" sid="GEN 36"/>
@@ -1089,13 +1070,10 @@
 <verse eid="GEN 36:5"/><verse number="8" style="v" sid="GEN 36:8"/>Esaú tomó a sus esposas, sus hijos, sus hijas, toda su familia, su ganado, todos sus animales y todos los bienes que había adquirido en la tierra de Canaán. Se fue a la tierra de Seír para alejarse de su hermano Jacob. 
 <verse eid="GEN 36:8"/><verse number="9" style="v" sid="GEN 36:9"/>Esta es la lista de los descendientes de Esaú, padre de los edomitas, que vivieron en la región montañosa de Seír.
 <verse eid="GEN 36:9"/><verse number="12" style="v" sid="GEN 36:12"/>Estos son los nombres de los hijos de Esaú: Elifaz hijo de Ada, esposa de Esaú; y Reuel hijo de Basemat, esposa de Esaú.
-<verse eid="GEN 36:12"/><verse number="7" style="v" sid="GEN 36:7"/>Los hijos de Elifaz fueron Temán, Omar, Zefo, Gatán y Quenaz. 
-<verse eid="GEN 36:7"/><verse number="44" style="v" sid="GEN 36:44"/>Elifaz tuvo un hijo con su concubina Timná, y lo llamó Amalec. Todos estos fueron descendientes de Ada, esposa de Esaú.
-<verse eid="GEN 36:44"/><verse number="13" style="v" sid="GEN 36:13"/>Los hijos de Reuel fueron Najat, Zera, Sama y Mizá. Estos fueron descendientes de Basemat, esposa de Esaú.
+<verse eid="GEN 36:12"/><verse number="13" style="v" sid="GEN 36:13"/>Los hijos de Reuel fueron Najat, Zera, Sama y Mizá. Estos fueron descendientes de Basemat, esposa de Esaú.
 <verse eid="GEN 36:13"/><verse number="14" style="v" sid="GEN 36:14"/>Los hijos de la otra esposa de Esaú, Aholibama, hija de Aná, nieta de Zibeón, fueron Jeús, Jalán y Coré.
 <verse eid="GEN 36:14"/><verse number="16" style="v" sid="GEN 36:16"/>Estos son los jefes de los descendientes de Esaú. De los hijos de Elifaz, primogénito de Esaú, los jefes fueron Temán, Omar, Zefo, Quenaz, 
-<verse eid="GEN 36:16"/><verse number="2" style="v" sid="GEN 36:2"/>Coré, Gatán y Amalec. Estos fueron los jefes de los descendientes de Elifaz en la tierra de Edom. Todos ellos fueron descendientes de Ada.
-<verse eid="GEN 36:2"/><verse number="17" style="v" sid="GEN 36:17"/>De los hijos de Reuel, hijo de Esaú, los jefes fueron Najat, Zera, Sama y Mizá. Estos fueron los jefes de los descendientes de Reuel en la tierra de Edom. Todos ellos son descendientes de Basemat, esposa de Esaú.
+<verse eid="GEN 36:16"/><verse number="17" style="v" sid="GEN 36:17"/>De los hijos de Reuel, hijo de Esaú, los jefes fueron Najat, Zera, Sama y Mizá. Estos fueron los jefes de los descendientes de Reuel en la tierra de Edom. Todos ellos son descendientes de Basemat, esposa de Esaú.
 <verse eid="GEN 36:17"/><verse number="18" style="v" sid="GEN 36:18"/>De los hijos de Aholibama, hija de Aná y esposa de Esaú, los jefes fueron Jeús, Jalán y Coré.
 <verse eid="GEN 36:18"/><verse number="19" style="v" sid="GEN 36:19"/>Estos fueron los descendientes de Esaú, que es Edom. Y esta es la lista de los jefes de sus descendientes.
 <verse eid="GEN 36:19"/><verse number="21" style="v" sid="GEN 36:21"/>Estos fueron los descendientes de Seír el horeo, que vivían en aquella región: Lotán, Sobal, Zibeón, Aná, 
@@ -1108,15 +1086,12 @@
 <verse eid="GEN 36:27"/><verse number="28" style="v" sid="GEN 36:28"/>Los hijos de Disán fueron Uz y Arán.
 <verse eid="GEN 36:28"/><verse number="30" style="v" sid="GEN 36:30"/>Los jefes de  los horeos fueron Lotán, Sobal, Zibeón, Aná, 
 <verse eid="GEN 36:30"/><verse number="39" style="v" sid="GEN 36:39"/>Estos son los nombres de los reyes que gobernaron en la tierra de Edom antes de que hubiera rey en Israel.
-<verse eid="GEN 36:39"/><verse number="4" style="v" sid="GEN 36:4"/>Tras la muerte de Baal Janán, reinó Hadad, de la ciudad de Pau. La esposa de Hadad fue Mehitabel, hija de Matred y nieta de Mezab.
-<verse eid="GEN 36:4"/><verse number="43" style="v" sid="GEN 36:43"/>Estos son los nombres de los jefes descendientes de Esaú, según sus clanes, sus regiones y sus nombres: Timná, Alvá, Jetet, 
-<verse eid="GEN 36:43"/><verse number="2191" style="v" sid="GEN 36:2191"/>Quenaz, Temán, Mibzar, 
-<verse eid="GEN 36:2191"/><verse number="16576" style="v" sid="GEN 36:16576"/>Magdiel e Iram. Estos fueron los jefes de Edom, según los lugares donde vivían. Este fue Esaú, padre de los edomitas.
-<verse eid="GEN 36:16576"/><verse eid="GEN 36:16576"/></para>
+<verse eid="GEN 36:39"/><verse number="43" style="v" sid="GEN 36:43"/>Estos son los nombres de los jefes descendientes de Esaú, según sus clanes, sus regiones y sus nombres: Timná, Alvá, Jetet, 
+<verse eid="GEN 36:43"/><verse eid="GEN 36:43"/></para>
   <chapter eid="GEN 36"/>
   <chapter number="37" style="c" sid="GEN 37"/>
   <para style="p"><verse number="1" style="v" sid="GEN 37:1"/>Jacob se estableció en la tierra de Canaán,  donde su padre había vivido como extranjero.
-<verse eid="GEN 37:1"/><verse number="2" style="v" sid="GEN 37:2"/>Esta es la historia de Jacob y su familia.Cuando tenía diecisiete años, José apacentaba el rebaño con sus hermanos, los hijos de Bilhá y de Zilpá, las concubinas de su padre. José le contaba a su padre sobre la mala conducta de sus hermanos.
+<verse eid="GEN 37:1"/><verse number="2" style="v" sid="GEN 37:2"/>Esta es la historia de Jacob y su familia.Cuando tenía 17 años, José apacentaba el rebaño con sus hermanos, los hijos de Bilhá y de Zilpá, las concubinas de su padre. José le contaba a su padre sobre la mala conducta de sus hermanos.
 <verse eid="GEN 37:2"/><verse number="3" style="v" sid="GEN 37:3"/>Israel amaba a José más que a todos sus hijos, porque lo había tenido siendo anciano, y mandó que le tejieran una túnica de colores.
 <verse eid="GEN 37:3"/><verse number="4" style="v" sid="GEN 37:4"/>Los hermanos, al ver que era el preferido de su padre, comenzaron a odiarlo. Nunca tenían buenas palabras para él.
 <verse eid="GEN 37:4"/><verse number="5" style="v" sid="GEN 37:5"/>José tuvo un sueño y se lo contó a sus hermanos. Este sueño hizo que lo odiaran aún más.
@@ -1128,19 +1103,17 @@
 <verse eid="GEN 37:10"/><verse number="11" style="v" sid="GEN 37:11"/>Los hermanos le tenían envidia, pero Jacob se quedaba pensando en qué significaría todo aquello.
 <verse eid="GEN 37:11"/><verse number="12" style="v" sid="GEN 37:12"/>Un día, los hermanos de José fueron a Siquén a apacentar las ovejas de su padre.
 <verse eid="GEN 37:12"/><verse number="14" style="v" sid="GEN 37:14"/>Entonces Israel llamó a José y le dijo: —Tus hermanos están apacentando en Siquén. Quiero que vayas a verlos.José respondió: —Sí, iré.
-<verse eid="GEN 37:14"/><verse number="8" style="v" sid="GEN 37:8"/>Su padre continuó:—Ve a ver cómo están tus hermanos y el  rebaño y tráeme noticias.Así que lo envió desde el valle de Hebrón y José fue a Siquén.
-<verse eid="GEN 37:8"/><verse number="15" style="v" sid="GEN 37:15"/>Un hombre lo encontró vagando por el campo y le preguntó: —¿A quién buscas?
+<verse eid="GEN 37:14"/><verse number="15" style="v" sid="GEN 37:15"/>Un hombre lo encontró vagando por el campo y le preguntó: —¿A quién buscas?
 <verse eid="GEN 37:15"/><verse number="16" style="v" sid="GEN 37:16"/>Él respondió: —Busco a mis hermanos. ¿Podría decirme dónde están apacentando el rebaño?
 <verse eid="GEN 37:16"/><verse number="17" style="v" sid="GEN 37:17"/>El hombre respondió: —Ya se han ido de aquí. Los oí decir que se iban a Dotán.Entonces José fue en busca de sus hermanos y los encontró en Dotán.
 <verse eid="GEN 37:17"/><verse number="18" style="v" sid="GEN 37:18"/>Pero cuando ellos lo vieron venir desde lejos, antes de que estuviera cerca, tramaron un plan para matarlo.
-<verse eid="GEN 37:18"/><verse number="20" style="v" sid="GEN 37:20"/>—¡Ahí viene el soñador! —dijeron—. 
+<verse eid="GEN 37:18"/><verse number="20" style="v" sid="GEN 37:20"/>—¡Ahí viene el soñador! —dijeron—. Matémoslo y arrojémoslo en una cisterna. Luego le diremos a nuestro padre que un animal salvaje lo devoró. ¡A ver qué pasa entonces con sus sueños!
 <verse eid="GEN 37:20"/><verse number="22" style="v" sid="GEN 37:22"/>Cuando Rubén escuchó esto, intentó librarlo de las manos de sus hermanos. Dijo: —No lo matemos. 
-<verse eid="GEN 37:22"/><verse number="8" style="v" sid="GEN 37:8"/>No derramen sangre. Arrójenlo vivo a esta cisterna en el desierto, pero no le pongan la mano encima.Lo que Rubén quería era rescatarlo y llevarlo de vuelta con su padre.
-<verse eid="GEN 37:8"/><verse number="23" style="v" sid="GEN 37:23"/>Cuando José llegó a donde estaban sus hermanos, le arrancaron su túnica de colores
+<verse eid="GEN 37:22"/><verse number="23" style="v" sid="GEN 37:23"/>Cuando José llegó a donde estaban sus hermanos, le arrancaron su túnica de colores
 <verse eid="GEN 37:23"/><verse number="24" style="v" sid="GEN 37:24"/>y lo arrojaron a una cisterna vacía.
 <verse eid="GEN 37:24"/><verse number="25" style="v" sid="GEN 37:25"/>Luego se sentaron a comer. Entonces vieron una caravana de ismaelitas que venían de Galaad. Sus camellos iban cargados de  perfumes, especias y bálsamos, camino de Egipto para venderlos.
 <verse eid="GEN 37:25"/><verse number="27" style="v" sid="GEN 37:27"/>Entonces Judá dijo a sus hermanos:―¡Miren! ¿Qué ganamos con matar a nuestro hermano y encubrir su muerte? 
-<verse eid="GEN 37:27"/><verse number="28" style="v" sid="GEN 37:28"/>Cuando llegaron los mercaderes madianitas, sacaron a José de la cisterna y se lo vendieron a los ismaelitas por veinte piezas de plata. Ellos se llevaron a José a Egipto.
+<verse eid="GEN 37:27"/><verse number="28" style="v" sid="GEN 37:28"/>Cuando llegaron los mercaderes madianitas, sacaron a José de la cisterna y se lo vendieron a los ismaelitas por 20 piezas de plata. Ellos se llevaron a José a Egipto.
 <verse eid="GEN 37:28"/><verse number="29" style="v" sid="GEN 37:29"/>Rubén regresó a la cisterna y, al ver que José ya no estaba allí, se rasgó las vestiduras en señal de dolor.
 <verse eid="GEN 37:29"/><verse number="30" style="v" sid="GEN 37:30"/>Luego volvió adonde estaban sus hermanos y dijo: —El muchacho ya no está. ¿Qué voy a hacer ahora?
 <verse eid="GEN 37:30"/><verse number="31" style="v" sid="GEN 37:31"/>Ellos entonces tomaron la túnica de José, degollaron un cabrito y mancharon la túnica con la sangre.
@@ -1198,7 +1171,7 @@
 <verse eid="GEN 39:10"/><verse number="11" style="v" sid="GEN 39:11"/>Un día,  José estaba haciendo sus tareas en la casa, sin que hubiera nadie de los sirvientes en la casa. 
 <verse eid="GEN 39:11"/><verse number="12" style="v" sid="GEN 39:12"/>En eso, ella lo agarró del manto y le rogó: —¡Acuéstate conmigo! Él dejó su manto en sus manos y salió corriendo de la casa.
 <verse eid="GEN 39:12"/><verse number="13" style="v" sid="GEN 39:13"/>Ella vio que José se había dejado el manto y había salido corriendo.
-<verse eid="GEN 39:13"/><verse number="15" style="v" sid="GEN 39:15"/>Entonces llamó a sus siervos y les dijo:—¡Miren, el hebreo que mi esposo nos ha traído está aquí para burlarse de nosotros! Entró en mis aposentos queriendo acostarse conmigo. Yo grité con todas mis fuerzas. 
+<verse eid="GEN 39:13"/><verse number="15" style="v" sid="GEN 39:15"/>Entonces llamó a sus siervos y les dijo:—¡Miren, el hebreo que mi esposo nos ha traído está aquí para burlarse de nosotros! Entró en mis aposentos queriendo acostarse conmigo. Yo grité con todas mis fuerzas. En cuanto me oyó gritar, salió corriendo y se dejó el manto.
 <verse eid="GEN 39:15"/><verse number="16" style="v" sid="GEN 39:16"/>La mujer guardó el manto  hasta que su esposo llegó a casa.
 <verse eid="GEN 39:16"/><verse number="17" style="v" sid="GEN 39:17"/>Entonces le contó:—El esclavo hebreo que has traído quiso aprovecharse de mí.
 <verse eid="GEN 39:17"/><verse number="18" style="v" sid="GEN 39:18"/>Pero al ponerme a gritar, se dejó el manto y salió corriendo.
@@ -1211,38 +1184,36 @@
   <chapter eid="GEN 39"/>
   <chapter number="40" style="c" sid="GEN 40"/>
   <para style="p"><verse number="1" style="v" sid="GEN 40:1"/>Pasado algún tiempo, el jefe de los panaderos y el jefe de los coperos del rey de Egipto ofendieron a su señor.
-<verse eid="GEN 40:1"/><verse number="3" style="v" sid="GEN 40:3"/>El faraón se enojó con estos dos oficiales, el jefe de los coperos y el jefe de los panaderos.
-<verse eid="GEN 40:3"/><verse number="3" style="v" sid="GEN 40:3"/>Así que los envió a la cárcel donde José estaba preso, bajo la custodia del capitán de la guardia.
+<verse eid="GEN 40:1"/><verse number="3" style="v" sid="GEN 40:3"/>El faraón se enojó con estos dos oficiales, el jefe de los coperos y el jefe de los panaderos. Así que los envió a la cárcel donde José estaba preso, bajo la custodia del capitán de la guardia.
 <verse eid="GEN 40:3"/><verse number="4" style="v" sid="GEN 40:4"/>El capitán de la guardia encargó a José que los atendiera. Cuando llevaban algún tiempo en prisión, 
 <verse eid="GEN 40:4"/><verse number="5" style="v" sid="GEN 40:5"/>una noche, ambos tuvieron un sueño. Tanto el jefe de los coperos como el jefe de los panaderos del rey de Egipto, cada uno tuvo su propio sueño.
 <verse eid="GEN 40:5"/><verse number="6" style="v" sid="GEN 40:6"/>A la mañana siguiente, cuando José fue a verlos, los notó angustiados.
 <verse eid="GEN 40:6"/><verse number="7" style="v" sid="GEN 40:7"/>—¿Por qué tienen tan mal aspecto hoy? —les preguntó.
 <verse eid="GEN 40:7"/><verse number="8" style="v" sid="GEN 40:8"/>Ellos le contestaron: —Ambos tuvimos un sueño, uno cada uno, pero no hay quien los interprete.José les respondió:—Dios es quien da la interpretación de los sueños. ¿Pueden contármelos?
 <verse eid="GEN 40:8"/><verse number="10" style="v" sid="GEN 40:10"/>Entonces el jefe de los coperos contó su sueño:—Soñé que delante de mí había una vid 
-<verse eid="GEN 40:10"/><verse number="2" style="v" sid="GEN 40:2"/>con tres ramas. La vid echó brotes, floreció y maduraron uvas en los racimos.
-<verse eid="GEN 40:2"/><verse number="11" style="v" sid="GEN 40:11"/>Con la copa del faraón en la mano, tomé las uvas. Las exprimí en la copa  y yo mismo le di la copa al faraón en su mano.
+<verse eid="GEN 40:10"/><verse number="11" style="v" sid="GEN 40:11"/>Con la copa del faraón en la mano, tomé las uvas. Las exprimí en la copa  y yo mismo le di la copa al faraón en su mano.
 <verse eid="GEN 40:11"/><verse number="12" style="v" sid="GEN 40:12"/>José le dijo: —Esta es la interpretación del sueño: las tres ramas son tres días.
-<verse eid="GEN 40:12"/><verse number="13" style="v" sid="GEN 40:13"/>Dentro de tres días, el faraón te sacará de la cárcel, te devolverá a tu puesto y  le pondrás al faraón la copa en la mano, como hacías antes, cuando eras su copero.
+<verse eid="GEN 40:12"/><verse number="13" style="v" sid="GEN 40:13"/>Dentro de 3 días, el faraón te sacará de la cárcel, te devolverá a tu puesto y  le pondrás al faraón la copa en la mano, como hacías antes, cuando eras su copero.
 <verse eid="GEN 40:13"/><verse number="14" style="v" sid="GEN 40:14"/>Te ruego que te acuerdes de mí cuando arregles tu situación con el faraón. Háblale de mí para que me saque de aquí.
 <verse eid="GEN 40:14"/><verse number="15" style="v" sid="GEN 40:15"/>Me trajeron contra mi voluntad de la tierra de los hebreos, y aquí tampoco hice nada para que me tengan preso.
-<verse eid="GEN 40:15"/><verse number="16" style="v" sid="GEN 40:16"/>Al ver que la interpretación era positiva, el jefe de los panaderos le dijo a José: —Yo también tuve un sueño. En él, yo llevaba tres canastas de pan sobre la cabeza. 
+<verse eid="GEN 40:15"/><verse number="16" style="v" sid="GEN 40:16"/>Al ver que la interpretación era positiva, el jefe de los panaderos le dijo a José: —Yo también tuve un sueño. En él, yo llevaba 3 canastas de pan sobre la cabeza. 
 <verse eid="GEN 40:16"/><verse number="17" style="v" sid="GEN 40:17"/>En la canasta de arriba llevaba los pasteles preparados para el faraón, pero las aves venían a picotear de esa canasta que llevaba sobre mi cabeza.
 <verse eid="GEN 40:17"/><verse number="18" style="v" sid="GEN 40:18"/>José respondió: —Esta es la interpretación del sueño: las tres canastas son tres días.
-<verse eid="GEN 40:18"/><verse number="19" style="v" sid="GEN 40:19"/>Dentro de tres días, el faraón te mandará decapitar. Colgarán tu cuerpo en un árbol y las aves lo picotearán.
-<verse eid="GEN 40:19"/><verse number="20" style="v" sid="GEN 40:20"/>Al cabo de tres días era el cumpleaños del faraón. Hizo un banquete para todos sus funcionarios. Delante de todos, mandó sacar de la cárcel al jefe de los coperos y al jefe de los panaderos.
+<verse eid="GEN 40:18"/><verse number="19" style="v" sid="GEN 40:19"/>Dentro de 3 días, el faraón te mandará decapitar. Colgarán tu cuerpo en un árbol y las aves lo picotearán.
+<verse eid="GEN 40:19"/><verse number="20" style="v" sid="GEN 40:20"/>Al cabo de 3 días era el cumpleaños del faraón. Hizo un banquete para todos sus funcionarios. Delante de todos, mandó sacar de la cárcel al jefe de los coperos y al jefe de los panaderos.
 <verse eid="GEN 40:20"/><verse number="21" style="v" sid="GEN 40:21"/>Entonces restituyó su cargo al jefe de los coperos, y este puso la copa en la mano del faraón.
 <verse eid="GEN 40:21"/><verse number="22" style="v" sid="GEN 40:22"/>Pero el faraón mandó colgar al jefe de los panaderos, como José había interpretado.
 <verse eid="GEN 40:22"/><verse number="23" style="v" sid="GEN 40:23"/>Sin embargo, el jefe de los coperos no se acordó de José. Se olvidó totalmente de él.
 <verse eid="GEN 40:23"/><verse eid="GEN 40:23"/></para>
   <chapter eid="GEN 40"/>
   <chapter number="41" style="c" sid="GEN 41"/>
-  <para style="p"><verse number="1" style="v" sid="GEN 41:1"/>Dos años más tarde, el faraón tuvo un sueño. En el sueño, estaba de pie junto al río Nilo
-<verse eid="GEN 41:1"/><verse number="2" style="v" sid="GEN 41:2"/>cuando, de pronto, salieron siete vacas del río. Eran hermosas  y bien cebadas, y se pusieron a pastar entre los juncos.
-<verse eid="GEN 41:2"/><verse number="3" style="v" sid="GEN 41:3"/>Luego salieron del río siete vacas feas y muy flacas. Se pusieron junto a las otras, a la orilla del Nilo.
-<verse eid="GEN 41:3"/><verse number="4" style="v" sid="GEN 41:4"/>Entonces, las vacas feas y flacas se comieron a las siete vacas hermosas y bien cebadas. En ese momento, el faraón despertó.
-<verse eid="GEN 41:4"/><verse number="5" style="v" sid="GEN 41:5"/>Volvió a dormirse y tuvo otro sueño. Siete espigas de trigo, hermosas y repletas, brotaron en un solo tallo.
-<verse eid="GEN 41:5"/><verse number="6" style="v" sid="GEN 41:6"/>Tras ellas brotaron siete espigas delgadas y secadas por el viento del este.
-<verse eid="GEN 41:6"/><verse number="7" style="v" sid="GEN 41:7"/>Entonces las espigas delgadas se tragaron a las siete espigas hermosas y repletas. En ese momento se despertó el faraón y vio que solo era un sueño.
+  <para style="p"><verse number="1" style="v" sid="GEN 41:1"/>Después de 2 años, el faraón tuvo un sueño. En el sueño, estaba de pie junto al río Nilo
+<verse eid="GEN 41:1"/><verse number="2" style="v" sid="GEN 41:2"/>cuando, de pronto, salieron 7 vacas del río. Eran hermosas  y bien cebadas, y se pusieron a pastar entre los juncos.
+<verse eid="GEN 41:2"/><verse number="3" style="v" sid="GEN 41:3"/>Luego salieron del río 7 vacas feas y muy flacas. Se pusieron junto a las otras, a la orilla del Nilo.
+<verse eid="GEN 41:3"/><verse number="4" style="v" sid="GEN 41:4"/>Entonces, las vacas feas y flacas se comieron a las 7 vacas hermosas y bien cebadas. En ese momento, el faraón despertó.
+<verse eid="GEN 41:4"/><verse number="5" style="v" sid="GEN 41:5"/>Volvió a dormirse y tuvo otro sueño. Unas 7  espigas de trigo, hermosas y repletas, brotaron en un solo tallo.
+<verse eid="GEN 41:5"/><verse number="6" style="v" sid="GEN 41:6"/>Tras ellas brotaron 7 espigas delgadas y secadas por el viento del este.
+<verse eid="GEN 41:6"/><verse number="7" style="v" sid="GEN 41:7"/>Entonces las espigas delgadas se tragaron a las 7 espigas hermosas y repletas. En ese momento se despertó el faraón y vio que solo era un sueño.
 <verse eid="GEN 41:7"/><verse number="8" style="v" sid="GEN 41:8"/>A la mañana siguiente, estaba muy preocupado pensando en esos sueños. Mandó llamar a todos los magos y sabios de Egipto, y les contó los dos sueños. Pero no hubo quien supiera interpretarlos.
 <verse eid="GEN 41:8"/><verse number="9" style="v" sid="GEN 41:9"/>Entonces el jefe de los coperos le dijo al faraón:—Ahora recuerdo mi falta.
 <verse eid="GEN 41:9"/><verse number="10" style="v" sid="GEN 41:10"/>Hace algún tiempo, el faraón se enojó conmigo y con el jefe de los panaderos. Nos mandó a la cárcel, custudiados por el capitán de la guardia.
@@ -1253,25 +1224,24 @@
 <verse eid="GEN 41:14"/><verse number="15" style="v" sid="GEN 41:15"/>El faraón dijo:—He tenido un sueño y no hay quien lo interprete. Me han dicho que tú puedes interpretar los sueños.
 <verse eid="GEN 41:15"/><verse number="16" style="v" sid="GEN 41:16"/>—No soy yo quien puede hacerlo  —respondió José—, sino Dios. Él le revelará al faraón la respuesta adecuada.
 <verse eid="GEN 41:16"/><verse number="17" style="v" sid="GEN 41:17"/>Entonces el faraón le contó el sueño: —En mi sueño, estaba yo de pie a la orilla del río
-<verse eid="GEN 41:17"/><verse number="18" style="v" sid="GEN 41:18"/>cuando, de pronto, salieron siete vacas del río. Eran hermosas  y bien cebadas, y se pusieron a pastar entre los juncos.
-<verse eid="GEN 41:18"/><verse number="19" style="v" sid="GEN 41:19"/>Luego salieron del río siete vacas feas y muy flacas. Nunca he visto en todo Egipto vacas tan flacas.
-<verse eid="GEN 41:19"/><verse number="20" style="v" sid="GEN 41:20"/>De pronto, las vacas feas y flacas se comieron a las siete vacas hermosas y bien cebadas.
+<verse eid="GEN 41:17"/><verse number="18" style="v" sid="GEN 41:18"/>cuando, de pronto, salieron 7 vacas del río. Eran hermosas  y bien cebadas, y se pusieron a pastar entre los juncos.
+<verse eid="GEN 41:18"/><verse number="19" style="v" sid="GEN 41:19"/>Luego salieron del río 7 vacas feas y muy flacas. Nunca he visto en todo Egipto vacas tan flacas.
+<verse eid="GEN 41:19"/><verse number="20" style="v" sid="GEN 41:20"/>De pronto, las vacas feas y flacas se comieron a las 7 vacas hermosas y bien cebadas.
 <verse eid="GEN 41:20"/><verse number="21" style="v" sid="GEN 41:21"/>Pero después de habérselas comido, no se engordaron lo más mínimo. Seguían tan feas y flacas como antes. Entonces me desperté.
-<verse eid="GEN 41:21"/><verse number="22" style="v" sid="GEN 41:22"/>»Tuve otro sueño. En él, siete espigas de trigo, hermosas y repletas, brotaron en un solo tallo.
-<verse eid="GEN 41:22"/><verse number="23" style="v" sid="GEN 41:23"/>Pero tras ellas brotaron siete espigas delgadas y secadas por el viento del este.
-<verse eid="GEN 41:23"/><verse number="24" style="v" sid="GEN 41:24"/>Las espigas delgadas se comieron a las siete espigas hermosas. Esto es lo que le conté a los magos, y ninguno supo darme una interpretación.
+<verse eid="GEN 41:21"/><verse number="22" style="v" sid="GEN 41:22"/>»Tuve otro sueño. En él, 7 espigas de trigo, hermosas y repletas, brotaron en un solo tallo.
+<verse eid="GEN 41:22"/><verse number="23" style="v" sid="GEN 41:23"/>Pero tras ellas brotaron 7 espigas delgadas y secadas por el viento del este.
+<verse eid="GEN 41:23"/><verse number="24" style="v" sid="GEN 41:24"/>Las espigas delgadas se comieron a las 7 espigas hermosas. Esto es lo que le conté a los magos, y ninguno supo darme una interpretación.
 <verse eid="GEN 41:24"/><verse number="25" style="v" sid="GEN 41:25"/>Entonces José le dijo al faraón: —En realidad se trata de un único sueño. Dios le ha revelado al faraón lo que va a hacer.
-<verse eid="GEN 41:25"/><verse number="26" style="v" sid="GEN 41:26"/>Las siete vacas hermosas son siete años, y las siete espigas hermosas son siete años. Es el mismo sueño.
-<verse eid="GEN 41:26"/><verse number="27" style="v" sid="GEN 41:27"/>Las siete vacas feas y flacas que salieron después son también siete años. Y las siete espigas delgadas y secadas por el viento del este son también siete años. Pero son siete años de hambre.
+<verse eid="GEN 41:25"/><verse number="26" style="v" sid="GEN 41:26"/>Las 7 vacas hermosas son 7 años, y las 7 espigas hermosas son 7 años. Es el mismo sueño.
+<verse eid="GEN 41:26"/><verse number="27" style="v" sid="GEN 41:27"/>Las 7 vacas feas y flacas que salieron después son también 7 años. Y las 7 espigas delgadas y secadas por el viento del este son también 7 años. Pero son 7 años de hambre.
 <verse eid="GEN 41:27"/><verse number="28" style="v" sid="GEN 41:28"/>»Es lo que le he dicho al faraón: Dios le ha mostrado al faraón lo que va a hacer.
-<verse eid="GEN 41:28"/><verse number="29" style="v" sid="GEN 41:29"/>Van a venir siete años de gran abundancia en toda la tierra de Egipto.
-<verse eid="GEN 41:29"/><verse number="30" style="v" sid="GEN 41:30"/>Después vendrán siete años de hambre que harán olvidar toda la abundancia anterior de la tierra de Egipto. El hambre consumirá el país.
+<verse eid="GEN 41:28"/><verse number="29" style="v" sid="GEN 41:29"/>Van a venir 7 años de gran abundancia en toda la tierra de Egipto.
+<verse eid="GEN 41:29"/><verse number="30" style="v" sid="GEN 41:30"/>Después vendrán 7 años de hambre que harán olvidar toda la abundancia anterior de la tierra de Egipto. El hambre consumirá el país.
 <verse eid="GEN 41:30"/><verse number="31" style="v" sid="GEN 41:31"/>El hambre que vendrá será tan grave que nadie se acordará de la abundancia que antes hubo en Egipto.
 <verse eid="GEN 41:31"/><verse number="32" style="v" sid="GEN 41:32"/>Dado que el faraón tuvo el sueño dos veces, se trata de algo que Dios ha determinado firmemente hacer, y que va a suceder pronto.
 <verse eid="GEN 41:32"/><verse number="33" style="v" sid="GEN 41:33"/>»Por tanto, mi consejo es que el faraón busque un hombre prudente y sabio, y lo ponga al frente de la tierra de Egipto.
 <verse eid="GEN 41:33"/><verse number="35" style="v" sid="GEN 41:35"/>También debería poner supervisores por todo el país. Deben recoger la quinta parte de la cosecha de todo el país en esos siete años de abundancia. 
-<verse eid="GEN 41:35"/><verse number="9" style="v" sid="GEN 41:9"/>Esos supervisores, bajo el control del faraón, deberán recoger todo el alimento de los próximos años de abundancia y almacenarlo en las ciudades. Así habrá reserva de alimento.
-<verse eid="GEN 41:9"/><verse number="36" style="v" sid="GEN 41:36"/>Esa reserva servirá para que los habitantes de Egipto no mueran  durante los siete años de hambre que vendrán después.
+<verse eid="GEN 41:35"/><verse number="36" style="v" sid="GEN 41:36"/>Esa reserva servirá para que los habitantes de Egipto no mueran  durante los siete años de hambre que vendrán después.
 <verse eid="GEN 41:36"/><verse number="37" style="v" sid="GEN 41:37"/>Al faraón y a sus servidores les pareció bien el plan de José.
 <verse eid="GEN 41:37"/><verse number="38" style="v" sid="GEN 41:38"/>Entonces el faraón preguntó a sus servidores: —¿Podremos encontrar a alguien así, en quien esté el espíritu de Dios?
 <verse eid="GEN 41:38"/><verse number="39" style="v" sid="GEN 41:39"/>Luego le dijo a José: —Puesto que Dios te ha revelado a ti todo esto, no hay nadie tan capacitado y sabio como tú.
@@ -1280,15 +1250,15 @@
 <verse eid="GEN 41:42"/><verse number="43" style="v" sid="GEN 41:43"/>Después lo invitó a subir en el carruaje del segundo del reino. Ordenó que pregonaran a su paso: «¡Inclínense!». Así fue como el faraón puso a José al frente de todo Egipto.
 <verse eid="GEN 41:43"/><verse number="44" style="v" sid="GEN 41:44"/>Entonces el faraón dijo a José: —Yo soy el faraón, pero nadie en todo Egipto podrá mover un dedo sin tu permiso.
 <verse eid="GEN 41:44"/><verse number="45" style="v" sid="GEN 41:45"/>El faraón le cambió el nombre a José y lo llamó Zafenat Panea. Le dio por esposa a Asenat, hija de Potifera, sacerdote de la ciudad de On. Así fue como José quedó a cargo de toda la tierra de Egipto.
-<verse eid="GEN 41:45"/><verse number="46" style="v" sid="GEN 41:46"/>José tenía treinta años cuando comenzó a trabajar al servicio del faraón, rey de Egipto. En cuanto se retiró de la presencia del faraón, se puso a recorrer todo el territorio de Egipto.
-<verse eid="GEN 41:46"/><verse number="47" style="v" sid="GEN 41:47"/>Durante los siete años de abundancia, la tierra produjo grandes cosechas.
-<verse eid="GEN 41:47"/><verse number="48" style="v" sid="GEN 41:48"/>José recogió a lo largo de Egipto todo el alimento de los siete años de abundancia y lo almacenó en las ciudades.
+<verse eid="GEN 41:45"/><verse number="46" style="v" sid="GEN 41:46"/>José tenía 30 años cuando comenzó a trabajar al servicio del faraón, rey de Egipto. En cuanto se retiró de la presencia del faraón, se puso a recorrer todo el territorio de Egipto.
+<verse eid="GEN 41:46"/><verse number="47" style="v" sid="GEN 41:47"/>Durante los 7 años de abundancia, la tierra produjo grandes cosechas.
+<verse eid="GEN 41:47"/><verse number="48" style="v" sid="GEN 41:48"/>José recogió a lo largo de Egipto todo el alimento de los 7 años de abundancia y lo almacenó en las ciudades.
 <verse eid="GEN 41:48"/><verse number="49" style="v" sid="GEN 41:49"/>Almacenó mucho grano, tanto como la arena del mar. Fue tanto que ya no podía llevar la cuenta, de tan abundante que era.
 <verse eid="GEN 41:49"/><verse number="50" style="v" sid="GEN 41:50"/>Antes que llegara el primer año de escasez, José tuvo dos hijos con su esposa Asenat, hija de Potifera, sacerdote de la ciudad de On.
 <verse eid="GEN 41:50"/><verse number="51" style="v" sid="GEN 41:51"/>A su primogénito lo llamó Manasés,<char style="em" closed="true">Manasés: </char>Este nombre suena parecido a la palabra hebrea que significa <char style="em" closed="true">hacer olvidar.</char>" class="footnote-marker"&gt;1 porque dijo: «Dios me hizo olvidar todos mis padecimientos y la casa de mi padre».
 <verse eid="GEN 41:51"/><verse number="52" style="v" sid="GEN 41:52"/>Al segundo hijo lo llamó Efraín,<char style="em" closed="true">Efraín: </char>Este nombre<char style="em" closed="true">&amp;nbsp;</char>suena parecido a la palabra hebrea que quiere decir&amp;nbsp;<char style="em" closed="true">fecundidad.</char>" class="footnote-marker"&gt;2 porque dijo: «Dios me hizo fecundo en esta tierra de mi aflicción».
-<verse eid="GEN 41:52"/><verse number="53" style="v" sid="GEN 41:53"/>Se acabaron los siete años de abundancia  en la tierra de Egipto.
-<verse eid="GEN 41:53"/><verse number="54" style="v" sid="GEN 41:54"/>Comenzaron los siete años de hambre anunciados por José. Hubo hambre en todos los países, pero en todo el territorio de Egipto no faltó el pan.
+<verse eid="GEN 41:52"/><verse number="53" style="v" sid="GEN 41:53"/>Se acabaron los 7 años de abundancia  en la tierra de Egipto.
+<verse eid="GEN 41:53"/><verse number="54" style="v" sid="GEN 41:54"/>Comenzaron los 7 años de hambre anunciados por José. Hubo hambre en todos los países, pero en todo el territorio de Egipto no faltó el pan.
 <verse eid="GEN 41:54"/><verse number="55" style="v" sid="GEN 41:55"/>Pero cuando el hambre llegó también a la tierra de Egipto, el pueblo clamó al faraón pidiendo alimento. Entonces el faraón dijo a todo el pueblo de Egipto:—Vayan a José y hagan todo lo que él les diga.
 <verse eid="GEN 41:55"/><verse number="56" style="v" sid="GEN 41:56"/>Cuando la escasez aumentó y el hambre alcanzó todo el territorio, José abrió los graneros para vender alimento a los egipcios.
 <verse eid="GEN 41:56"/><verse number="57" style="v" sid="GEN 41:57"/>Además, venía gente de todos los países a Egipto para comprarle alimento a José, pues el hambre azotaba ya todo el mundo.
@@ -1297,7 +1267,7 @@
   <chapter number="42" style="c" sid="GEN 42"/>
   <para style="p"><verse number="1" style="v" sid="GEN 42:1"/>Cuando Jacob se enteró de que había grano en Egipto, dijo a sus hijos:—¿Qué hacen ahí mirándose sin hacer nada?
 <verse eid="GEN 42:1"/><verse number="2" style="v" sid="GEN 42:2"/>He oído que hay grano en Egipto. Bajen allá y compren comida para nosotros de allí, para que podamos vivir y no muramos.
-<verse eid="GEN 42:2"/><verse number="3" style="v" sid="GEN 42:3"/>Entonces diez de los hermanos de José bajaron a Egipto para comprar alimento.
+<verse eid="GEN 42:2"/><verse number="3" style="v" sid="GEN 42:3"/>Entonces 10 de los hermanos de José bajaron a Egipto para comprar alimento.
 <verse eid="GEN 42:3"/><verse number="4" style="v" sid="GEN 42:4"/>Pero Jacob no envió a Benjamín, el hermano de José, con sus hermanos, por temor a que le sucediera algo malo.
 <verse eid="GEN 42:4"/><verse number="5" style="v" sid="GEN 42:5"/>Los hijos de Israel fueron entonces a comprar alimento, como muchos otros, pues el hambre era grave en todo Canaán.
 <verse eid="GEN 42:5"/><verse number="6" style="v" sid="GEN 42:6"/>José era el gobernador de todo Egipto. Él vendía el trigo a todos los que llegaban. Sus hermanos llegaron ante su presencia y se postraron rostro en tierra.
@@ -1306,11 +1276,11 @@
 <verse eid="GEN 42:9"/><verse number="10" style="v" sid="GEN 42:10"/>—No, señor —exclamaron—. Solamente hemos venido a comprar alimento.
 <verse eid="GEN 42:10"/><verse number="11" style="v" sid="GEN 42:11"/>Somos todos hijos de un mismo padre; somos gente honrada. Nosotros sus siervos no somos  espías.
 <verse eid="GEN 42:11"/><verse number="12" style="v" sid="GEN 42:12"/>Pero José insistió:—¡Sí lo son! Han venido a ver  si somos vulnerables.
-<verse eid="GEN 42:12"/><verse number="13" style="v" sid="GEN 42:13"/>―Señor —dijeron de nuevo—, nosotros tus siervos somos doce hermanos, hijos de un mismo padre, de la tierra de Canaán. El menor de nuestros hermanos está con nuestro padre, y uno de nuestros hermanos falleció.
+<verse eid="GEN 42:12"/><verse number="13" style="v" sid="GEN 42:13"/>―Señor —dijeron de nuevo—, nosotros tus siervos somos 12 hermanos, hijos de un mismo padre, de la tierra de Canaán. El menor de nuestros hermanos está con nuestro padre, y 1 de nuestros hermanos falleció.
 <verse eid="GEN 42:13"/><verse number="14" style="v" sid="GEN 42:14"/>José siguió insistiendo:―Está claro que tengo razón. Ustedes son espías.
 <verse eid="GEN 42:14"/><verse number="15" style="v" sid="GEN 42:15"/>Así vamos a ver si la historia que me cuentan es verdad. Les juro por la vida del faraón que no saldrán de Egipto hasta que traigan ante mí a su hermano menor.
 <verse eid="GEN 42:15"/><verse number="16" style="v" sid="GEN 42:16"/>Envíen a uno de ustedes para que traiga a su hermano. Mientras tanto, los demás quedarán retenidos aquí. Así veremos si dicen la verdad. Si mienten, ¡por la vida del faraón, es que ustedes son espías!
-<verse eid="GEN 42:16"/><verse number="17" style="v" sid="GEN 42:17"/>Entonces los encerró en la cárcel por tres días.
+<verse eid="GEN 42:16"/><verse number="17" style="v" sid="GEN 42:17"/>Entonces los encerró en la cárcel por 3 días.
 <verse eid="GEN 42:17"/><verse number="18" style="v" sid="GEN 42:18"/>Al tercer día les dijo: —Yo soy un hombre temeroso de Dios. Hagan lo que les voy a decir y vivirán.
 <verse eid="GEN 42:18"/><verse number="19" style="v" sid="GEN 42:19"/>Si son honrados como dicen, entonces uno de sus hermanos quedará preso en la cárcel. Los demás vayan y lleven alimento para calmar el hambre de sus familias.
 <verse eid="GEN 42:19"/><verse number="20" style="v" sid="GEN 42:20"/>Pero tráiganme a su hermano menor para demostrarme que dicen la verdad. Si es así, los dejaré vivir. Ellos aceptaron la propuesta,
@@ -1342,7 +1312,7 @@
 <verse eid="GEN 43:6"/><verse number="7" style="v" sid="GEN 43:7"/>—Porque aquel hombre nos preguntó específicamente por nuestra familia —respondieron—. Quería saber si nuestro padre seguía vivo y si teníamos algún otro hermano. Por eso se lo contamos. ¿Cómo íbamos a saber que nos exigiría llevarle a nuestro hermano?
 <verse eid="GEN 43:7"/><verse number="8" style="v" sid="GEN 43:8"/>Judá le dijo a su padre Israel: —Envía al muchacho conmigo, yo me hago responsable. Iremos y podremos sobrevivir, así no moriremos nosotros, ni tú ni nuestros hijos.
 <verse eid="GEN 43:8"/><verse number="9" style="v" sid="GEN 43:9"/>Yo respondo por su seguridad. Si no te lo traigo de vuelta sano y salvo, cargaré con la culpa ante ti todos los días de mi vida.
-<verse eid="GEN 43:9"/><verse number="10" style="v" sid="GEN 43:10"/>Si no hubiéramos perdido tanto tiempo, ya habríamos ido y vuelto dos veces.
+<verse eid="GEN 43:9"/><verse number="10" style="v" sid="GEN 43:10"/>Si no hubiéramos perdido tanto tiempo, ya habríamos ido y vuelto 2 veces.
 <verse eid="GEN 43:10"/><verse number="11" style="v" sid="GEN 43:11"/>Entonces Israel, su padre, les dijo: —Si no hay más remedio, hagan lo que les voy a decir. Carguen los burros con lo mejor de nuestra tierra y llévenle a ese hombre un presente, con un poco de bálsamo, un poco de miel, perfume, mirra, nueces y almendras.
 <verse eid="GEN 43:11"/><verse number="12" style="v" sid="GEN 43:12"/>Lleven también el doble del dinero, para devolver lo que les pusieron en los costales, pues seguramente fue un error.
 <verse eid="GEN 43:12"/><verse number="13" style="v" sid="GEN 43:13"/>Así que tomen a su hermano y vayan de nuevo a ver a ese hombre.
@@ -1375,7 +1345,7 @@
 <verse eid="GEN 44:3"/><verse number="4" style="v" sid="GEN 44:4"/>Apenas habían salido de la ciudad cuando José le dijo a su mayordomo: —Ve tras ellos. Cuando los alcances, diles: "¿Por qué me pagan de esta manera?
 <verse eid="GEN 44:4"/><verse number="5" style="v" sid="GEN 44:5"/>¿No es esta la copa con la que bebe mi señor y  la que usa para interpretar? ¡Han cometido un grave pecado!".
 <verse eid="GEN 44:5"/><verse number="6" style="v" sid="GEN 44:6"/>El mayordomo los alcanzó y les repitió esas palabras.
-<verse eid="GEN 44:6"/><verse number="7" style="v" sid="GEN 44:7"/>Ellos respondieron:—¿Pero qué dice? ¡Nosotros jamás haríamos algo así!
+<verse eid="GEN 44:6"/><verse number="7" style="v" sid="GEN 44:7"/>Ellos respondieron:—Pero ¿qué dices? ¡Nosotros jamás haríamos algo así!
 <verse eid="GEN 44:7"/><verse number="8" style="v" sid="GEN 44:8"/>Vinimos de Canaán para devolver el dinero que encontramos en nuestros costales. ¿Por qué habríamos de robar plata u oro de la casa de tu señor?
 <verse eid="GEN 44:8"/><verse number="9" style="v" sid="GEN 44:9"/>Si encuentras su copa en poder de alguno de nosotros, que muera el que la tenga. Y el resto de nosotros seremos esclavos de tu señor.
 <verse eid="GEN 44:9"/><verse number="10" style="v" sid="GEN 44:10"/>—De acuerdo —respondió él—. Así lo haremos, pero solo será esclavo el que robó la copa; los demás quedarán libres.
@@ -1442,19 +1412,13 @@
 <verse eid="GEN 46:5"/><verse number="6" style="v" sid="GEN 46:6"/>También llevaron todo el ganado y todas las pertenencias que habían acumulado en la tierra de Canaán. Así fue como Jacob y los suyos llegaron a Egipto.
 <verse eid="GEN 46:6"/><verse number="7" style="v" sid="GEN 46:7"/>Jacob fue a Egipto, pues, con todos sus hijos, sus nietos, sus hijas y sus nietas, es decir, con todos sus descendientes.
 <verse eid="GEN 46:7"/><verse number="14" style="v" sid="GEN 46:14"/>Estos son los nombres de los israelitas que fueron a Egipto, es decir, Jacob y  sus descendientes. Rubén fue el primogénito de Jacob. 
-<verse eid="GEN 46:14"/><verse number="1" style="v" sid="GEN 46:1"/>Los hijos de Rubén fueron Janoc, Falú, Jezrón y Carmí. 
-<verse eid="GEN 46:1"/><verse number="9" style="v" sid="GEN 46:9"/>Los hijos de Judá fueron Er, Onán, Selá, Fares y Zera, pero Er y Onán murieron en  Canaán. Los hijos de Fares fueron Jezrón y Jamul. 
-<verse eid="GEN 46:9"/><verse number="5" style="v" sid="GEN 46:5"/>Los hijos de Zabulón fueron Séred, Elón y Yalel.
-<verse eid="GEN 46:5"/><verse number="15" style="v" sid="GEN 46:15"/>Estos fueron los hijos que Jacob tuvo con Lea en Padán Aram, incluida su hija Dina. En total fueron treinta y tres personas.
+<verse eid="GEN 46:14"/><verse number="15" style="v" sid="GEN 46:15"/>Estos fueron los hijos que Jacob tuvo con Lea en Padán Aram, incluida su hija Dina. En total fueron 33 personas.
 <verse eid="GEN 46:15"/><verse number="17" style="v" sid="GEN 46:17"/>Los hijos de Gad fueron Zefón, Jaguí, Esbón, Suni, Erí, Arodí y Arelí. 
-<verse eid="GEN 46:17"/><verse number="18" style="v" sid="GEN 46:18"/>Estos fueron los hijos que Jacob tuvo con Zilpá, la sierva que Labán le dio a su hija. En total fueron dieciséis personas.
+<verse eid="GEN 46:17"/><verse number="18" style="v" sid="GEN 46:18"/>Estos fueron los hijos que Jacob tuvo con Zilpá, la sierva que Labán le dio a su hija. En total fueron 16 personas.
 <verse eid="GEN 46:18"/><verse number="22" style="v" sid="GEN 46:22"/>Los hijos de Raquel, esposa de Jacob, fueron José y Benjamín. 
-<verse eid="GEN 46:22"/><verse number="3" style="v" sid="GEN 46:3"/>Los hijos de Benjamín fueron Bela, Béquer, Asbel, Guerá, Naamán, Ehí, Ros, Mupín, Jupín y Ard. 
-<verse eid="GEN 46:3"/><verse number="904" style="v" sid="GEN 46:904"/>En total, los descendientes de Jacob y Raquel fueron catorce personas.
-<verse eid="GEN 46:904"/><verse number="25" style="v" sid="GEN 46:25"/>El hijo de Dan fue Jusín.
-<verse eid="GEN 46:25"/><verse number="1" style="v" sid="GEN 46:1"/>Estos fueron los hijos que Jacob tuvo con Bilhá, la sierva que Labán le dio a su hija Raquel. En total fueron siete.
-<verse eid="GEN 46:1"/><verse number="26" style="v" sid="GEN 46:26"/>El total de las personas que fueron con Jacob a Egipto, de su misma sangre, sin incluir a las nueras, fue de sesenta y seis.
-<verse eid="GEN 46:26"/><verse number="27" style="v" sid="GEN 46:27"/>José tenía dos hijos que nacieron en Egipto. El total de personas de la familia de Jacob que llegaron a Egipto fue de setenta.
+<verse eid="GEN 46:22"/><verse number="25" style="v" sid="GEN 46:25"/>El hijo de Dan fue Jusín.
+<verse eid="GEN 46:25"/><verse number="26" style="v" sid="GEN 46:26"/>El total de las personas que fueron con Jacob a Egipto, de su misma sangre, sin incluir a las nueras, fue de 66.
+<verse eid="GEN 46:26"/><verse number="27" style="v" sid="GEN 46:27"/>José tenía 2 hijos que nacieron en Egipto. El total de personas de la familia de Jacob que llegaron a Egipto fue de 70.
 <verse eid="GEN 46:27"/><verse number="28" style="v" sid="GEN 46:28"/>Jacob envió a Judá adelante a ver a José, para que le mostrara el camino a Gosén. Cuando llegaron a esa región,
 <verse eid="GEN 46:28"/><verse number="29" style="v" sid="GEN 46:29"/>José mandó preparar su carruaje y salió a encontrarse con su padre Israel en Gosén. Cuando se encontraron, José se fundió con él en un abrazo. Lloró sobre su hombro durante un rato largo.
 <verse eid="GEN 46:29"/><verse number="30" style="v" sid="GEN 46:30"/>Entonces Israel le dijo a José: —Ya puedo morir tranquilo, porque he visto tu rostro y sé que sigues vivo.
@@ -1470,8 +1434,7 @@
 <verse eid="GEN 47:2"/><verse number="3" style="v" sid="GEN 47:3"/>Entonces el faraón les preguntó: —¿Cuál es su oficio?—Nosotros, tus siervos, somos pastores de ovejas —respondieron—, como nuestros antepasados.
 <verse eid="GEN 47:3"/><verse number="4" style="v" sid="GEN 47:4"/>Hemos venido a vivir en este país porque ya no hay pastos para nuestro ganado en Canaán. El hambre es terrible en nuestra tierra. Por eso te rogamos que nos permitas vivir en la región de Gosén.
 <verse eid="GEN 47:4"/><verse number="6" style="v" sid="GEN 47:6"/>El faraón le dijo a José: —Tu padre y tus hermanos han venido a estar cerca de ti. 
-<verse eid="GEN 47:6"/><verse number="3" style="v" sid="GEN 47:3"/>Tienes todo Egipto a tu disposición. Dales la mejor zona del país para vivir. Pueden quedarse en la región de Gosén. Y si sabes que algunos de ellos tienen experiencia, ponlos a cargo de mi ganado.
-<verse eid="GEN 47:3"/><verse number="7" style="v" sid="GEN 47:7"/>Luego José llevó a su padre Jacob ante el faraón. Jacob saludó al faraón y lo bendijo.
+<verse eid="GEN 47:6"/><verse number="7" style="v" sid="GEN 47:7"/>Luego José llevó a su padre Jacob ante el faraón. Jacob saludó al faraón y lo bendijo.
 <verse eid="GEN 47:7"/><verse number="8" style="v" sid="GEN 47:8"/>El faraón le preguntó: —¿Cuántos años tienes?
 <verse eid="GEN 47:8"/><verse number="9" style="v" sid="GEN 47:9"/>Jacob le respondió: —Tengo ciento treinta años. Han sido años escasos y difíciles peregrinando de un lado a otro. Pero no son comparables con los años de peregrinaje de mis antepasados.
 <verse eid="GEN 47:9"/><verse number="10" style="v" sid="GEN 47:10"/>Entonces Jacob se despidió del faraón, lo bendijo y salió de su presencia.
@@ -1524,33 +1487,33 @@
   <chapter eid="GEN 48"/>
   <chapter number="49" style="c" sid="GEN 49"/>
   <para style="p"><verse number="1" style="v" sid="GEN 49:1"/>Jacob llamó a sus hijos y les dijo: —Reúnanse, que voy a declararles lo que les va a suceder en el futuro.
-<verse eid="GEN 49:1"/><verse number="2" style="v" sid="GEN 49:2"/>»Vengan, escuchen, hijos de Jacob, escuchen a su padre Israel.
-<verse eid="GEN 49:2"/><verse number="3" style="v" sid="GEN 49:3"/>»Rubén, mi primogénito, tú eres mi fuerza y las primicias de mi vigor, el primero en honor, el primero en poder.
+<verse eid="GEN 49:1"/><verse number="2" style="v" sid="GEN 49:2"/>Vengan, escuchen, hijos de Jacob, escuchen a su padre Israel.
+<verse eid="GEN 49:2"/><verse number="3" style="v" sid="GEN 49:3"/>Rubén, mi primogénito, tú eres mi fuerza y las primicias de mi vigor, el primero en honor, el primero en poder.
 <verse eid="GEN 49:3"/><verse number="4" style="v" sid="GEN 49:4"/>Impetuoso como un torrente, ya no serás el primero, pues deshonraste mi lecho, profanaste la cama de tu padre.
-<verse eid="GEN 49:4"/><verse number="5" style="v" sid="GEN 49:5"/>»Simeón y Leví son hermanos;  instrumentos de violencia son sus armas.
+<verse eid="GEN 49:4"/><verse number="5" style="v" sid="GEN 49:5"/>Simeón y Leví son hermanos;  instrumentos de violencia son sus armas.
 <verse eid="GEN 49:5"/><verse number="6" style="v" sid="GEN 49:6"/>No quiero estar en sus reuniones ni comprometer mi honor participando en sus asambleas. En su ira mataron hombres y por diversión mutilaron bueyes.
 <verse eid="GEN 49:6"/><verse number="7" style="v" sid="GEN 49:7"/>¡Maldita sea su violenta ira y maldito su feroz furor! Los dispersaré en Jacob, los esparciré en Israel.
-<verse eid="GEN 49:7"/><verse number="8" style="v" sid="GEN 49:8"/>»Judá, tus hermanos te alabarán. Vencerás a tus enemigos. Los hijos de tu padre se postrarán ante de ti.
+<verse eid="GEN 49:7"/><verse number="8" style="v" sid="GEN 49:8"/>Judá, tus hermanos te alabarán. Vencerás a tus enemigos. Los hijos de tu padre se postrarán ante de ti.
 <verse eid="GEN 49:8"/><verse number="9" style="v" sid="GEN 49:9"/>Judá, mi hijo, es un cachorro de león alimentado de su presa. Se agazapa como un león, se recuesta como una leona,¿quién se atreverá a despertarlo?
 <verse eid="GEN 49:9"/><verse number="10" style="v" sid="GEN 49:10"/>No se apartará de Judá el cetro, ni de entre sus pies el bastón de mando, hasta que venga aquel a quien le pertenece, aquel a quien obedecerán los pueblos.
 <verse eid="GEN 49:10"/><verse number="11" style="v" sid="GEN 49:11"/>Amarra su burro a la vid y la cría de su asna a la cepa escogida; lava su ropa en vino y su manto en la sangre de uvas.
 <verse eid="GEN 49:11"/><verse number="12" style="v" sid="GEN 49:12"/>Sus ojos son más oscuros que el vino; sus dientes, más blancos que la leche.
-<verse eid="GEN 49:12"/><verse number="13" style="v" sid="GEN 49:13"/>»Zabulón habitará junto a la orilla del mar, será puerto para los barcos y su frontera llegará hasta Sidón.
-<verse eid="GEN 49:13"/><verse number="14" style="v" sid="GEN 49:14"/>»Isacar es fuerte asno que se recuesta entre las alforjas.
+<verse eid="GEN 49:12"/><verse number="13" style="v" sid="GEN 49:13"/>Zabulón habitará junto a la orilla del mar, será puerto para los barcos y su frontera llegará hasta Sidón.
+<verse eid="GEN 49:13"/><verse number="14" style="v" sid="GEN 49:14"/>Isacar es fuerte asno que se recuesta entre las alforjas.
 <verse eid="GEN 49:14"/><verse number="15" style="v" sid="GEN 49:15"/>Cuando vio que el establo era bueno y la tierra agradable, inclinó su hombro para cargar el fardoy accedió a ser esclavo.
-<verse eid="GEN 49:15"/><verse number="16" style="v" sid="GEN 49:16"/>»Dan será juez en su pueblo como una de las tribus de Israel.
+<verse eid="GEN 49:15"/><verse number="16" style="v" sid="GEN 49:16"/>Dan será juez en su pueblo como una de las tribus de Israel.
 <verse eid="GEN 49:16"/><verse number="17" style="v" sid="GEN 49:17"/>Será como serpiente en el camino, como víbora junto al sendero, que muerde los talones del caballoy hace caer de espaldas al jinete.
-<verse eid="GEN 49:17"/><verse number="18" style="v" sid="GEN 49:18"/>»Señor, espero tu salvación.
-<verse eid="GEN 49:18"/><verse number="19" style="v" sid="GEN 49:19"/>»Un ejército asalta a Gad, pero él lo atacará por la espalda.
-<verse eid="GEN 49:19"/><verse number="20" style="v" sid="GEN 49:20"/>»Aser goza de comidas deliciosas, ofrecerá manjares dignos de un rey.
-<verse eid="GEN 49:20"/><verse number="21" style="v" sid="GEN 49:21"/>»Neftalí es una cierva en libertadcon preciosos cervatillos.
-<verse eid="GEN 49:21"/><verse number="22" style="v" sid="GEN 49:22"/>»José es un retoño fructífero, fértil retoño  junto a la fuente, y sus ramas trepan por el muro.
+<verse eid="GEN 49:17"/><verse number="18" style="v" sid="GEN 49:18"/>Señor, espero tu salvación.
+<verse eid="GEN 49:18"/><verse number="19" style="v" sid="GEN 49:19"/>Un ejército asalta a Gad, pero él lo atacará por la espalda.
+<verse eid="GEN 49:19"/><verse number="20" style="v" sid="GEN 49:20"/>Aser goza de comidas deliciosas, ofrecerá manjares dignos de un rey.
+<verse eid="GEN 49:20"/><verse number="21" style="v" sid="GEN 49:21"/>Neftalí es una cierva en libertadcon preciosos cervatillos.
+<verse eid="GEN 49:21"/><verse number="22" style="v" sid="GEN 49:22"/>José es un retoño fructífero, fértil retoño  junto a la fuente, y sus ramas trepan por el muro.
 <verse eid="GEN 49:22"/><verse number="23" style="v" sid="GEN 49:23"/>Los arqueros lo atacan sin piedad,le lanzan flechas, le amargan la vida.
 <verse eid="GEN 49:23"/><verse number="24" style="v" sid="GEN 49:24"/>Pero su arco se mantuvo firme, fueron fortalecidos sus brazospor la mano del Fuerte de Jacob, por el Pastor, la Roca de Israel.
 <verse eid="GEN 49:24"/><verse number="25" style="v" sid="GEN 49:25"/>El Dios de tus padres te protege, el Todopoderoso te bendice con bendiciones de lo alto,con bendiciones del mar profundo, con bendiciones de los pechos y del seno materno.
 <verse eid="GEN 49:25"/><verse number="26" style="v" sid="GEN 49:26"/>Las bendiciones de tu padre son mejores que las de los montes antiguos,mejores que las de las colinas eternas.Estas bendiciones reposarán sobre la cabeza de José,sobre la frente del escogidoentre todos sus hermanos.
-<verse eid="GEN 49:26"/><verse number="27" style="v" sid="GEN 49:27"/>»Benjamín es un lobo rapaz; por la mañana devora la presay por la tarde reparte los despojos.
-<verse eid="GEN 49:27"/><verse number="28" style="v" sid="GEN 49:28"/>Estos son las doce tribus de Israel. Esto es lo que les dijo su padre cuando le dio a cada una de ellas su bendición.
+<verse eid="GEN 49:26"/><verse number="27" style="v" sid="GEN 49:27"/>Benjamín es un lobo rapaz; por la mañana devora la presay por la tarde reparte los despojos.
+<verse eid="GEN 49:27"/><verse number="28" style="v" sid="GEN 49:28"/>Estos son las 12 tribus de Israel. Esto es lo que les dijo su padre cuando le dio a cada una de ellas su bendición.
 <verse eid="GEN 49:28"/><verse number="30" style="v" sid="GEN 49:30"/>Además, Jacob les dio estas instrucciones:—Yo estoy a punto de ir a encontrarme con mis antepasados. Sepúltenme con mis antepasados en la cueva del campo 
 <verse eid="GEN 49:30"/><verse number="31" style="v" sid="GEN 49:31"/>Allí fueron sepultados Abraham y su esposa Sara. También lo fueron  Isaac y su esposa Rebeca. Allí también enterré a Lea.
 <verse eid="GEN 49:31"/><verse number="32" style="v" sid="GEN 49:32"/>El campo y la cueva fueron comprados a los hititas.
@@ -1560,17 +1523,17 @@
   <chapter number="50" style="c" sid="GEN 50"/>
   <para style="p"><verse number="1" style="v" sid="GEN 50:1"/>José se abrazó al cuerpo de su padre, entre lágrimas, y lo besó.
 <verse eid="GEN 50:1"/><verse number="2" style="v" sid="GEN 50:2"/>Luego pidió a los médicos que estaban a su servicio que embalsamaran el cuerpo. Así lo hicieron.
-<verse eid="GEN 50:2"/><verse number="3" style="v" sid="GEN 50:3"/>Esperaron los cuarenta días que requiere el proceso de embalsamamientos. Los egipcios hicieron duelo nacional por Israel durante setenta días.
+<verse eid="GEN 50:2"/><verse number="3" style="v" sid="GEN 50:3"/>Esperaron los 40 días que requiere el proceso de embalsamamientos. Los egipcios hicieron duelo nacional por Israel durante 70 días.
 <verse eid="GEN 50:3"/><verse number="4" style="v" sid="GEN 50:4"/>Pasados los días de luto, José habló con las personas de la corte del faraón con estas palabras: —Si me he ganado el respeto de ustedes, les ruego que le digan algo al faraón.
 <verse eid="GEN 50:4"/><verse number="5" style="v" sid="GEN 50:5"/>Mi padre, antes de morir, me hizo jurar que lo sepultaría en la tumba que él mismo preparó en la tierra de Canaán. Por eso ahora le ruego que me permita ir a sepultar a mi padre. Luego volveré.
 <verse eid="GEN 50:5"/><verse number="6" style="v" sid="GEN 50:6"/>El faraón respondió: —Ve y sepulta a tu padre, tal como le juraste hacer.
 <verse eid="GEN 50:6"/><verse number="8" style="v" sid="GEN 50:8"/>Entonces José fue a sepultar a su padre. Fue con él toda la gente de la corte del faraón, toda la gente importante de Egipto.  
 <verse eid="GEN 50:8"/><verse number="9" style="v" sid="GEN 50:9"/>Salieron con él carros y jinetes, de manera que formaban un cortejo impresionante.
 <verse eid="GEN 50:9"/><verse number="10" style="v" sid="GEN 50:10"/>Cuando llegaron al campo de Atad, que está al otro lado del Jordán, manifestaron sus lamentaciones con gran solemnidad. Allí José guardó siete días de luto por su padre.
-<verse eid="GEN 50:10"/><verse number="11" style="v" sid="GEN 50:11"/>Los habitantes del lugar, los cananeos, vieron aquellas manifestaciones de duelo en el campo de Atad. Dijeron: «Los egipcios están haciendo un duelo muy solemne». Por eso llamaron Abel Misrayin<char style="em" closed="true">Abel&amp;nbsp;Misrayin: </char>En hebreo, Abel Misrayin quiere decir&amp;nbsp;luto de los egipcios." class="footnote-marker"&gt;1 a ese lugar que está al otro lado del Jordán.
+<verse eid="GEN 50:10"/><verse number="11" style="v" sid="GEN 50:11"/>Los habitantes del lugar, los cananeos, vieron aquellas manifestaciones de duelo en el campo de Atad. Dijeron:—Los egipcios están haciendo un duelo muy solemne. Por eso llamaron Abel Misrayin1 a ese lugar que está al otro lado del Jordán.
 <verse eid="GEN 50:11"/><verse number="13" style="v" sid="GEN 50:13"/>Los hijos de Israel cumplieron las instrucciones de su padre.
 <verse eid="GEN 50:13"/><verse number="14" style="v" sid="GEN 50:14"/>José regresó a Egipto, junto con sus hermanos y junto con todos los que habían ido con él para enterrar a su padre.
-<verse eid="GEN 50:14"/><verse number="15" style="v" sid="GEN 50:15"/>Cuando los hermanos de José vieron que su padre había muerto, dijeron:–Tal vez José nos guarde rencor y quiera devolvernos todo el mal que le hicimos.
+<verse eid="GEN 50:14"/><verse number="15" style="v" sid="GEN 50:15"/>Cuando los hermanos de José vieron que su padre había muerto, dijeron:—Tal vez José nos guarde rencor y quiera devolvernos todo el mal que le hicimos.
 <verse eid="GEN 50:15"/><verse number="16" style="v" sid="GEN 50:16"/>Así que le hicieron llegar a José este mensaje:—Antes de morir, tu padre dejó estas instrucciones: 
 <verse eid="GEN 50:16"/><verse number="17" style="v" sid="GEN 50:17"/>“Díganle a José que perdone el terrible crimen y el pecado que sus hermanos cometieron contra él”. Ahora, por favor, perdona el pecado de los siervos del Dios de tu padre.Cuando José escuchó estas palabras, se conmovió profundamente y se echó a llorar.
 <verse eid="GEN 50:17"/><verse number="18" style="v" sid="GEN 50:18"/>Entonces llegaron sus hermanos, se postraron ante él y le dijeron: —Aquí estamos. Considéranos tus siervos.
@@ -1582,6 +1545,104 @@
 <verse eid="GEN 50:23"/><verse number="24" style="v" sid="GEN 50:24"/>Tiempo después, José dijo a sus hermanos:—Ya me queda poco para morir, pero Dios vendrá  y los sacará de este país para llevarlos a la tierra que prometió a Abraham, Isaac y Jacob.
 <verse eid="GEN 50:24"/><verse number="25" style="v" sid="GEN 50:25"/>Entonces José exigió este juramento a sus hijos:—Dios vendrá a ayudarlos. Cuando venga, ustedes se llevarán de aquí mis huesos.
 <verse eid="GEN 50:25"/><verse number="26" style="v" sid="GEN 50:26"/>José murió en Egipto a la edad de ciento diez años. Lo embalsamaron y pusieron su cuerpo en un ataúd.
-<verse eid="GEN 50:26"/></para>
+<verse eid="GEN 50:26"/><verse eid="GEN 50:26"/></para>
   <chapter eid="GEN 50"/>
+  <chapter number="5" style="c" sid="GEN 5"/>
+  <para style="p"><verse number="4" style="v" sid="GEN 5:4"/>Después del nacimiento de Set, Adán vivió ochocientos años más, tuvo hijos e hijas,
+<verse eid="GEN 5:4"/><verse number="0" style="v" sid="GEN 5:0"/>y murió a la edad de novecientos treinta años.
+<verse eid="GEN 5:0"/><verse number="9" style="v" sid="GEN 5:9"/>Después del nacimiento de Enós, vivió otros ochocientos siete años, tuvo hijos e hijas, 
+<verse eid="GEN 5:9"/><verse number="5" style="v" sid="GEN 5:5"/>y murió a la edad de novecientos doce años.
+<verse eid="GEN 5:5"/><verse number="759" style="v" sid="GEN 5:759"/>Después del nacimiento de Enoc, vivió ochocientos años, tuvo hijos e hijas, 
+<verse eid="GEN 5:759"/><verse eid="GEN 5:759"/></para>
+  <chapter eid="GEN 5"/>
+  <chapter number="6" style="c" sid="GEN 6"/>
+  <para style="p"><verse number="0" style="v" sid="GEN 6:0"/>le dolió haber creado al ser humano, y se lamentó en su corazón.
+<verse eid="GEN 6:0"/><verse eid="GEN 6:0"/></para>
+  <chapter eid="GEN 6"/>
+  <chapter number="9" style="c" sid="GEN 9"/>
+  <para style="p"><verse number="0" style="v" sid="GEN 9:0"/>Será el arcoíris. Cada vez que aparezca el arcoíris  en las nubes, les recordará la promesa que he hecho a toda la tierra.
+<verse eid="GEN 9:0"/><verse number="4" style="v" sid="GEN 9:4"/>Siempre que entre las nubes aparezca el arcoíris, lo veré. Así me acordaré del pacto que existe para siempre entre  todos los seres vivos de la tierra y yo».
+<verse eid="GEN 9:4"/><verse number="6" style="v" sid="GEN 9:6"/>Bebió del vino, se embriagó y se quedó desnudo dentro de su tienda.
+<verse eid="GEN 9:6"/><verse eid="GEN 9:6"/></para>
+  <chapter eid="GEN 9"/>
+  <chapter number="10" style="c" sid="GEN 10"/>
+  <para style="p"><verse number="8" style="v" sid="GEN 10:8"/>y la gran ciudad de Resén, que está entre Nínive y Cala.
+<verse eid="GEN 10:8"/><verse number="2" style="v" sid="GEN 10:2"/>los patruseos, los caslujitas —de quienes descienden los filisteos— y los caftoritas.
+<verse eid="GEN 10:2"/><verse number="0" style="v" sid="GEN 10:0"/>Hadorán, Uzal, Diclá, 
+<verse eid="GEN 10:0"/><verse number="0" style="v" sid="GEN 10:0"/>Ofir, Javilá y Jobab. Todos estos fueron hijos de Joctán
+<verse eid="GEN 10:0"/><verse eid="GEN 10:0"/></para>
+  <chapter eid="GEN 10"/>
+  <chapter number="14" style="c" sid="GEN 14"/>
+  <para style="p"><verse number="644" style="v" sid="GEN 14:644"/>que no tomaré nada de lo que es tuyo, ni un hilo ni una correa de sandalia, para que no digas: “Abram se hizo rico gracias a mí”.
+<verse eid="GEN 14:644"/><verse eid="GEN 14:644"/></para>
+  <chapter eid="GEN 14"/>
+  <chapter number="15" style="c" sid="GEN 15"/>
+  <para style="p"><verse number="88" style="v" sid="GEN 15:88"/>Como no me has dado descendencia, mi heredero va a ser un criado de mi casa, Eliezer de Damasco.
+<verse eid="GEN 15:88"/><verse eid="GEN 15:88"/></para>
+  <chapter eid="GEN 15"/>
+  <chapter number="16" style="c" sid="GEN 16"/>
+  <para style="p"><verse number="3" style="v" sid="GEN 16:3"/>Entonces Saray tomó a su sierva Agar la egipcia y se la entregó. Llevaban diez años viviendo en Canaán cuando sucedió esto.
+<verse eid="GEN 16:3"/><verse eid="GEN 16:3"/></para>
+  <chapter eid="GEN 16"/>
+  <chapter number="17" style="c" sid="GEN 17"/>
+  <para style="p"><verse number="5" style="v" sid="GEN 17:5"/>Este es mi pacto que guardarán: todo varón entre ustedes será circuncidado.
+<verse eid="GEN 17:5"/><verse eid="GEN 17:5"/></para>
+  <chapter eid="GEN 17"/>
+  <chapter number="19" style="c" sid="GEN 19"/>
+  <para style="p"><verse number="06" style="v" sid="GEN 19:06"/>¡Apresúrate, porque no puedo hacer nada hasta que llegues! Por eso, desde entonces, la ciudad se llamó Zoar.<char style="em" closed="true">Zoar: </char>En hebreo, <char style="em" closed="true">Zoar</char> significa <char style="em" closed="true">pequeña.</char>" class="footnote-marker"&gt;2
+<verse eid="GEN 19:06"/><verse eid="GEN 19:06"/></para>
+  <chapter eid="GEN 19"/>
+  <chapter number="22" style="c" sid="GEN 22"/>
+  <para style="p"><verse number="4" style="v" sid="GEN 22:4"/>El primogénito fue Uz; luego nacieron Buz y Quemuel, que es el padre de Aram. 
+<verse eid="GEN 22:4"/><verse number="4" style="v" sid="GEN 22:4"/>Tuvo después a Quésed, Jazó, Pildás, Yidlaf y Betuel. 
+<verse eid="GEN 22:4"/><verse eid="GEN 22:4"/></para>
+  <chapter eid="GEN 22"/>
+  <chapter number="30" style="c" sid="GEN 30"/>
+  <para style="p"><verse number="5" style="v" sid="GEN 30:5"/>Le puso por nombre José,<char style="em" closed="true">José: </char>En hebreo, <char style="em" closed="true">José </char>quiere decir <char style="em" closed="true">que&amp;nbsp;él añada.</char>" class="footnote-marker"&gt;7 y dijo: «Quiera el Señor añadirme un hijo más».
+<verse eid="GEN 30:5"/><verse eid="GEN 30:5"/></para>
+  <chapter eid="GEN 30"/>
+  <chapter number="31" style="c" sid="GEN 31"/>
+  <para style="p"><verse number="1" style="v" sid="GEN 31:1"/>Jacob, pues, engañó a Labán el arameo y salió sin decirle nada.
+<verse eid="GEN 31:1"/><verse eid="GEN 31:1"/></para>
+  <chapter eid="GEN 31"/>
+  <chapter number="32" style="c" sid="GEN 32"/>
+  <para style="p"><verse number="9" style="v" sid="GEN 32:9"/>Así se quedó solo. Entonces un hombre luchó con él hasta el amanecer.
+<verse eid="GEN 32:9"/><verse eid="GEN 32:9"/></para>
+  <chapter eid="GEN 32"/>
+  <chapter number="36" style="c" sid="GEN 36"/>
+  <para style="p"><verse number="7" style="v" sid="GEN 36:7"/>Los hijos de Elifaz fueron Temán, Omar, Zefo, Gatán y Quenaz. 
+<verse eid="GEN 36:7"/><verse number="44" style="v" sid="GEN 36:44"/>Elifaz tuvo un hijo con su concubina Timná, y lo llamó Amalec. Todos estos fueron descendientes de Ada, esposa de Esaú.
+<verse eid="GEN 36:44"/><verse number="2" style="v" sid="GEN 36:2"/>Coré, Gatán y Amalec. Estos fueron los jefes de los descendientes de Elifaz en la tierra de Edom. Todos ellos fueron descendientes de Ada.
+<verse eid="GEN 36:2"/><verse number="4" style="v" sid="GEN 36:4"/>Tras la muerte de Baal Janán, reinó Hadad, de la ciudad de Pau. La esposa de Hadad fue Mehitabel, hija de Matred y nieta de Mezab.
+<verse eid="GEN 36:4"/><verse number="2191" style="v" sid="GEN 36:2191"/>Quenaz, Temán, Mibzar, 
+<verse eid="GEN 36:2191"/><verse number="16576" style="v" sid="GEN 36:16576"/>Magdiel e Iram. Estos fueron los jefes de Edom, según los lugares donde vivían. Este fue Esaú, padre de los edomitas.
+<verse eid="GEN 36:16576"/><verse eid="GEN 36:16576"/></para>
+  <chapter eid="GEN 36"/>
+  <chapter number="37" style="c" sid="GEN 37"/>
+  <para style="p"><verse number="8" style="v" sid="GEN 37:8"/>Su padre continuó:—Ve a ver cómo están tus hermanos y el  rebaño y tráeme noticias.Así que lo envió desde el valle de Hebrón y José fue a Siquén.
+<verse eid="GEN 37:8"/><verse number="8" style="v" sid="GEN 37:8"/>No derramen sangre. Arrójenlo vivo a esta cisterna en el desierto, pero no le pongan la mano encima.Lo que Rubén quería era rescatarlo y llevarlo de vuelta con su padre.
+<verse eid="GEN 37:8"/><verse eid="GEN 37:8"/></para>
+  <chapter eid="GEN 37"/>
+  <chapter number="40" style="c" sid="GEN 40"/>
+  <para style="p"><verse number="3" style="v" sid="GEN 40:3"/>Así que los envió a la cárcel donde José estaba preso, bajo la custodia del capitán de la guardia.
+<verse eid="GEN 40:3"/><verse number="2" style="v" sid="GEN 40:2"/>con tres ramas. La vid echó brotes, floreció y maduraron uvas en los racimos.
+<verse eid="GEN 40:2"/><verse eid="GEN 40:2"/></para>
+  <chapter eid="GEN 40"/>
+  <chapter number="41" style="c" sid="GEN 41"/>
+  <para style="p"><verse number="9" style="v" sid="GEN 41:9"/>Esos supervisores, bajo el control del faraón, deberán recoger todo el alimento de los próximos años de abundancia y almacenarlo en las ciudades. Así habrá reserva de alimento.
+<verse eid="GEN 41:9"/><verse eid="GEN 41:9"/></para>
+  <chapter eid="GEN 41"/>
+  <chapter number="46" style="c" sid="GEN 46"/>
+  <para style="p"><verse number="1" style="v" sid="GEN 46:1"/>Los hijos de Rubén fueron Janoc, Falú, Jezrón y Carmí. 
+<verse eid="GEN 46:1"/><verse number="9" style="v" sid="GEN 46:9"/>Los hijos de Judá fueron Er, Onán, Selá, Fares y Zera, pero Er y Onán murieron en  Canaán. Los hijos de Fares fueron Jezrón y Jamul. 
+<verse eid="GEN 46:9"/><verse number="5" style="v" sid="GEN 46:5"/>Los hijos de Zabulón fueron Séred, Elón y Yalel.
+<verse eid="GEN 46:5"/><verse number="3" style="v" sid="GEN 46:3"/>Los hijos de Benjamín fueron Bela, Béquer, Asbel, Guerá, Naamán, Ehí, Ros, Mupín, Jupín y Ard. 
+<verse eid="GEN 46:3"/><verse number="904" style="v" sid="GEN 46:904"/>En total, los descendientes de Jacob y Raquel fueron 14 personas.
+<verse eid="GEN 46:904"/><verse number="1" style="v" sid="GEN 46:1"/>Estos fueron los hijos que Jacob tuvo con Bilhá, la sierva que Labán le dio a su hija Raquel. En total fueron 7.
+<verse eid="GEN 46:1"/><verse eid="GEN 46:1"/></para>
+  <chapter eid="GEN 46"/>
+  <chapter number="47" style="c" sid="GEN 47"/>
+  <para style="p"><verse number="3" style="v" sid="GEN 47:3"/>Tienes todo Egipto a tu disposición. Dales la mejor zona del país para vivir. Pueden quedarse en la región de Gosén. Y si sabes que algunos de ellos tienen experiencia, ponlos a cargo de mi ganado.
+<verse eid="GEN 47:3"/></para>
+  <chapter eid="GEN 47"/>
 </usx>

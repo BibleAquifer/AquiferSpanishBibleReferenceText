@@ -1,5 +1,9 @@
 <usx version="3.1">
   <book code="NUM" style="id">EN</book>
+  <para style="rem">Exported from Codex Translation Editor v0.24.0
+</para>
+  <para style="rem">Export Date: 2026-04-15T18:03:56.988Z
+</para>
   <para style="h">Numbers
 </para>
   <para style="toc1">Numbers
@@ -148,7 +152,7 @@
 <verse eid="NUM 6:6"/><verse number="7" style="v" sid="NUM 6:7"/>No importa si se trata del cuerpo de su padre, su madre, su hermano o su hermana. No debe hacerse impuro por su causa, pues el cabello sobre su cabeza muestra que ha hecho el voto.
 <verse eid="NUM 6:7"/><verse number="8" style="v" sid="NUM 6:8"/>Durante todo el tiempo de su voto, estará consagrado al Señor.
 <verse eid="NUM 6:8"/><verse number="9" style="v" sid="NUM 6:9"/>»Si se contamina porque alguien muere junto a él de repente, su cabeza quedará contaminada. Así que siete días después se afeitará la cabeza y así quedará limpio.
-<verse eid="NUM 6:9"/><verse number="10" style="v" sid="NUM 6:10"/>Al día siguiente, el octavo día, llevará dos tórtolas o dos pichones de paloma al sacerdote. Se los dará a la entrada de la tienda de reunión.
+<verse eid="NUM 6:9"/><verse number="10" style="v" sid="NUM 6:10"/>Al día siguiente, el octavo día, llevará 2 tórtolas o 2 pichones de paloma al sacerdote. Se los dará a la entrada de la tienda de reunión.
 <verse eid="NUM 6:10"/><verse number="11" style="v" sid="NUM 6:11"/>El sacerdote ofrecerá uno como sacrificio por el pecado y el otro como ofrenda quemada. Hará expiación por él a causa del pecado que lo contaminó al estar cerca del cadáver. Ese mismo día consagrará su cabeza nuevamente.
 <verse eid="NUM 6:11"/><verse number="12" style="v" sid="NUM 6:12"/>Consagrará al Señor los días de su voto y traerá un cordero de un año como ofrenda por la culpa. Los días anteriores no contarán porque su voto quedó contaminado.
 <verse eid="NUM 6:12"/><verse number="13" style="v" sid="NUM 6:13"/>»Al terminar el período de su consagración al Señor, será llevado a la entrada del santuario.
@@ -169,7 +173,7 @@
   <chapter number="7" style="c" sid="NUM 7"/>
   <para style="p"><verse number="1" style="v" sid="NUM 7:1"/>El día en que Moisés terminó de levantar el santuario, lo ungió y lo consagró junto con todos sus utensilios. También ungió y consagró el altar y todos sus utensilios.
 <verse eid="NUM 7:1"/><verse number="2" style="v" sid="NUM 7:2"/>Entonces los jefes de Israel, los líderes de las casas paternas, presentaron sus ofrendas.
-<verse eid="NUM 7:2"/><verse number="3" style="v" sid="NUM 7:3"/>Trajeron seis carretas cubiertas y doce bueyes, una carreta por cada dos jefes y un buey por cada jefe, y los presentaron ante el Señor a la entrada del santuario.
+<verse eid="NUM 7:2"/><verse number="3" style="v" sid="NUM 7:3"/>Trajeron 6 carretas cubiertas y 12 bueyes, una carreta por cada 2 jefes y un buey por cada jefe, y los presentaron ante el Señor a la entrada del santuario.
 <verse eid="NUM 7:3"/><verse number="5" style="v" sid="NUM 7:5"/>El Señor le dijo a Moisés:—Acepta estas ofrendas para usarlas en el servicio de la Tienda de reunión. Entrégaselas a los levitas, a cada uno según su servicio.
 <verse eid="NUM 7:5"/><verse number="6" style="v" sid="NUM 7:6"/>Moisés, por lo tanto, entregó los carros y los bueyes a los levitas.
 <verse eid="NUM 7:6"/><verse number="7" style="v" sid="NUM 7:7"/>Al clan de Guersón se le dieron dos carros y cuatro bueyes para su uso.
@@ -598,9 +602,9 @@
 <verse eid="NUM 20:23"/><verse number="24" style="v" sid="NUM 20:24"/>—Aarón va a morir y se unirá a sus antepasados. No entrará en el territorio que entrego a los israelitas. Es así porque ustedes desobedecieron mis órdenes en las aguas de Meribá.
 <verse eid="NUM 20:24"/><verse number="25" style="v" sid="NUM 20:25"/>Ahora toma a Aarón y a su hijo Eleazar, y llévalos al monte Hor.
 <verse eid="NUM 20:25"/><verse number="26" style="v" sid="NUM 20:26"/>Allí le quitarás a Aarón las vestiduras sacerdotales y se las pondrás a su hijo Eleazar. Aarón morirá allí y se reunirá con sus antepasados.
-<verse eid="NUM 20:26"/><verse number="27" style="v" sid="NUM 20:27"/>Moisés hizo lo que el Señor le había ordenado. Los tres subieron juntos al monte Hor a la vista de todo el pueblo.
+<verse eid="NUM 20:26"/><verse number="27" style="v" sid="NUM 20:27"/>Moisés hizo lo que el Señor le había ordenado. Los 3 subieron juntos al monte Hor a la vista de todo el pueblo.
 <verse eid="NUM 20:27"/><verse number="28" style="v" sid="NUM 20:28"/>Cuando llegaron a la cima, Moisés le quitó a Aarón las vestiduras sacerdotales. Se las puso a su hijo Eleazar. Aarón murió en la cima de la montaña. Moisés y Eleazar descendieron del monte.
-<verse eid="NUM 20:28"/><verse number="29" style="v" sid="NUM 20:29"/>Cuando el pueblo se enteró de la muerte de Aarón, lo lloró durante treinta días.
+<verse eid="NUM 20:28"/><verse number="29" style="v" sid="NUM 20:29"/>Cuando el pueblo se enteró de la muerte de Aarón, lo lloró durante 30 días.
 <verse eid="NUM 20:29"/><verse eid="NUM 20:29"/></para>
   <chapter eid="NUM 20"/>
   <chapter number="21" style="c" sid="NUM 21"/>
@@ -630,10 +634,10 @@
 <verse eid="NUM 21:23"/><verse number="24" style="v" sid="NUM 21:24"/>Los israelitas lo vencieron. Se apoderaron de su territorio desde el río Arnón hasta el río Jaboc. Eso es hasta donde empezaba la tierra de los amonitas, pues esa frontera estaba bien fortificada.
 <verse eid="NUM 21:24"/><verse number="25" style="v" sid="NUM 21:25"/>Israel  se apoderó de  todas las ciudades de los amorreos y habitó en ellas. Esto incluyó a Hesbón y  todas sus aldeas.
 <verse eid="NUM 21:25"/><verse number="26" style="v" sid="NUM 21:26"/>Hesbón era la ciudad de Sijón, rey de los amorreos. Él  antes había peleado contra el rey de Moab y le había quitado toda su tierra hasta el Arnón.
-<verse eid="NUM 21:26"/><verse number="27" style="v" sid="NUM 21:27"/>Por eso dicen los poetas: «Vengan a Hesbón, que sea reedificada y establecida la ciudad de Sijón.
-<verse eid="NUM 21:27"/><verse number="28" style="v" sid="NUM 21:28"/>»Porque de Hesbón salió fuego, una llama de la ciudad de Sijón que devoró Ar de Moab y consumió las alturas del Arnón.
+<verse eid="NUM 21:26"/><verse number="27" style="v" sid="NUM 21:27"/>Por eso dicen los poetas:Vengan a Hesbón, que sea reedificada y establecida la ciudad de Sijón.
+<verse eid="NUM 21:27"/><verse number="28" style="v" sid="NUM 21:28"/>De Hesbón salió fuego, una llama de la ciudad de Sijón que devoró Ar de Moab y consumió las alturas del Arnón.
 <verse eid="NUM 21:28"/><verse number="29" style="v" sid="NUM 21:29"/>¡Ay de ti, Moab! Pueblo de Quemós, has perecido. Tus hijos han huido, y tus hijas han sido llevadas cautivas por Sijón, rey de los amorreos.
-<verse eid="NUM 21:29"/><verse number="30" style="v" sid="NUM 21:30"/>»Hemos destruido Hesbón hasta Dibón, y hemos arrasado hasta Nofá y hasta Medeba».
+<verse eid="NUM 21:29"/><verse number="30" style="v" sid="NUM 21:30"/>Hemos destruido Hesbón hasta Dibón, y hemos arrasado hasta Nofá y hasta Medeba.
 <verse eid="NUM 21:30"/><verse number="31" style="v" sid="NUM 21:31"/>Así pues, Israel se estableció en la tierra de los amorreos.
 <verse eid="NUM 21:31"/><verse number="32" style="v" sid="NUM 21:32"/>Moisés envió exploradores a Jazer. Se apoderaron de sus aldeas y echaron a los amorreos que estaban allí.
 <verse eid="NUM 21:32"/><verse number="33" style="v" sid="NUM 21:33"/>Luego se volvieron y subieron por el camino a Basán. Og, rey de Basán, salió con todo su pueblo a su encuentro para hacerles batalla en Edrey.
@@ -682,63 +686,63 @@
 <verse eid="NUM 22:41"/><verse eid="NUM 22:41"/></para>
   <chapter eid="NUM 22"/>
   <chapter number="23" style="c" sid="NUM 23"/>
-  <para style="p"><verse number="1" style="v" sid="NUM 23:1"/>Balán le dijo al rey: —Construye siete altares y prepara siete becerros y siete carneros para el sacrificio.
+  <para style="p"><verse number="1" style="v" sid="NUM 23:1"/>Balán le dijo al rey: —Construye 7 altares y prepara 7 becerros y 7 carneros para el sacrificio.
 <verse eid="NUM 23:1"/><verse number="2" style="v" sid="NUM 23:2"/>Balac hizo lo que Balán le pidió. Sacrificaron un becerro y un carnero en cada altar.
 <verse eid="NUM 23:2"/><verse number="3" style="v" sid="NUM 23:3"/>Entonces Balán le dijo al rey: —Quédate junto al altar de los sacrificios mientras yo voy a ver si el Señor se encuentra conmigo. Luego te diré lo que él me diga. Después subió a una cumbre solitaria.
-<verse eid="NUM 23:3"/><verse number="4" style="v" sid="NUM 23:4"/>Dios se encontró allí con Balán, y este le dijo:—He preparado siete altares y he sacrificado un becerro y un carnero en cada uno.
+<verse eid="NUM 23:3"/><verse number="4" style="v" sid="NUM 23:4"/>Dios se encontró allí con Balán, y este le dijo:—He preparado 7 altares y he sacrificado un becerro y un carnero en cada uno.
 <verse eid="NUM 23:4"/><verse number="5" style="v" sid="NUM 23:5"/>El Señor le dio a Balán un mensaje para el rey Balac. Y le dijo:—Vulelve adonde está Balac y dile mis palabras.
 <verse eid="NUM 23:5"/><verse number="6" style="v" sid="NUM 23:6"/>Cuando Balán regresó, el rey estaba de pie junto a las ofrendas quemadas. Con él estaban todos los príncipes de Moab.
-<verse eid="NUM 23:6"/><verse number="7" style="v" sid="NUM 23:7"/>Este fue el mensaje de Balán:«Balac, rey de Moab, me trajo de Aram, desde las montañas orientales. "Ven —me dijo—, maldice a Jacob en mi favor. Ven y pronuncia condena contra Israel".
+<verse eid="NUM 23:6"/><verse number="7" style="v" sid="NUM 23:7"/>Este fue el mensaje de Balán:Balac, rey de Moab, me trajo de Aram, desde las montañas orientales. «Ven —me dijo—, maldice a Jacob en mi favor. Ven y pronuncia condena contra Israel».
 <verse eid="NUM 23:7"/><verse number="8" style="v" sid="NUM 23:8"/>Pero, ¿cómo puedo maldecir a quien Dios no ha maldecido? ¿Cómo puedo amenazar a quien Dios no ha amenazado?
 <verse eid="NUM 23:8"/><verse number="9" style="v" sid="NUM 23:9"/>Los he visto desde las cumbres altas, los he observado desde las colinas. Viven apartados y no se consideran como las demás naciones.
-<verse eid="NUM 23:9"/><verse number="10" style="v" sid="NUM 23:10"/>¿Quién puede contar la descendiencia de Jacob o enumerar la cuarta parte de Israel? Muera yo la muerte de los justos y que mi fin sea como el de ellos».
+<verse eid="NUM 23:9"/><verse number="10" style="v" sid="NUM 23:10"/>¿Quién puede contar la descendiencia de Jacob o enumerar la cuarta parte de Israel? Muera yo la muerte de los justos y que mi fin sea como el de ellos.
 <verse eid="NUM 23:10"/><verse number="11" style="v" sid="NUM 23:11"/>Entonces Balac le reclamó a Balán:—¿Qué me has hecho? Te traje para que maldijeras a mis enemigos, pero tú los has bendecido.
 <verse eid="NUM 23:11"/><verse number="12" style="v" sid="NUM 23:12"/>Balán le respondió:—¿Acaso puedo decir algo distinto de lo que el Señor pone en mi boca?
 <verse eid="NUM 23:12"/><verse number="13" style="v" sid="NUM 23:13"/>Entonces Balac le dijo:—Ven conmigo a otro lugar. Desde allí verás solo una parte del pueblo, no lo verás todo. Maldícelos desde allí.
-<verse eid="NUM 23:13"/><verse number="14" style="v" sid="NUM 23:14"/>Balac lo condujo al campo de Zofín, en la cima del monte Pisgá. Allí construyó siete altares y sacrificó un ternero y un carnero sobre cada uno.
+<verse eid="NUM 23:13"/><verse number="14" style="v" sid="NUM 23:14"/>Balac lo condujo al campo de Zofín, en la cima del monte Pisgá. Allí construyó 7 altares y sacrificó un ternero y un carnero sobre cada uno.
 <verse eid="NUM 23:14"/><verse number="15" style="v" sid="NUM 23:15"/>Entonces Balán le dijo al rey:—Quédate aquí junto a tu ofrenda quemada mientras yo voy a encontrarme con Dios.
 <verse eid="NUM 23:15"/><verse number="16" style="v" sid="NUM 23:16"/>El Señor se encontró con Balán. Le dio  un mensaje y le dijo:—Vuelve a Balac y dile lo que te voy a decir.
 <verse eid="NUM 23:16"/><verse number="17" style="v" sid="NUM 23:17"/>Balán regresó y encontró a Balac de pie junto a su ofrenda quemada. Lo acompañaron  los príncipes de Moab. Balac le preguntó:—¿Qué te ha dicho el Señor?
-<verse eid="NUM 23:17"/><verse number="18" style="v" sid="NUM 23:18"/>Entonces Balán le dio su mensaje:«Levántate, Balac, y escucha. Préstame atención, hijo de Zipor.
-<verse eid="NUM 23:18"/><verse number="19" style="v" sid="NUM 23:19"/>Dios no es hombre para mentir, ni hijo de hombre para arrepentirse. ¿Acaso dice algo y no lo cumple? ¿Promete y no lo hace?
+<verse eid="NUM 23:17"/><verse number="18" style="v" sid="NUM 23:18"/>Entonces Balán le dio su mensaje:Levántate, Balac, y escucha. Préstame atención, hijo de Zipor.
+<verse eid="NUM 23:18"/><verse number="19" style="v" sid="NUM 23:19"/>Dios no es ser humano para mentir, ni hijo de hombre para arrepentirse. ¿Acaso dice algo y no lo cumple? ¿Promete y no lo hace?
 <verse eid="NUM 23:19"/><verse number="20" style="v" sid="NUM 23:20"/>He recibido orden de bendecir. Dios ha bendecido y nadie puede cambiarlo.
-<verse eid="NUM 23:20"/><verse number="21" style="v" sid="NUM 23:21"/>»Él no ha visto maldad en Jacob ni injusticia en Israel. El Señor su Dios está con ellos, y entre ellos lo aclaman como Rey.
+<verse eid="NUM 23:20"/><verse number="21" style="v" sid="NUM 23:21"/>Él no ha visto maldad en Jacob ni injusticia en Israel. El Señor su Dios está con ellos, y entre ellos lo aclaman como Rey.
 <verse eid="NUM 23:21"/><verse number="22" style="v" sid="NUM 23:22"/>Dios los sacó de Egipto. Israel tiene la fuerza de un toro salvaje.
-<verse eid="NUM 23:22"/><verse number="23" style="v" sid="NUM 23:23"/>No hay hechicería que valga contra Jacob ni adivinación contra Israel. A su debido tiempo se dirá de Jacob y de Israel: "Miren lo que Dios ha hecho".
-<verse eid="NUM 23:23"/><verse number="24" style="v" sid="NUM 23:24"/>Un pueblo se levanta como leona y se alza como león. No descansará hasta devorar la presa y beber la sangre de sus víctimas».
+<verse eid="NUM 23:22"/><verse number="23" style="v" sid="NUM 23:23"/>No hay hechicería que valga contra Jacob ni adivinación contra Israel. A su debido tiempo se dirá de Jacob y de Israel: «Miren lo que Dios ha hecho».
+<verse eid="NUM 23:23"/><verse number="24" style="v" sid="NUM 23:24"/>Un pueblo se levanta como leona y se alza como león. No descansará hasta devorar la presa y beber la sangre de sus víctimas.
 <verse eid="NUM 23:24"/><verse number="25" style="v" sid="NUM 23:25"/>—Si no vas a maldecirlos, al menos no los bendigas —exclamó el rey Balac.
 <verse eid="NUM 23:25"/><verse number="26" style="v" sid="NUM 23:26"/>Pero Balán respondió:—¿No te dije que solo puedo decir lo que el Señor me ordene?
 <verse eid="NUM 23:26"/><verse number="27" style="v" sid="NUM 23:27"/>Entonces Balac le dijo:—Ven, te llevaré a otro lugar. Tal vez allí Dios permita que los maldigas.
 <verse eid="NUM 23:27"/><verse number="28" style="v" sid="NUM 23:28"/>Así que Balac llevó a Balán a la cumbre del monte Peor, desde donde se ve el desierto.
-<verse eid="NUM 23:28"/><verse number="29" style="v" sid="NUM 23:29"/>Balán nuevamente le dijo al rey que construyera siete altares y preparara siete becerros y siete carneros para el sacrificio.
+<verse eid="NUM 23:28"/><verse number="29" style="v" sid="NUM 23:29"/>Balán nuevamente le dijo al rey que construyera 7 altares y preparara 7 becerros y 7 carneros para el sacrificio.
 <verse eid="NUM 23:29"/><verse number="30" style="v" sid="NUM 23:30"/>El rey hizo como Balán le dijo, y ofreció un becerro y un carnero en cada altar.
 <verse eid="NUM 23:30"/><verse eid="NUM 23:30"/></para>
   <chapter eid="NUM 23"/>
   <chapter number="24" style="c" sid="NUM 24"/>
   <para style="p"><verse number="1" style="v" sid="NUM 24:1"/>Balán vio que al Señor le agradaba bendecir a Israel. No usó sus artes de hechicería como antes. En cambio,  se puso de pie en el desierto, mirando hacia el campamento de Israel.
 <verse eid="NUM 24:1"/><verse number="2" style="v" sid="NUM 24:2"/>Balán levantó la vista y contempló a Israel acampado por sus tribus. El Espíritu de Dios vino sobre él.
-<verse eid="NUM 24:2"/><verse number="3" style="v" sid="NUM 24:3"/>Balán pronunció su mensaje y dijo:«Palabras de Balán, hijo de Beor,mensaje del hombre de ojos abiertos.
+<verse eid="NUM 24:2"/><verse number="3" style="v" sid="NUM 24:3"/>Balán pronunció su mensaje y dijo:Palabras de Balán, hijo de Beor,mensaje del hombre de ojos abiertos.
 <verse eid="NUM 24:3"/><verse number="4" style="v" sid="NUM 24:4"/>Palabras de quien escucha lo que dice Dios, de quien ve lo que el Todopoderoso revela, de quien recibe visiones en trance.
-<verse eid="NUM 24:4"/><verse number="5" style="v" sid="NUM 24:5"/>»¡Qué hermosas son tus tiendas, Jacob, y tus moradas, Israel!
-<verse eid="NUM 24:5"/><verse number="6" style="v" sid="NUM 24:6"/>»Se extienden como arroyos, como jardines junto al río, como áloes plantados por el Señor, como cedros junto a las aguas.
-<verse eid="NUM 24:6"/><verse number="7" style="v" sid="NUM 24:7"/>El agua rebosará de sus cántaros, y su descendencia tendrá agua en abundancia. »Su rey será más grande que Agag, y su reino será exaltado.
-<verse eid="NUM 24:7"/><verse number="8" style="v" sid="NUM 24:8"/>»Dios lo sacó de Egipto. Israel tiene la fuerza de un toro salvaje. Devorará a las naciones enemigas.Les romperá los huesos y las atravesará con sus flechas.
-<verse eid="NUM 24:8"/><verse number="9" style="v" sid="NUM 24:9"/>Israel se agacha como un león, como una leona. ¿Quién se atreverá a despertarlo?»Bendito sea el que te bendigay maldito el que te maldiga».
+<verse eid="NUM 24:4"/><verse number="5" style="v" sid="NUM 24:5"/>¡Qué hermosas son tus tiendas, Jacob, y tus moradas, Israel!
+<verse eid="NUM 24:5"/><verse number="6" style="v" sid="NUM 24:6"/>Se extienden como arroyos, como jardines junto al río, como áloes plantados por el Señor, como cedros junto a las aguas.
+<verse eid="NUM 24:6"/><verse number="7" style="v" sid="NUM 24:7"/>El agua rebosará de sus cántaros, y su descendencia tendrá agua en abundancia. Su rey será más grande que Agag, y su reino será exaltado.
+<verse eid="NUM 24:7"/><verse number="8" style="v" sid="NUM 24:8"/>Dios lo sacó de Egipto. Israel tiene la fuerza de un toro salvaje. Devorará a las naciones enemigas.Les romperá los huesos y las atravesará con sus flechas.
+<verse eid="NUM 24:8"/><verse number="9" style="v" sid="NUM 24:9"/>Israel se agacha como un león, como una leona. ¿Quién se atreverá a despertarlo?Bendito sea el que te bendigay maldito el que te maldiga.
 <verse eid="NUM 24:9"/><verse number="10" style="v" sid="NUM 24:10"/>Balac se enfureció con Balán. Dio una palmada de rabia y le gritó: —Te mandé llamar para que maldijeras a mis enemigos. ¡Pero los has bendecido tres veces!
 <verse eid="NUM 24:10"/><verse number="11" style="v" sid="NUM 24:11"/>Ahora vete, regresa a tu lugar. Te dije que te honraría grandemente, pero el Señor te ha privado de ese honor.
 <verse eid="NUM 24:11"/><verse number="12" style="v" sid="NUM 24:12"/>Balán respondió a Balac:—¿Acaso no les dije lo mismo a los mensajeros que me enviaste? Les dije que
 <verse eid="NUM 24:12"/><verse number="13" style="v" sid="NUM 24:13"/>yo no podría decidir por mi cuenta hacer algo bueno o malo. No podría decidirlo incluso si Balac llenara su palacio de oro y plata y me lo diera. Dije que solo díría lo que el Señor me mandase.
 <verse eid="NUM 24:13"/><verse number="14" style="v" sid="NUM 24:14"/>Ahora regreso a mi pueblo. Antes, déjame anunciarte lo que este pueblo le hará al tuyo en el futuro.
-<verse eid="NUM 24:14"/><verse number="15" style="v" sid="NUM 24:15"/>Entonces Balán pronunció su mensaje:«Profecía de Balán, hijo de Beor, mensaje del hombre de ojos abiertos,
+<verse eid="NUM 24:14"/><verse number="15" style="v" sid="NUM 24:15"/>Entonces Balán pronunció su mensaje:Profecía de Balán, hijo de Beor, mensaje del hombre de ojos abiertos,
 <verse eid="NUM 24:15"/><verse number="16" style="v" sid="NUM 24:16"/>del que escucha las palabras de Dios, del que sabe lo que piensa el Altísimo, del que contempla la visión del Todopoderoso, del que entra en trance y tiene visiones.
-<verse eid="NUM 24:16"/><verse number="17" style="v" sid="NUM 24:17"/>»Lo veo, pero no en el presente. Lo contemplo, pero no de cerca. Una estrella surgirá de Jacob, un cetro se levantará de Israel. Aplastará las sienes de Moab y destruirá a todos los descendientes de Set.
+<verse eid="NUM 24:16"/><verse number="17" style="v" sid="NUM 24:17"/>Lo veo, pero no en el presente. Lo contemplo, pero no de cerca. Una estrella surgirá de Jacob, un cetro se levantará de Israel. Aplastará las sienes de Moab y destruirá a todos los descendientes de Set.
 <verse eid="NUM 24:17"/><verse number="18" style="v" sid="NUM 24:18"/>Edom será conquistado.Seír será conquistado por sus enemigos, pero Israel hará proezas.
-<verse eid="NUM 24:18"/><verse number="19" style="v" sid="NUM 24:19"/>De Jacob saldrá un soberano que destruirá a los sobrevivientes de la ciudad».
-<verse eid="NUM 24:19"/><verse number="20" style="v" sid="NUM 24:20"/>Luego Balán miró a los amalecitas y pronunció su mensaje:«Amalec fue la primera de las naciones, pero su destino  será la destrucción total».
-<verse eid="NUM 24:20"/><verse number="21" style="v" sid="NUM 24:21"/>Luego miró hacia los quenitas y pronunció su mensaje: «Tu morada parece segura,y tienes tu nido entre las rocas.
-<verse eid="NUM 24:21"/><verse number="22" style="v" sid="NUM 24:22"/>Aun así, oh quenita, serás destruido cuando Asiria te lleve cautivo».
-<verse eid="NUM 24:22"/><verse number="23" style="v" sid="NUM 24:23"/>Luego pronunció esta profecía:«¡Ay! ¿Quién podrá sobrevivir cuando Dios haga esto?
-<verse eid="NUM 24:23"/><verse number="24" style="v" sid="NUM 24:24"/>Vendrán barcos desde las costas de Chiprey afligirán a Asiria y a Éber, pero también ellos serán destruidos».
+<verse eid="NUM 24:18"/><verse number="19" style="v" sid="NUM 24:19"/>De Jacob saldrá un soberano que destruirá a los sobrevivientes de la ciudad.
+<verse eid="NUM 24:19"/><verse number="20" style="v" sid="NUM 24:20"/>Luego Balán miró a los amalecitas y pronunció su mensaje:—Amalec fue la primera de las naciones, pero su destino  será la destrucción total.
+<verse eid="NUM 24:20"/><verse number="21" style="v" sid="NUM 24:21"/>Luego miró hacia los quenitas y pronunció su mensaje: —Tu morada parece segura, y tienes tu nido entre las rocas.
+<verse eid="NUM 24:21"/><verse number="22" style="v" sid="NUM 24:22"/>Aun así, oh quenita, serás destruido cuando Asiria te lleve cautivo.
+<verse eid="NUM 24:22"/><verse number="23" style="v" sid="NUM 24:23"/>Luego pronunció esta profecía:—¡Ay! ¿Quién podrá sobrevivir cuando Dios haga esto?
+<verse eid="NUM 24:23"/><verse number="24" style="v" sid="NUM 24:24"/>Vendrán barcos desde las costas de Chipre y afligirán a Asiria y a Éber, pero también ellos serán destruidos.
 <verse eid="NUM 24:24"/><verse number="25" style="v" sid="NUM 24:25"/>Entonces Balán se levantó, partió y regresó a su tierra. Balac también se fue por su camino.
 <verse eid="NUM 24:25"/><verse eid="NUM 24:25"/></para>
   <chapter eid="NUM 24"/>
