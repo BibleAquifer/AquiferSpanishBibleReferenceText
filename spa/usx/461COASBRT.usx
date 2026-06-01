@@ -1,0 +1,502 @@
+<usx version="3.1">
+  <book code="1CO" style="id">EN</book>
+  <para style="rem">Exported from Codex Translation Editor v0.27.0-pr965-a5acfef
+</para>
+  <para style="rem">Export Date: 2026-06-01T19:25:41.975Z
+
+</para>
+  <para style="h">1 Corinthians
+</para>
+  <para style="toc1">1 Corinthians
+</para>
+  <para style="toc2">1 Corinthians
+</para>
+  <para style="toc3">1CO
+</para>
+  <para style="mt1">1 Corinthians
+</para>
+  <chapter number="1" style="c" sid="1CO 1"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 1:1"/>Pablo, llamado a ser apóstol de Cristo Jesús por la voluntad de Dios, y nuestro hermano Sóstenes;
+<verse eid="1CO 1:1"/><verse number="2" style="v" sid="1CO 1:2"/>a la iglesia de Dios que está en Corinto, a los que han sido santificados en Cristo Jesús y llamados a ser su pueblo santo, junto con todos los que en cualquier lugar invocan el nombre de nuestro Señor Jesucristo, Señor de ellos y nuestro.
+<verse eid="1CO 1:2"/><verse number="3" style="v" sid="1CO 1:3"/>Que la gracia y la paz de Dios nuestro Padre y del Señor Jesucristo sean con ustedes.
+<verse eid="1CO 1:3"/><verse number="4" style="v" sid="1CO 1:4"/>Siempre doy gracias a mi Dios por ustedes, por la gracia que les ha dado por medio de Cristo Jesús.
+<verse eid="1CO 1:4"/><verse number="5" style="v" sid="1CO 1:5"/>Unidos a Cristo, han sido enriquecidos en todo: en palabra y en conocimiento.
+<verse eid="1CO 1:5"/><verse number="6" style="v" sid="1CO 1:6"/>Nuestro testimonio acerca de Cristo se ha confirmado en ustedes,
+<verse eid="1CO 1:6"/><verse number="7" style="v" sid="1CO 1:7"/>de modo que no les falta ningún don espiritual mientras esperan con ansias que nuestro Señor Jesucristo se manifieste.
+<verse eid="1CO 1:7"/><verse number="8" style="v" sid="1CO 1:8"/>Él los mantendrá firmes hasta el fin, de modo que nadie pueda acusarlos de nada en el día de nuestro Señor Jesucristo.
+<verse eid="1CO 1:8"/><verse number="9" style="v" sid="1CO 1:9"/>Dios es fiel, y él los llamó a vivir en comunión con su Hijo Jesucristo, nuestro Señor.
+<verse eid="1CO 1:9"/><verse number="10" style="v" sid="1CO 1:10"/>Les ruego, hermanos, en el nombre de nuestro Señor Jesucristo, que todos estén en armonía y que no haya divisiones entre ustedes. Les pido que estén unidos en un mismo pensamiento y en un mismo propósito.
+<verse eid="1CO 1:10"/><verse number="11" style="v" sid="1CO 1:11"/>Hermanos, algunos de la familia de Cloé me han informado que hay rivalidades entre ustedes.
+<verse eid="1CO 1:11"/><verse number="12" style="v" sid="1CO 1:12"/>Me han dicho que algunos de ustedes dicen: «Yo soy de Pablo»; otros: «Yo soy de Apolos»; otros: «Yo soy de Pedro»; y otros: «Yo soy de Cristo».
+<verse eid="1CO 1:12"/><verse number="13" style="v" sid="1CO 1:13"/>¿Cómo es posible? ¿Acaso Cristo está dividido? ¿Acaso Pablo fue crucificado por ustedes? ¿Acaso fueron bautizados en el nombre de Pablo?
+<verse eid="1CO 1:13"/><verse number="14" style="v" sid="1CO 1:14"/>¡Gracias a Dios que no bauticé a ninguno de ustedes, excepto a Crispo y a Gayo!
+<verse eid="1CO 1:14"/><verse number="15" style="v" sid="1CO 1:15"/>Así nadie puede decir que fue bautizado en mi nombre.
+<verse eid="1CO 1:15"/><verse number="16" style="v" sid="1CO 1:16"/>Bueno, también bauticé a la familia de Estéfanas. Aparte de ellos, no recuerdo haber bautizado a nadie más,
+<verse eid="1CO 1:16"/><verse number="17" style="v" sid="1CO 1:17"/>porque Cristo no me envió a bautizar, sino a anunciar las buenas noticias. Y no lo hago con palabras elocuentes de sabiduría humana, para que el mensaje de la cruz de Cristo no pierda su poder.
+<verse eid="1CO 1:17"/><verse number="18" style="v" sid="1CO 1:18"/>Sé bien que el mensaje de la cruz es una locura para los que se pierden, pero para los que somos salvos es poder de Dios,
+<verse eid="1CO 1:18"/><verse number="19" style="v" sid="1CO 1:19"/>porque está escrito:«La sabiduría de sus sabios perecerá y la inteligencia de sus inteligentes se desvanecerá».
+<verse eid="1CO 1:19"/><verse number="20" style="v" sid="1CO 1:20"/>¿Dónde están los sabios? ¿Dónde están los maestros de la ley? ¿Dónde están los filósofos de este mundo? Dios ha demostrado que la sabiduría de este mundo es necedad.
+<verse eid="1CO 1:20"/><verse number="21" style="v" sid="1CO 1:21"/>En su sabiduría, Dios decidió que el mundo no lo conocería a través de su propia sabiduría. Por eso, a Dios le agradó salvar a los que creen mediante la locura de la predicación.
+<verse eid="1CO 1:21"/><verse number="22" style="v" sid="1CO 1:22"/>Los judíos piden señales milagrosas y los no judíos buscan sabiduría.
+<verse eid="1CO 1:22"/><verse number="23" style="v" sid="1CO 1:23"/>Nosotros, sin embargo, predicamos a Cristo crucificado, y por eso los judíos se escandalizan y los no judíos dicen que es una locura.
+<verse eid="1CO 1:23"/><verse number="24" style="v" sid="1CO 1:24"/>Pero para los llamados, tanto judíos como no judíos, Cristo es el poder de Dios y la sabiduría de Dios.
+<verse eid="1CO 1:24"/><verse number="25" style="v" sid="1CO 1:25"/>Porque la locura de Dios es más sabia que la sabiduría humana, y la debilidad de Dios es más fuerte que la fuerza humana.
+<verse eid="1CO 1:25"/><verse number="26" style="v" sid="1CO 1:26"/>Fíjense, hermanos, en el llamamiento de Dios entre ustedes: no muchos son sabios, poderosos ni de familias importantes según los criterios humanos.
+<verse eid="1CO 1:26"/><verse number="27" style="v" sid="1CO 1:27"/>Dios escogió lo que el mundo considera tonto para avergonzar a los sabios, y escogió lo que el mundo considera débil para avergonzar a los fuertes.
+<verse eid="1CO 1:27"/><verse number="28" style="v" sid="1CO 1:28"/>Él ha escogido a los que en el mundo no tienen importancia alguna para destruir a los que el mundo considera importantes.
+<verse eid="1CO 1:28"/><verse number="29" style="v" sid="1CO 1:29"/>Así nadie puede presumir delante de Dios.
+<verse eid="1CO 1:29"/><verse number="30" style="v" sid="1CO 1:30"/>Pero  ustedes están en Cristo Jesús gracias a Dios. Y él ha hecho a Cristo nuestra sabiduría, nuestra justicia, nuestra santificación y nuestra redención.
+<verse eid="1CO 1:30"/><verse number="31" style="v" sid="1CO 1:31"/>Por eso, como dicen las Escrituras: «Más bien, siéntanse orgullosos de esto: de conocerme y de comprender que yo soy el Señor».
+<verse eid="1CO 1:31"/><verse eid="1CO 1:31"/></para>
+  <chapter eid="1CO 1"/>
+  <chapter number="2" style="c" sid="1CO 2"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 2:1"/>Hermanos, cuando fui a visitarlos para anunciarles el misterio de Dios, no usé palabras elegantes ni argumentos complicados.
+<verse eid="1CO 2:1"/><verse number="2" style="v" sid="1CO 2:2"/>Mi decisión al estar entre ustedes fue más bien no hablarles de otra cosa que de Jesucristo y de su muerte en la cruz.
+<verse eid="1CO 2:2"/><verse number="3" style="v" sid="1CO 2:3"/>De hecho, estuve entre ustedes con tanta debilidad que temblaba de miedo.
+<verse eid="1CO 2:3"/><verse number="4" style="v" sid="1CO 2:4"/>Mi mensaje y mi predicación no se basaron en palabras sabias y persuasivas, sino en la demostración del poder del Espíritu.
+<verse eid="1CO 2:4"/><verse number="5" style="v" sid="1CO 2:5"/>Actué así para que la fe de ustedes no dependiera de la sabiduría humana, sino del poder de Dios.
+<verse eid="1CO 2:5"/><verse number="6" style="v" sid="1CO 2:6"/>Sin embargo, entre los que son maduros en la fe, sí hablo con sabiduría; pero no la sabiduría de este mundo ni la de sus gobernantes, que están destinados a desaparecer.
+<verse eid="1CO 2:6"/><verse number="7" style="v" sid="1CO 2:7"/>Más bien, exponemos la sabiduría de Dios que estaba oculta en un misterio, la sabiduría que Dios destinó para nuestra gloria desde la eternidad.
+<verse eid="1CO 2:7"/><verse number="8" style="v" sid="1CO 2:8"/>Ninguno de los gobernantes de este mundo la comprendió, porque si la hubieran comprendido, no habrían crucificado al Señor de la gloria.
+<verse eid="1CO 2:8"/><verse number="9" style="v" sid="1CO 2:9"/>Como está escrito: «Nadie ha escuchado ni visto, ninguna mente humana ha concebido lo que Dios ha preparado para quienes lo aman».
+<verse eid="1CO 2:9"/><verse number="10" style="v" sid="1CO 2:10"/>Pero Dios nos las reveló por medio de su Espíritu, pues el Espíritu todo lo examina, hasta las profundidades de Dios.
+<verse eid="1CO 2:10"/><verse number="11" style="v" sid="1CO 2:11"/>Nadie conoce los pensamientos de una persona, excepto su propio espíritu, que está dentro de ella. De la misma manera, nadie conoce los pensamientos de Dios, excepto el Espíritu de Dios.
+<verse eid="1CO 2:11"/><verse number="12" style="v" sid="1CO 2:12"/>Nosotros no hemos recibido el espíritu del mundo, sino el Espíritu que proviene de Dios, para que conozcamos todo lo que Dios nos ha dado por su gracia.
+<verse eid="1CO 2:12"/><verse number="13" style="v" sid="1CO 2:13"/>De esto hablamos, no con palabras enseñadas por la sabiduría humana, sino con palabras enseñadas por el Espíritu, expresando verdades espirituales en palabras espirituales.
+<verse eid="1CO 2:13"/><verse number="14" style="v" sid="1CO 2:14"/>La persona que no tiene el Espíritu no acepta lo que proviene del Espíritu de Dios, pues le parece una locura. No puede entenderlo, porque solo se discierne espiritualmente.
+<verse eid="1CO 2:14"/><verse number="15" style="v" sid="1CO 2:15"/>Por el contrario, el que tiene el Espíritu lo examina todo, pero él mismo no es examinado por nadie, porque
+<verse eid="1CO 2:15"/><verse number="16" style="v" sid="1CO 2:16"/>«¿Quién ha conocido la mente del Señor para poder instruirlo?». Pero nosotros tenemos la mente de Cristo.
+<verse eid="1CO 2:16"/><verse eid="1CO 2:16"/></para>
+  <chapter eid="1CO 2"/>
+  <chapter number="3" style="c" sid="1CO 3"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 3:1"/>Hermanos, no pude hablarles como a personas espirituales, sino como a personas carnales, como a niños en Cristo.
+<verse eid="1CO 3:1"/><verse number="2" style="v" sid="1CO 3:2"/>Les di leche, no alimento sólido, porque no podían digerirlo. Y todavía no pueden,
+<verse eid="1CO 3:2"/><verse number="3" style="v" sid="1CO 3:3"/>pues todavía son carnales. Mientras haya entre ustedes celos y divisiones, ¿no son carnales y se comportan siguiendo criterios meramente humanos?
+<verse eid="1CO 3:3"/><verse number="4" style="v" sid="1CO 3:4"/>Cuando uno dice: «Yo soy de Pablo» y otro: «Yo soy de Apolos», ¿no están siguiendo criterios meramente humanos?
+<verse eid="1CO 3:4"/><verse number="5" style="v" sid="1CO 3:5"/>¿Quién es Pablo? ¿Quién es Apolos? Solo somos servidores por medio de los cuales ustedes creyeron, cada uno según lo que el Señor le asignó.
+<verse eid="1CO 3:5"/><verse number="6" style="v" sid="1CO 3:6"/>Yo planté, Apolos regó, pero Dios hizo crecer.
+<verse eid="1CO 3:6"/><verse number="7" style="v" sid="1CO 3:7"/>Así que ni el que planta ni el que riega son importantes, sino Dios, que es quien hace crecer.
+<verse eid="1CO 3:7"/><verse number="8" style="v" sid="1CO 3:8"/>El que planta y el que riega son una misma cosa, aunque cada uno recibirá su recompensa según su propio trabajo.
+<verse eid="1CO 3:8"/><verse number="9" style="v" sid="1CO 3:9"/>Nosotros somos colaboradores de Dios. Ustedes son el cultivo de Dios, el edificio de Dios.
+<verse eid="1CO 3:9"/><verse number="10" style="v" sid="1CO 3:10"/>Por la gracia que Dios me ha dado, yo puse el fundamento como un experto constructor, y otro edifica sobre él. Pero cada uno debe tener cuidado de cómo construye,
+<verse eid="1CO 3:10"/><verse number="11" style="v" sid="1CO 3:11"/>porque nadie puede poner otro fundamento que el que ya está puesto, que es Jesucristo.
+<verse eid="1CO 3:11"/><verse number="12" style="v" sid="1CO 3:12"/>Sobre ese fundamento se puede construir con oro, plata y piedras preciosas, o con madera, heno y paja.
+<verse eid="1CO 3:12"/><verse number="13" style="v" sid="1CO 3:13"/>La obra de cada uno se hará evidente en aquel día, porque el día del juicio la revelará. Será revelada por fuego, y el fuego mismo probará la calidad del trabajo de cada uno.
+<verse eid="1CO 3:13"/><verse number="14" style="v" sid="1CO 3:14"/>Si la obra de alguien permanece, recibirá su recompensa.
+<verse eid="1CO 3:14"/><verse number="15" style="v" sid="1CO 3:15"/>Si la obra de alguien se quema, sufrirá pérdida. Él mismo se salvará, pero como quien escapa del fuego.
+<verse eid="1CO 3:15"/><verse number="16" style="v" sid="1CO 3:16"/>¿No saben que ustedes son el templo de Dios y que el Espíritu de Dios habita en ustedes?
+<verse eid="1CO 3:16"/><verse number="17" style="v" sid="1CO 3:17"/>Si alguien destruye el templo de Dios, Dios lo destruirá a él, porque el templo de Dios es sagrado, y ese templo son ustedes.
+<verse eid="1CO 3:17"/><verse number="18" style="v" sid="1CO 3:18"/>No se engañen. Si alguno de ustedes se cree sabio según los criterios de este mundo, que se haga ignorante para llegar a ser verdaderamente sabio.
+<verse eid="1CO 3:18"/><verse number="19" style="v" sid="1CO 3:19"/>Porque la sabiduría de este mundo es insensatez delante de Dios. Como está escrito: «Caen en sus propias trampas; él frustra sus planes».
+<verse eid="1CO 3:19"/><verse number="20" style="v" sid="1CO 3:20"/>También dice: «El Señor conoce los pensamientos humanos; sabe que son inútiles».
+<verse eid="1CO 3:20"/><verse number="21" style="v" sid="1CO 3:21"/>Por lo tanto, que nadie se sienta orgulloso de seguir a ningún líder humano, porque todo es de ustedes.
+<verse eid="1CO 3:21"/><verse number="22" style="v" sid="1CO 3:22"/>Ya sea Pablo, Apolos o Cefas, el mundo, la vida, la muerte, lo presente o lo que está por venir, todo es de ustedes,
+<verse eid="1CO 3:22"/><verse number="23" style="v" sid="1CO 3:23"/>y ustedes son de Cristo, y Cristo es de Dios.
+<verse eid="1CO 3:23"/><verse eid="1CO 3:23"/></para>
+  <chapter eid="1CO 3"/>
+  <chapter number="4" style="c" sid="1CO 4"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 4:1"/>Así que considérennos servidores de Cristo, encargados de administrar los misterios de Dios.
+<verse eid="1CO 4:1"/><verse number="2" style="v" sid="1CO 4:2"/>Ahora bien, se requiere que los que reciben un encargo   sean dignos de confianza.
+<verse eid="1CO 4:2"/><verse number="3" style="v" sid="1CO 4:3"/>En cuanto a mí, me importa muy poco que ustedes o cualquier tribunal humano me juzguen. Ni siquiera yo me juzgo a mí mismo.
+<verse eid="1CO 4:3"/><verse number="4" style="v" sid="1CO 4:4"/>Mi conciencia no me acusa de nada, pero eso no significa que sea justo. El que me juzga es el Señor.
+<verse eid="1CO 4:4"/><verse number="5" style="v" sid="1CO 4:5"/>Por eso, no juzguen nada antes de tiempo. Esperen hasta que venga el Señor. Él sacará a la luz lo que está oculto en las tinieblas y revelará las intenciones del corazón. Entonces cada uno recibirá de Dios el elogio que le corresponda.
+<verse eid="1CO 4:5"/><verse number="6" style="v" sid="1CO 4:6"/>Hermanos, he aplicado estos principios a Apolos y a mí mismo para beneficio de ustedes, para que aprendan de nosotros a no ir más allá de lo que está escrito. Así ninguno de ustedes presumirá de ir a favor de uno en contra de otro.
+<verse eid="1CO 4:6"/><verse number="7" style="v" sid="1CO 4:7"/>¿Qué te hace diferente de los demás? ¿Qué tienes que no hayas recibido? Y si lo recibiste, ¿por qué presumes como si no lo hubieras recibido?
+<verse eid="1CO 4:7"/><verse number="8" style="v" sid="1CO 4:8"/>¡Ya tienen todo lo que necesitan! ¡Ya se han hecho ricos! ¡Ya reinan sin nosotros! ¡Ojalá de verdad reinaran, para que nosotros también pudiéramos reinar con ustedes!
+<verse eid="1CO 4:8"/><verse number="9" style="v" sid="1CO 4:9"/>Me parece que Dios nos ha puesto a nosotros los apóstoles en el último lugar, como condenados a muerte. Hemos llegado a ser un espectáculo para el mundo, tanto para los ángeles como para los seres humanos.
+<verse eid="1CO 4:9"/><verse number="10" style="v" sid="1CO 4:10"/>Nosotros somos ignorantes por Cristo, pero ustedes son sabios en Cristo. Nosotros somos débiles, pero ustedes son fuertes. Ustedes reciben honra, pero nosotros, desprecio.
+<verse eid="1CO 4:10"/><verse number="11" style="v" sid="1CO 4:11"/>Hasta este momento pasamos hambre y sed, andamos mal vestidos, nos maltratan y no tenemos hogar.
+<verse eid="1CO 4:11"/><verse number="12" style="v" sid="1CO 4:12"/>Trabajamos duro con nuestras propias manos para ganarnos el sustento. Cuando nos maldicen, bendecimos; cuando nos persiguen, lo soportamos con paciencia.
+<verse eid="1CO 4:12"/><verse number="13" style="v" sid="1CO 4:13"/>Cuando hablan mal de nosotros, respondemos con amabilidad. Hasta ahora somos considerados la basura del mundo, el desecho de todos.
+<verse eid="1CO 4:13"/><verse number="14" style="v" sid="1CO 4:14"/>No les escribo esto para avergonzarlos, sino para advertirlos como a mis hijos amados,
+<verse eid="1CO 4:14"/><verse number="15" style="v" sid="1CO 4:15"/>porque aunque tengan miles de tutores en Cristo, no tienen muchos padres. Yo fui quien los engendró en Cristo Jesús por medio del evangelio.
+<verse eid="1CO 4:15"/><verse number="16" style="v" sid="1CO 4:16"/>Por tanto, los animo a que sigan mi ejemplo.
+<verse eid="1CO 4:16"/><verse number="17" style="v" sid="1CO 4:17"/>Por eso les envío a Timoteo, mi hijo amado y fiel en el Señor. Él les recordará mi manera de vivir en Cristo Jesús, tal como enseño en todas partes, en cada iglesia.
+<verse eid="1CO 4:17"/><verse number="18" style="v" sid="1CO 4:18"/>Sé que algunos de ustedes se han vuelto arrogantes pensando que no iré a visitarlos.
+<verse eid="1CO 4:18"/><verse number="19" style="v" sid="1CO 4:19"/>Pero iré pronto, si el Señor lo permite, y entonces veremos no solo lo que dicen estos arrogantes, sino qué poder tienen.
+<verse eid="1CO 4:19"/><verse number="20" style="v" sid="1CO 4:20"/>Porque el reino de Dios no es cuestión de palabras, sino de poder.
+<verse eid="1CO 4:20"/><verse number="21" style="v" sid="1CO 4:21"/>¿Qué prefieren? ¿Que vaya a ustedes con vara, o que vaya con amor y espíritu de mansedumbre?
+<verse eid="1CO 4:21"/><verse eid="1CO 4:21"/></para>
+  <chapter eid="1CO 4"/>
+  <chapter number="5" style="c" sid="1CO 5"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 5:1"/>Todo el mundo sabe que hay inmoralidad sexual entre ustedes, y de una gravedad tan grande que ni siquiera se da entre los paganos: uno de ustedes vive con la esposa de su padre.
+<verse eid="1CO 5:1"/><verse number="2" style="v" sid="1CO 5:2"/>¡Y esto los hace sentirse orgullosos! Deberían más bien lamentarse y expulsar de entre ustedes al que hizo esto.
+<verse eid="1CO 5:2"/><verse number="3" style="v" sid="1CO 5:3"/>Aunque no estoy presente físicamente, estoy con ustedes en espíritu, y ya he juzgado al que hizo esto.
+<verse eid="1CO 5:3"/><verse number="4" style="v" sid="1CO 5:4"/>Cuando se reúnan en el nombre de nuestro Señor Jesucristo, y yo esté presente en espíritu con el poder de nuestro Señor,
+<verse eid="1CO 5:4"/><verse number="5" style="v" sid="1CO 5:5"/>entreguen a ese hombre a Satanás para la destrucción de su carne, a fin de que su espíritu sea salvo en el día del Señor.
+<verse eid="1CO 5:5"/><verse number="6" style="v" sid="1CO 5:6"/>No es bueno el orgullo de ustedes. ¿No saben que un poco de levadura fermenta toda la masa?
+<verse eid="1CO 5:6"/><verse number="7" style="v" sid="1CO 5:7"/>Limpien la vieja levadura para que sean masa nueva, ya que son panes sin levadura. Porque Cristo, nuestro cordero pascual, ya fue sacrificado.
+<verse eid="1CO 5:7"/><verse number="8" style="v" sid="1CO 5:8"/>Así que celebremos la fiesta, no con la vieja levadura de malicia y maldad, sino con los panes sin levadura de la sinceridad y la verdad.
+<verse eid="1CO 5:8"/><verse number="9" style="v" sid="1CO 5:9"/>En mi carta anterior les dije que no se juntaran con personas inmorales.
+<verse eid="1CO 5:9"/><verse number="10" style="v" sid="1CO 5:10"/>No me refería a la gente inmoral de este mundo, ni a los avaros, estafadores o idólatras. De ser así, tendrían que salir del mundo.
+<verse eid="1CO 5:10"/><verse number="11" style="v" sid="1CO 5:11"/>Lo que quise decir es que no se junten con alguien que, llamándose hermano, sea inmoral sexualmente, avaro, idólatra, calumniador, borracho o estafador. Con esa persona ni siquiera coman.
+<verse eid="1CO 5:11"/><verse number="12" style="v" sid="1CO 5:12"/>¿Acaso me toca a mí juzgar a los de afuera? Ustedes deben juzgar a los de adentro.
+<verse eid="1CO 5:12"/><verse number="13" style="v" sid="1CO 5:13"/>Dios juzgará a los de afuera. «Expulsen de entre ustedes al malvado».
+<verse eid="1CO 5:13"/><verse eid="1CO 5:13"/></para>
+  <chapter eid="1CO 5"/>
+  <chapter number="6" style="c" sid="1CO 6"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 6:1"/>¿Cómo se atreven a llevar sus pleitos ante los tribunales paganos en lugar de presentarlos ante los creyentes?
+<verse eid="1CO 6:1"/><verse number="2" style="v" sid="1CO 6:2"/>¿No saben que los creyentes juzgarán al mundo? Y si van a juzgar al mundo, ¿no son capaces de resolver asuntos tan insignificantes?
+<verse eid="1CO 6:2"/><verse number="3" style="v" sid="1CO 6:3"/>¿No saben que juzgaremos a los ángeles? ¡Cuánto más los asuntos de esta vida!
+<verse eid="1CO 6:3"/><verse number="4" style="v" sid="1CO 6:4"/>Cuando tienen pleitos de este tipo, ¿cómo pueden someterlos a jueces que no son nada en la iglesia?
+<verse eid="1CO 6:4"/><verse number="5" style="v" sid="1CO 6:5"/>Digo esto para que se avergüencen. ¿Acaso no hay entre ustedes ni una sola persona lo suficientemente sabia como para resolver los conflictos entre hermanos?
+<verse eid="1CO 6:5"/><verse number="6" style="v" sid="1CO 6:6"/>En cambio, un hermano demanda a otro ¡y eso delante de los incrédulos!
+<verse eid="1CO 6:6"/><verse number="7" style="v" sid="1CO 6:7"/>El solo hecho de tener pleitos entre ustedes ya es una derrota. ¿Por qué no aceptar el agravio? ¿Por qué no aceptar el perjuicio?
+<verse eid="1CO 6:7"/><verse number="8" style="v" sid="1CO 6:8"/>Pero ustedes mismos cometen agravios y perjudican a otros, ¡y se trata de sus propios hermanos!
+<verse eid="1CO 6:8"/><verse number="9" style="v" sid="1CO 6:9"/>¿No saben que los que practican la injusticia no heredarán el reino de Dios? No se engañen: ni los inmorales sexuales, ni los idólatras, ni los adúlteros, ni los hombres que se prostituyen, ni los que practican la homosexualidad,
+<verse eid="1CO 6:9"/><verse number="10" style="v" sid="1CO 6:10"/>ni los ladrones, ni los avaros, ni los borrachos, ni los calumniadores ni los estafadores heredarán el reino de Dios.
+<verse eid="1CO 6:10"/><verse number="11" style="v" sid="1CO 6:11"/>Eso eran algunos de ustedes. Pero ya fueron lavados, ya fueron consagrados, ya fueron justificados en el nombre del Señor Jesucristo y por el Espíritu de nuestro Dios.
+<verse eid="1CO 6:11"/><verse number="12" style="v" sid="1CO 6:12"/>«Todo me está permitido», pero no todo me conviene. «Todo me está permitido», pero yo no me dejaré dominar por nada.
+<verse eid="1CO 6:12"/><verse number="13" style="v" sid="1CO 6:13"/>«Los alimentos son para el estómago y el estómago es para los alimentos», bien, pero Dios destruirá tanto el uno como los otros. El cuerpo no es para la inmoralidad sexual, sino para el Señor, y el Señor es para el cuerpo.
+<verse eid="1CO 6:13"/><verse number="14" style="v" sid="1CO 6:14"/>Dios resucitó al Señor y también nos resucitará a nosotros con su poder.
+<verse eid="1CO 6:14"/><verse number="15" style="v" sid="1CO 6:15"/>¿No saben que sus cuerpos son miembros de Cristo? ¿Tomaré acaso los miembros de Cristo para unirlos con una prostituta? ¡De ninguna manera!
+<verse eid="1CO 6:15"/><verse number="16" style="v" sid="1CO 6:16"/>¿No saben que el que se une a una prostituta se hace un solo cuerpo con ella? Porque Dios dice: «Y llegarán a ser uno solo».
+<verse eid="1CO 6:16"/><verse number="17" style="v" sid="1CO 6:17"/>Pero el que se une al Señor se hace uno con él en espíritu.
+<verse eid="1CO 6:17"/><verse number="18" style="v" sid="1CO 6:18"/>Por eso les digo: huyan de la inmoralidad sexual. Cualquier otro pecado que una persona cometa queda fuera del cuerpo, pero el que comete inmoralidad sexual peca contra su propio cuerpo.
+<verse eid="1CO 6:18"/><verse number="19" style="v" sid="1CO 6:19"/>¿No saben que su cuerpo es templo del Espíritu Santo que está en ustedes, el cual recibieron de Dios? Ustedes no se pertenecen a sí mismos,
+<verse eid="1CO 6:19"/><verse number="20" style="v" sid="1CO 6:20"/>porque fueron comprados por un precio. Por tanto, honren a Dios con su cuerpo.
+<verse eid="1CO 6:20"/><verse eid="1CO 6:20"/></para>
+  <chapter eid="1CO 6"/>
+  <chapter number="7" style="c" sid="1CO 7"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 7:1"/>En cuanto a los asuntos que me plantearon por carta, les respondo: es mejor que el hombre se abstenga de tocar a la mujer.
+<verse eid="1CO 7:1"/><verse number="2" style="v" sid="1CO 7:2"/>Pero, para evitar la inmoralidad sexual, que cada hombre tenga su propia esposa y cada mujer tenga su propio esposo.
+<verse eid="1CO 7:2"/><verse number="3" style="v" sid="1CO 7:3"/>El esposo debe cumplir con su deber conyugal hacia su esposa, y la esposa debe hacer lo mismo con su esposo.
+<verse eid="1CO 7:3"/><verse number="4" style="v" sid="1CO 7:4"/>La esposa ya no tiene autoridad sobre su propio cuerpo, sino su esposo. De la misma manera, el esposo ya no tiene autoridad sobre su propio cuerpo, sino su esposa.
+<verse eid="1CO 7:4"/><verse number="5" style="v" sid="1CO 7:5"/>No se nieguen el uno al otro, a menos que sea de mutuo acuerdo y por un tiempo limitado, para dedicarse a la oración. Después vuelvan a unirse, para que Satanás no los tiente por la falta de dominio propio.
+<verse eid="1CO 7:5"/><verse number="6" style="v" sid="1CO 7:6"/>Esto lo digo a modo de concesión, no como una orden.
+<verse eid="1CO 7:6"/><verse number="7" style="v" sid="1CO 7:7"/>Me gustaría que todos fueran como yo. Sin embargo, cada uno tiene su propio don de Dios: uno de una manera, otro de otra.
+<verse eid="1CO 7:7"/><verse number="8" style="v" sid="1CO 7:8"/>Pero a los solteros y a las viudas les digo que es mejor que se queden como yo.
+<verse eid="1CO 7:8"/><verse number="9" style="v" sid="1CO 7:9"/>Pero si no pueden controlarse, que se casen. Es mejor casarse que quemarse de pasión.
+<verse eid="1CO 7:9"/><verse number="10" style="v" sid="1CO 7:10"/>A los casados les doy esta orden, que no es mía, sino del Señor:la esposa no debe separarse de su esposo.
+<verse eid="1CO 7:10"/><verse number="11" style="v" sid="1CO 7:11"/>Pero si se separa, que permanezca sin casarse o que se reconcilie con su esposo. Y el esposo no debe divorciarse de su esposa.
+<verse eid="1CO 7:11"/><verse number="12" style="v" sid="1CO 7:12"/>A los demás les digo yo, no el Señor: si un hermano tiene una esposa que no es creyente, y ella está dispuesta a vivir con él, que no se divorcie de ella.
+<verse eid="1CO 7:12"/><verse number="13" style="v" sid="1CO 7:13"/>Y si una mujer creyente tiene un esposo que no es creyente, y él quiere vivir con ella, que no se divorcie de él.
+<verse eid="1CO 7:13"/><verse number="14" style="v" sid="1CO 7:14"/>El esposo no creyente queda santificado por su unión con su esposa creyente, y la esposa no creyente queda santificada por su unión con su esposo creyente. De lo contrario, sus hijos serían impuros, cuando en realidad son santos.
+<verse eid="1CO 7:14"/><verse number="15" style="v" sid="1CO 7:15"/>Pero si el cónyuge no creyente decide irse, que se vaya. En tales casos, el hermano o la hermana no están obligados a permanecer casados, porque Dios nos ha llamado a vivir en paz.
+<verse eid="1CO 7:15"/><verse number="16" style="v" sid="1CO 7:16"/>Mujer, ¿cómo sabes si salvarás a tu esposo? Hombre, ¿cómo sabes si salvarás a tu esposa?
+<verse eid="1CO 7:16"/><verse number="17" style="v" sid="1CO 7:17"/>Cada uno debe vivir en la condición que el Señor le asignó y en la que estaba cuando Dios lo llamó. Esta es mi norma para todas las iglesias.
+<verse eid="1CO 7:17"/><verse number="18" style="v" sid="1CO 7:18"/>¿Alguien fue llamado siendo circuncidado? No necesita disimularlo. ¿Alguien fue llamado siendo incircunciso? Que no se circuncide.
+<verse eid="1CO 7:18"/><verse number="19" style="v" sid="1CO 7:19"/>La circuncisión no tiene importancia, ni tampoco la incircuncisión. Lo que importa es obedecer los mandamientos de Dios.
+<verse eid="1CO 7:19"/><verse number="20" style="v" sid="1CO 7:20"/>Cada uno debe permanecer en la condición en que estaba cuando fue llamado.
+<verse eid="1CO 7:20"/><verse number="21" style="v" sid="1CO 7:21"/>¿Eras esclavo cuando fuiste llamado? No te preocupes. Pero si puedes obtener la libertad, aprovecha la oportunidad.
+<verse eid="1CO 7:21"/><verse number="22" style="v" sid="1CO 7:22"/>Si eras esclavo cuando el Señor te llamó, recuerda que Cristo te ha liberado; si eras libre cuando te llamó, recuerda que ahora eres esclavo de Cristo.
+<verse eid="1CO 7:22"/><verse number="23" style="v" sid="1CO 7:23"/>Ustedes fueron comprados por un gran precio. No se hagan esclavos de nadie.
+<verse eid="1CO 7:23"/><verse number="24" style="v" sid="1CO 7:24"/>Hermanos, cada uno debe permanecer delante de Dios en la condición en que estaba cuando fue llamado.
+<verse eid="1CO 7:24"/><verse number="25" style="v" sid="1CO 7:25"/>En cuanto a los que no están casados, no tengo ningún mandamiento del Señor. Pero les doy mi opinión como alguien en quien pueden confiar, gracias a la misericordia del Señor.
+<verse eid="1CO 7:25"/><verse number="26" style="v" sid="1CO 7:26"/>Estamos viviendo tiempos difíciles. Por eso creo que es mejor que cada uno se quede como está.
+<verse eid="1CO 7:26"/><verse number="27" style="v" sid="1CO 7:27"/>Si estás casado, no procures divorciarte. Si no estás casado, no procures casarte.
+<verse eid="1CO 7:27"/><verse number="28" style="v" sid="1CO 7:28"/>Sin embargo, si decides casarte, no pecas. Y si una joven se casa, tampoco peca. Pero los que se casan tendrán que enfrentar muchas dificultades, y yo quisiera evitarles eso.
+<verse eid="1CO 7:28"/><verse number="29" style="v" sid="1CO 7:29"/>Hermanos, lo que quiero decir es que el tiempo es corto. Por eso, los que tienen esposa deben vivir como si no la tuvieran;
+<verse eid="1CO 7:29"/><verse number="30" style="v" sid="1CO 7:30"/>los que lloran deben vivir como si no lloraran; los que están alegres, como si no lo estuvieran; los que compran, como si no poseyeran nada;
+<verse eid="1CO 7:30"/><verse number="31" style="v" sid="1CO 7:31"/>los que disfrutan de las cosas de este mundo deben vivir como si no las disfrutaran, porque este mundo, tal como lo conocemos, está por desaparecer.
+<verse eid="1CO 7:31"/><verse number="32" style="v" sid="1CO 7:32"/>Quisiera que estuvieran libres de preocupaciones. El soltero se preocupa de las cosas del Señor, de cómo agradarle.
+<verse eid="1CO 7:32"/><verse number="33" style="v" sid="1CO 7:33"/>El casado, en cambio, tiene que ocuparse de los asuntos de este mundo y de cómo agradar a su esposa.
+<verse eid="1CO 7:33"/><verse number="34" style="v" sid="1CO 7:34"/>Sus intereses están divididos. Lo mismo pasa con la mujer casada y la soltera. La soltera se preocupa de las cosas del Señor, de cómo consagrarse a él en cuerpo y espíritu. Pero la casada se preocupa de las cosas de este mundo, de cómo agradar a su esposo.
+<verse eid="1CO 7:34"/><verse number="35" style="v" sid="1CO 7:35"/>Digo esto por su propio bien, no para ponerles restricciones. Lo que quiero es que hagan lo correcto y sirvan al Señor sin distracciones.
+<verse eid="1CO 7:35"/><verse number="36" style="v" sid="1CO 7:36"/>Si alguien piensa que no está actuando correctamente con su prometida y siente que debe casarse con ella porque ella ya está en edad de hacerlo, que se case. No peca al hacerlo.
+<verse eid="1CO 7:36"/><verse number="37" style="v" sid="1CO 7:37"/>Pero el que se mantiene firme en su decisión, tiene dominio de sus impulsos y ha resuelto en su corazón no casarse, hace bien.
+<verse eid="1CO 7:37"/><verse number="38" style="v" sid="1CO 7:38"/>Así que el que se casa con su prometida hace bien, pero el que no se casa hace mejor.
+<verse eid="1CO 7:38"/><verse number="39" style="v" sid="1CO 7:39"/>Una mujer está ligada a su esposo mientras él vive. Pero si su esposo muere, queda libre para casarse con quien quiera, siempre y cuando sea creyente.
+<verse eid="1CO 7:39"/><verse number="40" style="v" sid="1CO 7:40"/>Pero en mi opinión, será más feliz si se queda soltera. Y creo que también yo tengo el Espíritu de Dios.
+<verse eid="1CO 7:40"/><verse eid="1CO 7:40"/></para>
+  <chapter eid="1CO 7"/>
+  <chapter number="8" style="c" sid="1CO 8"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 8:1"/>Ahora, en cuanto a los alimentos sacrificados a los ídolos, es cierto que todos tenemos conocimiento sobre este tema. Pero el conocimiento enorgullece, mientras que el amor edifica.
+<verse eid="1CO 8:1"/><verse number="2" style="v" sid="1CO 8:2"/>El que cree que sabe algo, todavía no sabe como debería saber.
+<verse eid="1CO 8:2"/><verse number="3" style="v" sid="1CO 8:3"/>Pero si alguien ama a Dios, Dios lo conoce.
+<verse eid="1CO 8:3"/><verse number="4" style="v" sid="1CO 8:4"/>Así que, en cuanto a comer alimentos sacrificados a los ídolos, sabemos que un ídolo no es nada  y que no hay más que un solo Dios.
+<verse eid="1CO 8:4"/><verse number="5" style="v" sid="1CO 8:5"/>Aunque existen muchos seres a los que llaman dioses, tanto en el cielo como en la tierra, y hay muchos a los que la gente llama dioses y señores,
+<verse eid="1CO 8:5"/><verse number="6" style="v" sid="1CO 8:6"/>para nosotros solo hay un Dios, el Padre, de quien proceden todas las cosas y para quien nosotros existimos; y un solo Señor, Jesucristo, por medio de quien existen todas las cosas y por medio de quien nosotros existimos.
+<verse eid="1CO 8:6"/><verse number="7" style="v" sid="1CO 8:7"/>Sin embargo, no todos tienen este conocimiento. Algunos, acostumbrados hasta ahora a los ídolos, comen alimentos como si fueran sacrificados a un ídolo, y su conciencia, que es débil, se contamina.
+<verse eid="1CO 8:7"/><verse number="8" style="v" sid="1CO 8:8"/>Pero los alimentos no nos acercan a Dios. No somos peores si no comemos ni mejores si comemos.
+<verse eid="1CO 8:8"/><verse number="9" style="v" sid="1CO 8:9"/>Pero tengan cuidado de que su libertad no se convierta en una piedra de tropiezo para los débiles.
+<verse eid="1CO 8:9"/><verse number="10" style="v" sid="1CO 8:10"/>Si alguien te ve a ti, que tienes conocimiento, comiendo en el templo de un ídolo, ¿no se sentirá animado en su conciencia débil a comer lo sacrificado a los ídolos?
+<verse eid="1CO 8:10"/><verse number="11" style="v" sid="1CO 8:11"/>Así que ese hermano débil, por quien Cristo murió, se destruirá por causa de tu conocimiento.
+<verse eid="1CO 8:11"/><verse number="12" style="v" sid="1CO 8:12"/>Al pecar así contra sus hermanos y herir su conciencia débil, están pecando contra Cristo.
+<verse eid="1CO 8:12"/><verse number="13" style="v" sid="1CO 8:13"/>Por eso, si lo que como hace tropezar a mi hermano, no comeré carne jamás, para no hacer tropezar a mi hermano.
+<verse eid="1CO 8:13"/><verse eid="1CO 8:13"/></para>
+  <chapter eid="1CO 8"/>
+  <chapter number="9" style="c" sid="1CO 9"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 9:1"/>¿No soy libre? ¿No soy apóstol? ¿No he visto a Jesús nuestro Señor? ¿No son ustedes el resultado de mi trabajo en el Señor?
+<verse eid="1CO 9:1"/><verse number="2" style="v" sid="1CO 9:2"/>Aunque para otros no sea apóstol, para ustedes sí lo soy, porque ustedes son el sello que confirma mi apostolado en el Señor.
+<verse eid="1CO 9:2"/><verse number="3" style="v" sid="1CO 9:3"/>Esta es mi respuesta a quienes cuestionan mi autoridad:
+<verse eid="1CO 9:3"/><verse number="4" style="v" sid="1CO 9:4"/>¿No tenemos derecho a comer y beber?
+<verse eid="1CO 9:4"/><verse number="5" style="v" sid="1CO 9:5"/>¿No tenemos derecho a llevar con nosotros una esposa creyente, como hacen los demás apóstoles, los hermanos del Señor y Pedro?
+<verse eid="1CO 9:5"/><verse number="6" style="v" sid="1CO 9:6"/>¿O es que solo Bernabé y yo debemos trabajar para ganarnos el sustento?
+<verse eid="1CO 9:6"/><verse number="7" style="v" sid="1CO 9:7"/>¿Qué soldado paga sus propios gastos cuando sirve en el ejército? ¿Quién planta una viña y no come de su fruto? ¿Quién cuida un rebaño y no toma de su leche?
+<verse eid="1CO 9:7"/><verse number="8" style="v" sid="1CO 9:8"/>¿Hablo solo desde un punto de vista humano? ¿No lo dice también la ley?
+<verse eid="1CO 9:8"/><verse number="9" style="v" sid="1CO 9:9"/>En efecto, en la ley de Moisés está escrito: «No le pondrás bozal al buey cuando trilla». ¿Acaso Dios se preocupa solo por los bueyes?
+<verse eid="1CO 9:9"/><verse number="10" style="v" sid="1CO 9:10"/>¿No lo dijo también por nosotros? Por supuesto que sí. Esto se escribió por nosotros, porque el que ara debe arar con esperanza, y el que trilla debe trillar con la esperanza de recibir su parte de la cosecha.
+<verse eid="1CO 9:10"/><verse number="11" style="v" sid="1CO 9:11"/>Si nosotros sembramos entre ustedes lo espiritual, ¿es mucho pedir que cosechemos de ustedes lo material?
+<verse eid="1CO 9:11"/><verse number="12" style="v" sid="1CO 9:12"/>Si otros tienen este derecho sobre ustedes, ¿no lo tenemos aún más nosotros? Sin embargo, no hemos usado este derecho. Al contrario, lo soportamos todo para no poner ningún obstáculo al evangelio de Cristo.
+<verse eid="1CO 9:12"/><verse number="13" style="v" sid="1CO 9:13"/>¿No saben que los que sirven en el templo reciben su alimento del templo, y que los que sirven en el altar participan de lo que se ofrece en el altar?
+<verse eid="1CO 9:13"/><verse number="14" style="v" sid="1CO 9:14"/>De la misma manera, el Señor ha ordenado que los que predican el evangelio vivan del evangelio.
+<verse eid="1CO 9:14"/><verse number="15" style="v" sid="1CO 9:15"/>Sin embargo, jamás he usado ninguno de estos derechos, y no estoy escribiendo esto para que ahora me los concedan. Prefiero morir antes que permitir que alguien me quite este motivo de orgullo.
+<verse eid="1CO 9:15"/><verse number="16" style="v" sid="1CO 9:16"/>No puedo sentir  orgullo por predicar las buenas noticias. Es mi obligación hacerlo. ¡Ay de mí si no predico el evangelio!
+<verse eid="1CO 9:16"/><verse number="17" style="v" sid="1CO 9:17"/>Si lo hiciera por mi propia voluntad, tendría recompensa. Pero como no es así, simplemente cumplo con la tarea que se me ha confiado.
+<verse eid="1CO 9:17"/><verse number="18" style="v" sid="1CO 9:18"/>¿Cuál es entonces mi recompensa? Que al predicar las buenas noticias pueda ofrecerlas gratuitamente, sin hacer uso de mis derechos como predicador del evangelio.
+<verse eid="1CO 9:18"/><verse number="19" style="v" sid="1CO 9:19"/>Aunque soy libre de todos, me he hecho esclavo de todos para ganar al mayor número posible de personas.
+<verse eid="1CO 9:19"/><verse number="20" style="v" sid="1CO 9:20"/>Con los judíos me hice como judío para ganar a los judíos. Con los que están bajo la ley me comporté como si estuviera bajo la ley, aunque no lo estoy, para ganar a los que están bajo la ley.
+<verse eid="1CO 9:20"/><verse number="21" style="v" sid="1CO 9:21"/>Con los que no tienen la ley, me he hecho como uno que no tiene la ley, para ganar a los que no tienen la ley. Aunque no estoy libre de la ley de Dios, sino bajo la ley de Cristo.
+<verse eid="1CO 9:21"/><verse number="22" style="v" sid="1CO 9:22"/>Con los débiles me hice débil para ganar a los débiles. Me he hecho de todo para todos, con el fin de salvar a algunos por todos los medios posibles.
+<verse eid="1CO 9:22"/><verse number="23" style="v" sid="1CO 9:23"/>Todo esto lo hago por causa del evangelio, para participar de sus frutos.
+<verse eid="1CO 9:23"/><verse number="24" style="v" sid="1CO 9:24"/>¿No saben que en una carrera todos los corredores compiten, pero solo uno recibe el premio? Corran de tal manera que lo consigan.
+<verse eid="1CO 9:24"/><verse number="25" style="v" sid="1CO 9:25"/>Todo atleta se somete a un riguroso entrenamiento. Ellos lo hacen para ganar una corona que se marchita, pero nosotros, una que es para siempre.
+<verse eid="1CO 9:25"/><verse number="26" style="v" sid="1CO 9:26"/>Por eso, yo no corro como quien no tiene una meta clara; no lucho como quien da golpes al aire.
+<verse eid="1CO 9:26"/><verse number="27" style="v" sid="1CO 9:27"/>Más bien, disciplino mi cuerpo y lo mantengo bajo control, no sea que, después de haber predicado a otros, yo mismo quede descalificado.
+<verse eid="1CO 9:27"/><verse eid="1CO 9:27"/></para>
+  <chapter eid="1CO 9"/>
+  <chapter number="10" style="c" sid="1CO 10"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 10:1"/>Hermanos, no quiero que ignoren lo que les sucedió a nuestros antepasados. Todos estuvieron bajo la nube y todos cruzaron el mar.
+<verse eid="1CO 10:1"/><verse number="2" style="v" sid="1CO 10:2"/>Todos fueron bautizados como seguidores de Moisés en la nube y en el mar.
+<verse eid="1CO 10:2"/><verse number="3" style="v" sid="1CO 10:3"/>Todos comieron el mismo alimento espiritual
+<verse eid="1CO 10:3"/><verse number="4" style="v" sid="1CO 10:4"/>y bebieron la misma bebida espiritual. Bebían de la roca espiritual que los acompañaba, y esa roca era Cristo.
+<verse eid="1CO 10:4"/><verse number="5" style="v" sid="1CO 10:5"/>Sin embargo, la mayoría de ellos no agradaron a Dios. Por eso, sus cuerpos quedaron tendidos en el desierto.
+<verse eid="1CO 10:5"/><verse number="6" style="v" sid="1CO 10:6"/>Estas cosas sucedieron como ejemplos para nosotros, a fin de que no codiciemos cosas malas como hicieron ellos.
+<verse eid="1CO 10:6"/><verse number="7" style="v" sid="1CO 10:7"/>No sean idólatras como  algunos de ellos, según está escrito: «El pueblo se sentó a comer y beber, y después se entregó al desenfreno».
+<verse eid="1CO 10:7"/><verse number="8" style="v" sid="1CO 10:8"/>No debemos cometer inmoralidad sexual como hicieron algunos de ellos, y en un solo día murieron 23.000.
+<verse eid="1CO 10:8"/><verse number="9" style="v" sid="1CO 10:9"/>No pongan a prueba al Señor como hicieron algunos de ellos, que murieron mordidos por serpientes.
+<verse eid="1CO 10:9"/><verse number="10" style="v" sid="1CO 10:10"/>No murmuren contra Dios como hicieron algunos de ellos, y fueron destruidos por el exterminador.
+<verse eid="1CO 10:10"/><verse number="11" style="v" sid="1CO 10:11"/>Estas cosas les sucedieron como ejemplo y fueron escritas para advertirnos a nosotros, que vivimos en los tiempos finales.
+<verse eid="1CO 10:11"/><verse number="12" style="v" sid="1CO 10:12"/>Así que, el que crea estar firme, tenga cuidado de no caer.
+<verse eid="1CO 10:12"/><verse number="13" style="v" sid="1CO 10:13"/>Ustedes no han sufrido ninguna tentación que no sea común a cualquier ser humano. Dios es fiel y no permitirá que sean tentados más allá de lo que puedan soportar. Cuando sean tentados, él les mostrará la salida para que puedan resistir.
+<verse eid="1CO 10:13"/><verse number="14" style="v" sid="1CO 10:14"/>Por eso, mis queridos hermanos, huyan de la idolatría.
+<verse eid="1CO 10:14"/><verse number="15" style="v" sid="1CO 10:15"/>Ustedes son inteligentes. Piensen en lo que les digo y juzguen ustedes mismos.
+<verse eid="1CO 10:15"/><verse number="16" style="v" sid="1CO 10:16"/>La copa de bendición por la que damos gracias, ¿no es acaso la participación en la sangre de Cristo? El pan que partimos, ¿no es acaso la participación en el cuerpo de Cristo?
+<verse eid="1CO 10:16"/><verse number="17" style="v" sid="1CO 10:17"/>Así como hay un solo pan, nosotros, aun siendo muchos, formamos un solo cuerpo, porque todos participamos de ese único pan.
+<verse eid="1CO 10:17"/><verse number="18" style="v" sid="1CO 10:18"/>Piensen en el pueblo de Israel: los que comen de los sacrificios, ¿no participan del altar?
+<verse eid="1CO 10:18"/><verse number="19" style="v" sid="1CO 10:19"/>¿Qué quiero decir con esto? ¿Acaso estoy diciendo que el ídolo es algo, o que lo sacrificado a los ídolos es algo?
+<verse eid="1CO 10:19"/><verse number="20" style="v" sid="1CO 10:20"/>No, para nada. Lo que digo es que cuando los paganos ofrecen sacrificios, se los ofrecen a los demonios, no a Dios. Y no quiero que ustedes tengan ninguna participación con los demonios.
+<verse eid="1CO 10:20"/><verse number="21" style="v" sid="1CO 10:21"/>No pueden beber de la copa del Señor y también de la copa de los demonios. No pueden participar de la mesa del Señor y también de la mesa de los demonios.
+<verse eid="1CO 10:21"/><verse number="22" style="v" sid="1CO 10:22"/>¿O vamos a provocar los celos del Señor? ¿Acaso somos más fuertes que él?
+<verse eid="1CO 10:22"/><verse number="23" style="v" sid="1CO 10:23"/>«Todo está permitido», bien, pero no todo es provechoso. «Todo está permitido», bien, pero no todo  edifica.
+<verse eid="1CO 10:23"/><verse number="24" style="v" sid="1CO 10:24"/>Que nadie busque solo sus propios intereses, sino también los de los demás.
+<verse eid="1CO 10:24"/><verse number="25" style="v" sid="1CO 10:25"/>Pueden comer cualquier carne que se venda en el mercado sin hacer preguntas por motivos de conciencia,
+<verse eid="1CO 10:25"/><verse number="26" style="v" sid="1CO 10:26"/>pues «del Señor es la tierra y todo lo que hay en ella».
+<verse eid="1CO 10:26"/><verse number="27" style="v" sid="1CO 10:27"/>Si alguien que no es creyente los invita a comer, y ustedes quieren ir, coman de todo lo que les sirvan sin hacer preguntas por motivos de conciencia.
+<verse eid="1CO 10:27"/><verse number="28" style="v" sid="1CO 10:28"/>Pero si alguien les dice que esa carne fue sacrificada a los ídolos, no la coman, por consideración a quien se lo dijo y por motivos de conciencia.
+<verse eid="1CO 10:28"/><verse number="29" style="v" sid="1CO 10:29"/>Me refiero a la conciencia del otro, no a la de ustedes. ¿Por qué habría de juzgarse mi libertad por la conciencia de otra persona?
+<verse eid="1CO 10:29"/><verse number="30" style="v" sid="1CO 10:30"/>Si doy gracias a Dios por lo que como, ¿por qué habría de ser criticado por ello?
+<verse eid="1CO 10:30"/><verse number="31" style="v" sid="1CO 10:31"/>Por tanto, ya sea que coman o beban, o cualquier otra cosa que hagan, háganlo todo para la gloria de Dios.
+<verse eid="1CO 10:31"/><verse number="32" style="v" sid="1CO 10:32"/>No sean causa de tropiezo para nadie: ni para los judíos ni para los no judíos ni para la iglesia de Dios.
+<verse eid="1CO 10:32"/><verse number="33" style="v" sid="1CO 10:33"/>Sigan mi ejemplo: yo procuro agradar a todos en todo. No busco mi propio beneficio, sino el de los demás, para que puedan ser salvos.
+<verse eid="1CO 10:33"/><verse eid="1CO 10:33"/></para>
+  <chapter eid="1CO 10"/>
+  <chapter number="11" style="c" sid="1CO 11"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 11:1"/>Sigan mi ejemplo, así como yo sigo el ejemplo de Cristo.
+<verse eid="1CO 11:1"/><verse number="2" style="v" sid="1CO 11:2"/>Los felicito, hermanos, porque se acuerdan de mí en todo y mantienen las enseñanzas tal como se las transmití.
+<verse eid="1CO 11:2"/><verse number="3" style="v" sid="1CO 11:3"/>Pero quiero que entiendan esto: Cristo es la cabeza de todo hombre, el hombre es la cabeza de la mujer, y Dios es la cabeza de Cristo.
+<verse eid="1CO 11:3"/><verse number="4" style="v" sid="1CO 11:4"/>Por eso, si un hombre ora o profetiza con la cabeza cubierta, deshonra a Cristo.
+<verse eid="1CO 11:4"/><verse number="5" style="v" sid="1CO 11:5"/>Y si una mujer ora o profetiza con la cabeza descubierta, deshonra a su esposo. Es como si tuviera la cabeza rapada.
+<verse eid="1CO 11:5"/><verse number="6" style="v" sid="1CO 11:6"/>Por eso, si la mujer se niega a cubrirse la cabeza, que se corte el cabello. Y si le da vergüenza cortarse el cabello, que se cubra la cabeza.
+<verse eid="1CO 11:6"/><verse number="7" style="v" sid="1CO 11:7"/>El hombre no debe cubrirse la cabeza, porque él es imagen y gloria de Dios. La mujer, en cambio, es la gloria del hombre,
+<verse eid="1CO 11:7"/><verse number="8" style="v" sid="1CO 11:8"/>porque el primer hombre no fue hecho de una mujer, sino que la primera mujer fue hecha del hombre.
+<verse eid="1CO 11:8"/><verse number="9" style="v" sid="1CO 11:9"/>Y el hombre no fue creado a causa dela mujer, sino la mujer a causa del hombre.
+<verse eid="1CO 11:9"/><verse number="10" style="v" sid="1CO 11:10"/>Por esa razón, la mujer debe cubrirse la cabeza como señal de autoridad, y por causa de los ángeles.
+<verse eid="1CO 11:10"/><verse number="11" style="v" sid="1CO 11:11"/>Sin embargo, en el Señor, ni el hombre existe sin la mujer ni la mujer sin el hombre,
+<verse eid="1CO 11:11"/><verse number="12" style="v" sid="1CO 11:12"/>porque aunque la primera mujer fue hecha del hombre, desde entonces todos los hombres nacen de mujer, y todo proviene de Dios.
+<verse eid="1CO 11:12"/><verse number="13" style="v" sid="1CO 11:13"/>Juzguen ustedes mismos: ¿es apropiado que una mujer ore a Dios con la cabeza descubierta?
+<verse eid="1CO 11:13"/><verse number="14" style="v" sid="1CO 11:14"/>¿No les enseña la naturaleza misma que es vergonzoso para el hombre dejarse crecer el cabello?
+<verse eid="1CO 11:14"/><verse number="15" style="v" sid="1CO 11:15"/>Pero para la mujer, el cabello largo es su gloria, porque le ha sido dado como velo.
+<verse eid="1CO 11:15"/><verse number="16" style="v" sid="1CO 11:16"/>Si alguien quiere   seguir discutiendo sobre esto, debe saber que nosotros no tenemos tal costumbre, ni tampoco las demás iglesias cristianas.
+<verse eid="1CO 11:16"/><verse number="17" style="v" sid="1CO 11:17"/>En lo que ahora les voy a decir no puedo felicitarlos: sus reuniones les hacen más daño que bien.
+<verse eid="1CO 11:17"/><verse number="18" style="v" sid="1CO 11:18"/>Me han dicho que cuando se reúnen, hay divisiones entre ustedes, y en parte lo creo.
+<verse eid="1CO 11:18"/><verse number="19" style="v" sid="1CO 11:19"/>Sin duda, es necesario que haya divisiones entre ustedes, para que se demuestre quiénes tienen la aprobación de Dios. 
+<verse eid="1CO 11:19"/><verse number="20" style="v" sid="1CO 11:20"/>Cuando se reúnen, lo que comen no es la cena del Señor,
+<verse eid="1CO 11:20"/><verse number="21" style="v" sid="1CO 11:21"/>porque cada uno se adelanta a comer su propia comida. Así, mientras unos pasan hambre, otros se emborrachan.
+<verse eid="1CO 11:21"/><verse number="22" style="v" sid="1CO 11:22"/>¿No tienen casas en las que pueden comer y beber? ¿O acaso menosprecian la iglesia de Dios y humillan a los que no tienen nada? ¿Qué debo decirles? ¿Los voy a felicitar por esto? ¡De ninguna manera!
+<verse eid="1CO 11:22"/><verse number="23" style="v" sid="1CO 11:23"/>Esto es lo que recibí del Señor y les transmití: La noche en que fue traicionado, el Señor Jesús tomó pan
+<verse eid="1CO 11:23"/><verse number="24" style="v" sid="1CO 11:24"/>y, después de dar gracias a Dios, lo partió y dijo:—Este es mi cuerpo, que es entregado por ustedes. Hagan esto en memoria de mí.
+<verse eid="1CO 11:24"/><verse number="25" style="v" sid="1CO 11:25"/>De igual forma, después de cenar, tomó la copa y dijo:—Esta copa es el nuevo pacto en mi sangre. Cada vez que beban de ella, háganlo en memoria de mí.
+<verse eid="1CO 11:25"/><verse number="26" style="v" sid="1CO 11:26"/>Cada vez que comen este pan y beben de esta copa, están proclamando la muerte del Señor hasta que él venga.
+<verse eid="1CO 11:26"/><verse number="27" style="v" sid="1CO 11:27"/>Por lo tanto, el que come el pan o bebe la copa del Señor de manera indigna será culpable de pecar contra el cuerpo y la sangre del Señor.
+<verse eid="1CO 11:27"/><verse number="28" style="v" sid="1CO 11:28"/>Por eso, cada uno debe examinarse a sí mismo antes de comer del pan y beber de la copa,
+<verse eid="1CO 11:28"/><verse number="29" style="v" sid="1CO 11:29"/>porque el que come y bebe sin discernir el cuerpo del Señor, come y bebe su propia condena.
+<verse eid="1CO 11:29"/><verse number="30" style="v" sid="1CO 11:30"/>Por eso muchos de ustedes están débiles y enfermos, y varios duermen.
+<verse eid="1CO 11:30"/><verse number="31" style="v" sid="1CO 11:31"/>Si nos examináramos a nosotros mismos, no seríamos juzgados.
+<verse eid="1CO 11:31"/><verse number="32" style="v" sid="1CO 11:32"/>Pero cuando el Señor nos juzga, nos disciplina para que no seamos condenados junto con el mundo.
+<verse eid="1CO 11:32"/><verse number="33" style="v" sid="1CO 11:33"/>Así que, hermanos míos, cuando se reúnan para comer, espérense unos a otros.
+<verse eid="1CO 11:33"/><verse number="34" style="v" sid="1CO 11:34"/>El que tenga hambre, que coma en su casa, para que sus reuniones no les acarreen juicio. Los demás asuntos los arreglaré cuando vaya.
+<verse eid="1CO 11:34"/><verse eid="1CO 11:34"/></para>
+  <chapter eid="1CO 11"/>
+  <chapter number="12" style="c" sid="1CO 12"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 12:1"/>Ahora bien, hermanos, en lo que respecta a los dones espirituales, quiero que entiendan bien el asunto.
+<verse eid="1CO 12:1"/><verse number="2" style="v" sid="1CO 12:2"/>Seguramente recuerdan cómo cuando eran paganos se dejaban arrastrar hacia los ídolos mudos.
+<verse eid="1CO 12:2"/><verse number="3" style="v" sid="1CO 12:3"/>Por eso les aclaro que nadie que habla por el Espíritu de Dios puede maldecir a Jesús, y nadie puede decir «Jesús es el Señor» si no es por el Espíritu Santo.
+<verse eid="1CO 12:3"/><verse number="4" style="v" sid="1CO 12:4"/>Ahora bien, hay diversidad de dones, pero el Espíritu es el mismo.
+<verse eid="1CO 12:4"/><verse number="5" style="v" sid="1CO 12:5"/>Hay diversidad de servicios, pero el Señor es el mismo.
+<verse eid="1CO 12:5"/><verse number="6" style="v" sid="1CO 12:6"/>Hay diversidad de actividades, pero es el mismo Dios quien obra todo en todos.
+<verse eid="1CO 12:6"/><verse number="7" style="v" sid="1CO 12:7"/>A cada uno se le da una manifestación del Espíritu para el bien común.
+<verse eid="1CO 12:7"/><verse number="8" style="v" sid="1CO 12:8"/>A unos se le da palabra de sabiduría por medio del Espíritu; a otros, palabra de conocimiento según el mismo Espíritu.
+<verse eid="1CO 12:8"/><verse number="9" style="v" sid="1CO 12:9"/>A otros se les da fe por el mismo Espíritu; a otros, dones de sanidades por el mismo Espíritu.
+<verse eid="1CO 12:9"/><verse number="10" style="v" sid="1CO 12:10"/>A otros, poder para hacer milagros; a otros, profecía; a otros, discernimiento de espíritus; a otros, diversos géneros de lenguas; y a otros, interpretación de lenguas.
+<verse eid="1CO 12:10"/><verse number="11" style="v" sid="1CO 12:11"/>Pero todas estas cosas las hace un mismo y único Espíritu, y él reparte a cada uno siguiendo su propia decisión.
+<verse eid="1CO 12:11"/><verse number="12" style="v" sid="1CO 12:12"/>El cuerpo humano es uno solo, aunque tiene muchos miembros, y todos los miembros, aunque son muchos, forman un solo cuerpo. Así también es Cristo.
+<verse eid="1CO 12:12"/><verse number="13" style="v" sid="1CO 12:13"/>Por un solo Espíritu fuimos todos bautizados en un solo cuerpo, ya seamos judíos o griegos, esclavos o libres; y a todos se nos dio a beber de un mismo Espíritu.
+<verse eid="1CO 12:13"/><verse number="14" style="v" sid="1CO 12:14"/>El cuerpo no consiste en un solo miembro, sino en muchos.
+<verse eid="1CO 12:14"/><verse number="15" style="v" sid="1CO 12:15"/>Si el pie dijera: «Como no soy mano, no pertenezco al cuerpo», ¿dejaría por eso de ser parte del cuerpo?
+<verse eid="1CO 12:15"/><verse number="16" style="v" sid="1CO 12:16"/>Si el oído dijera: «Yo no soy parte del cuerpo porque no soy ojo», ¿dejará por eso de ser parte del cuerpo?
+<verse eid="1CO 12:16"/><verse number="17" style="v" sid="1CO 12:17"/>Si todo el cuerpo fuera ojo, ¿dónde estaría el oído? Si todo el cuerpo fuera oído, ¿dónde estaría el olfato?
+<verse eid="1CO 12:17"/><verse number="18" style="v" sid="1CO 12:18"/>Dios dispuso cada miembro del cuerpo como él quiso.
+<verse eid="1CO 12:18"/><verse number="19" style="v" sid="1CO 12:19"/>Si todos fueran un solo miembro, ¿dónde estaría el cuerpo?
+<verse eid="1CO 12:19"/><verse number="20" style="v" sid="1CO 12:20"/>Pero Dios hizo el cuerpo con muchos miembros diferentes, y todos juntos forman un solo cuerpo.
+<verse eid="1CO 12:20"/><verse number="21" style="v" sid="1CO 12:21"/>El ojo no puede decirle a la mano: «No te necesito». Ni la cabeza puede decirles a los pies: «No los necesito».
+<verse eid="1CO 12:21"/><verse number="22" style="v" sid="1CO 12:22"/>Al contrario, los miembros del cuerpo que parecen más débiles son imprescindibles.
+<verse eid="1CO 12:22"/><verse number="23" style="v" sid="1CO 12:23"/>Y a las partes del cuerpo que consideramos menos honorables las tratamos con mayor honor, y a las partes que no son presentables las tratamos con más pudor.
+<verse eid="1CO 12:23"/><verse number="24" style="v" sid="1CO 12:24"/>Pero los miembros más presentables no necesitan tal cuidado. Dios formó el cuerpo de tal manera que dio más honor a los miembros que carecían de honor.
+<verse eid="1CO 12:24"/><verse number="25" style="v" sid="1CO 12:25"/>Así no hay divisiones en el cuerpo, sino que cada miembro se preocupa por los demás.
+<verse eid="1CO 12:25"/><verse number="26" style="v" sid="1CO 12:26"/>Si un miembro sufre, todos los demás sufren con él. Y si un miembro recibe honores, todos los demás se alegran con él.
+<verse eid="1CO 12:26"/><verse number="27" style="v" sid="1CO 12:27"/>Ahora bien, ustedes son el cuerpo de Cristo, y cada uno es miembro de ese cuerpo.
+<verse eid="1CO 12:27"/><verse number="28" style="v" sid="1CO 12:28"/>Dios ha puesto en la iglesia, en primer lugar, apóstoles; en segundo lugar, profetas; en tercer lugar, maestros; luego los que hacen milagros, los que tienen dones de sanidad, los que ayudan a otros, los que administran y los que hablan en diversas lenguas.
+<verse eid="1CO 12:28"/><verse number="29" style="v" sid="1CO 12:29"/>¿Son todos apóstoles? ¿Son todos profetas? ¿Son todos maestros? ¿Hacen todos milagros?
+<verse eid="1CO 12:29"/><verse number="30" style="v" sid="1CO 12:30"/>¿Tienen todos dones de sanidad? ¿Hablan todos en lenguas? ¿Interpretan todos?
+<verse eid="1CO 12:30"/><verse number="31" style="v" sid="1CO 12:31"/>Ustedes, por su parte, procuren los mejores dones. Pero ahora les mostraré un camino más excelente.
+<verse eid="1CO 12:31"/><verse eid="1CO 12:31"/></para>
+  <chapter eid="1CO 12"/>
+  <chapter number="13" style="c" sid="1CO 13"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 13:1"/>Si hablo en lenguas humanas y de ángeles, pero no tengo amor, no soy más que un metal que resuena o un platillo que hace ruido.
+<verse eid="1CO 13:1"/><verse number="2" style="v" sid="1CO 13:2"/>Si tengo el don de profecía y entiendo todos los misterios y todo conocimiento, y si tengo tanta fe como para mover montañas, pero no tengo amor, no soy nada.
+<verse eid="1CO 13:2"/><verse number="3" style="v" sid="1CO 13:3"/>Si reparto entre los pobres todo lo que poseo, y si entrego mi cuerpo para ser quemado, pero no tengo amor, de nada me sirve.
+<verse eid="1CO 13:3"/><verse number="4" style="v" sid="1CO 13:4"/>El amor es paciente y bondadoso. El amor no tiene envidia ni presume. No es orgulloso.
+<verse eid="1CO 13:4"/><verse number="5" style="v" sid="1CO 13:5"/>No es grosero ni egoísta, no se irrita fácilmente ni guarda rencor;
+<verse eid="1CO 13:5"/><verse number="6" style="v" sid="1CO 13:6"/>no disfruta con la injusticia, sino que se alegra con la verdad.
+<verse eid="1CO 13:6"/><verse number="7" style="v" sid="1CO 13:7"/>El amor todo lo disculpa, todo lo cree, todo lo espera, todo lo soporta.
+<verse eid="1CO 13:7"/><verse number="9" style="v" sid="1CO 13:9"/>El amor nunca deja de ser. Las profecías se acabarán, las lenguas cesarán y el conocimiento desaparecerá. Ahora conocemos de manera imperfecta y profetizamos de manera imperfecta,
+<verse eid="1CO 13:9"/><verse number="10" style="v" sid="1CO 13:10"/>pero cuando llegue lo perfecto, lo imperfecto desaparecerá.
+<verse eid="1CO 13:10"/><verse number="11" style="v" sid="1CO 13:11"/>Cuando yo era niño, hablaba como niño, pensaba como niño, razonaba como niño. Cuando me hice adulto, dejé atrás las cosas de niño.
+<verse eid="1CO 13:11"/><verse number="12" style="v" sid="1CO 13:12"/>Ahora vemos de manera borrosa, como en un espejo; pero entonces veremos cara a cara. Ahora conozco de manera imperfecta; pero entonces conoceré plenamente, tal como soy conocido.
+<verse eid="1CO 13:12"/><verse number="13" style="v" sid="1CO 13:13"/>Ahora permanecen estas 3 cosas: la fe, la esperanza y el amor, pero la más importante es el amor.
+<verse eid="1CO 13:13"/><verse eid="1CO 13:13"/></para>
+  <chapter eid="1CO 13"/>
+  <chapter number="14" style="c" sid="1CO 14"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 14:1"/>Busquen el amor por encima de todo. Deseen también los dones espirituales, especialmente el don de profecía.
+<verse eid="1CO 14:1"/><verse number="2" style="v" sid="1CO 14:2"/>El que habla en lenguas le habla a Dios, no a las personas, porque nadie lo entiende. Habla misterios por medio del Espíritu.
+<verse eid="1CO 14:2"/><verse number="3" style="v" sid="1CO 14:3"/>En cambio, el que profetiza habla a las personas para edificarlas, animarlas y consolarlas.
+<verse eid="1CO 14:3"/><verse number="4" style="v" sid="1CO 14:4"/>Por eso, el que habla en lenguas se edifica a sí mismo, pero el que profetiza edifica a la iglesia.
+<verse eid="1CO 14:4"/><verse number="5" style="v" sid="1CO 14:5"/>Me gustaría que todos hablaran en lenguas, pero más aún que profetizaran. El que profetiza hace algo mejor que el que habla en lenguas, a menos que este interprete lo que dice para que la iglesia sea edificada.
+<verse eid="1CO 14:5"/><verse number="6" style="v" sid="1CO 14:6"/>Ahora bien, hermanos, si voy a ustedes y les hablo en lenguas, ¿de qué les servirá? Pero si les hablo con una revelación, con conocimiento, con profecía o con enseñanza, entonces sí les será útil.
+<verse eid="1CO 14:6"/><verse number="7" style="v" sid="1CO 14:7"/>Lo mismo sucede con los instrumentos musicales, como la flauta o el arpa. Si no producen sonidos diferentes, ¿cómo se sabrá lo que se está tocando?
+<verse eid="1CO 14:7"/><verse number="8" style="v" sid="1CO 14:8"/>Y si la trompeta no da un toque claro, ¿quién se preparará para la batalla?
+<verse eid="1CO 14:8"/><verse number="9" style="v" sid="1CO 14:9"/>Así también ustedes, si no hablan palabras que se entiendan, ¿cómo se sabrá lo que dicen? Estarán hablando al aire.
+<verse eid="1CO 14:9"/><verse number="10" style="v" sid="1CO 14:10"/>Hay muchas lenguas en el mundo, y cada una tiene su propio significado.
+<verse eid="1CO 14:10"/><verse number="11" style="v" sid="1CO 14:11"/>Sin embargo, si no entiendo el significado de una lengua, seré un extranjero para el que habla, y el que habla será un extranjero para mí.
+<verse eid="1CO 14:11"/><verse number="12" style="v" sid="1CO 14:12"/>Así que, ya que ustedes desean con tanto entusiasmo los dones espirituales, procuren tener en abundancia los dones que edifican a la iglesia.
+<verse eid="1CO 14:12"/><verse number="13" style="v" sid="1CO 14:13"/>Por eso, el que habla en lenguas debe pedir a Dios que le dé la capacidad para interpretarlas.
+<verse eid="1CO 14:13"/><verse number="14" style="v" sid="1CO 14:14"/>Pues si yo oro en lenguas, mi espíritu ora, pero mi entendimiento queda sin fruto.
+<verse eid="1CO 14:14"/><verse number="15" style="v" sid="1CO 14:15"/>Entonces, ¿qué debo hacer? Oraré con el espíritu, pero también oraré con el entendimiento. Cantaré con el espíritu, pero también cantaré con el entendimiento.
+<verse eid="1CO 14:15"/><verse number="16" style="v" sid="1CO 14:16"/>Porque si bendices a Dios en lenguas, ¿cómo dirá «amén» el que no entiende, si no sabe lo que estás diciendo?
+<verse eid="1CO 14:16"/><verse number="17" style="v" sid="1CO 14:17"/>Tu acción de gracias podrá ser excelente, pero no edifica a los demás.
+<verse eid="1CO 14:17"/><verse number="18" style="v" sid="1CO 14:18"/>Doy gracias a Dios porque hablo en lenguas más que todos ustedes.
+<verse eid="1CO 14:18"/><verse number="19" style="v" sid="1CO 14:19"/>Sin embargo, en la iglesia prefiero decir 5 palabras que se entiendan e instruyan a otros que 10.000 palabras en lenguas.
+<verse eid="1CO 14:19"/><verse number="20" style="v" sid="1CO 14:20"/>Hermanos, no sean niños en su forma de pensar. Sean como niños en cuanto a la malicia, pero maduros en su forma de pensar.
+<verse eid="1CO 14:20"/><verse number="21" style="v" sid="1CO 14:21"/>En la ley está escrito: «Dios les hablará por medio de extranjeros que hablan lengua extraña. Pero ellos no quisieron escuchar».
+<verse eid="1CO 14:21"/><verse number="22" style="v" sid="1CO 14:22"/>Así que las lenguas son una señal, no para los creyentes, sino para los incrédulos. En cambio, la profecía es una señal, no para los incrédulos, sino para los creyentes.
+<verse eid="1CO 14:22"/><verse number="23" style="v" sid="1CO 14:23"/>Pero si un incrédulo o alguien que no entiende entra cuando todos están hablando en lenguas, pensará que están locos.
+<verse eid="1CO 14:23"/><verse number="24" style="v" sid="1CO 14:24"/>Pero si todos profetizan y entra un incrédulo o alguien que no entiende de estas cosas, se sentirá reprendido y juzgado por todos.
+<verse eid="1CO 14:24"/><verse number="25" style="v" sid="1CO 14:25"/>Los secretos de su corazón quedarán al descubierto, se postrará y adorará a Dios, declarando que Dios está realmente entre ustedes.
+<verse eid="1CO 14:25"/><verse number="26" style="v" sid="1CO 14:26"/>¿Qué conclusión sacamos de esto, hermanos? Cuando se reúnan, cada uno puede contribuir con un salmo, una enseñanza, una revelación, unas palabras en lenguas o una interpretación de las lenguas. Pero que todo se haga para edificación.
+<verse eid="1CO 14:26"/><verse number="27" style="v" sid="1CO 14:27"/>Si alguien habla en lenguas, que hablen dos o a lo más tres, y por turno; y que alguien interprete.
+<verse eid="1CO 14:27"/><verse number="28" style="v" sid="1CO 14:28"/>Si no hay intérprete, que guarden silencio en la iglesia. Que hablen para sí mismos y para Dios.
+<verse eid="1CO 14:28"/><verse number="29" style="v" sid="1CO 14:29"/>En cuanto a los profetas, que hablen dos o tres, y que los demás examinen con cuidado lo que digan.
+<verse eid="1CO 14:29"/><verse number="30" style="v" sid="1CO 14:30"/>Si mientras uno está profetizando otro recibe una revelación, el primero debe guardar silencio.
+<verse eid="1CO 14:30"/><verse number="31" style="v" sid="1CO 14:31"/>Así todos pueden profetizar por turno, para que todos aprendan y sean animados.
+<verse eid="1CO 14:31"/><verse number="32" style="v" sid="1CO 14:32"/>Los profetas tienen control sobre su don.
+<verse eid="1CO 14:32"/><verse number="33" style="v" sid="1CO 14:33"/>Dios no es Dios de desorden, sino de paz, como en todas las congregaciones de los santos.
+<verse eid="1CO 14:33"/><verse number="34" style="v" sid="1CO 14:34"/>Las mujeres deben guardar silencio en las iglesias. No se les permite hablar, sino que deben estar en sumisión, como también lo dice la ley.
+<verse eid="1CO 14:34"/><verse number="35" style="v" sid="1CO 14:35"/>Si quieren aprender algo, que pregunten a sus esposos en casa, porque no es apropiado que las mujeres hablen en la congregación.
+<verse eid="1CO 14:35"/><verse number="36" style="v" sid="1CO 14:36"/>¿Acaso la palabra de Dios salió de ustedes o solo a ustedes ha llegado?
+<verse eid="1CO 14:36"/><verse number="37" style="v" sid="1CO 14:37"/>Si alguien se considera profeta o persona espiritual, reconozca que lo que les escribo es mandato del Señor.
+<verse eid="1CO 14:37"/><verse number="38" style="v" sid="1CO 14:38"/>Si alguien no reconoce esto, él mismo tampoco será reconocido.
+<verse eid="1CO 14:38"/><verse number="39" style="v" sid="1CO 14:39"/>Así que, hermanos míos, procuren profetizar y no prohíban hablar en lenguas.
+<verse eid="1CO 14:39"/><verse number="40" style="v" sid="1CO 14:40"/>Pero que todo se haga de manera apropiada y en orden.
+<verse eid="1CO 14:40"/><verse eid="1CO 14:40"/></para>
+  <chapter eid="1CO 14"/>
+  <chapter number="15" style="c" sid="1CO 15"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 15:1"/>Ahora bien, hermanos, quiero recordarles las buenas noticias  que les prediqué, que recibieron y en las cuales se mantienen firmes.
+<verse eid="1CO 15:1"/><verse number="2" style="v" sid="1CO 15:2"/>Por medio de estas buenas noticias  son salvos, si se aferran a la palabra que les prediqué. De lo contrario, habrán creído para nada.
+<verse eid="1CO 15:2"/><verse number="3" style="v" sid="1CO 15:3"/>Lo primero y más importante que les transmití es lo que yo mismo recibí: que Cristo murió por nuestros pecados conforme a las Escrituras;
+<verse eid="1CO 15:3"/><verse number="4" style="v" sid="1CO 15:4"/>que fue sepultado y que resucitó al tercer día, conforme a las Escrituras;
+<verse eid="1CO 15:4"/><verse number="5" style="v" sid="1CO 15:5"/>que se apareció a Pedro y luego a los doce.
+<verse eid="1CO 15:5"/><verse number="6" style="v" sid="1CO 15:6"/>Después se apareció a más de 500 creyentes a la vez, la mayoría de los cuales todavía vive, aunque algunos ya han muerto.
+<verse eid="1CO 15:6"/><verse number="7" style="v" sid="1CO 15:7"/>Luego se apareció a Santiago y después a todos los apóstoles.
+<verse eid="1CO 15:7"/><verse number="8" style="v" sid="1CO 15:8"/>Por último, como si yo fuera uno nacido fuera de tiempo, se me apareció también a mí.
+<verse eid="1CO 15:8"/><verse number="9" style="v" sid="1CO 15:9"/>Yo soy el más insignificante de los apóstoles y ni siquiera merezco ser llamado apóstol, porque perseguí a la iglesia de Dios.
+<verse eid="1CO 15:9"/><verse number="10" style="v" sid="1CO 15:10"/>Pero por la gracia de Dios soy lo que soy, y su gracia hacia mí no ha sido en vano. Al contrario, he trabajado más que todos ellos, aunque no fui yo, sino la gracia de Dios que actuó en mí.
+<verse eid="1CO 15:10"/><verse number="11" style="v" sid="1CO 15:11"/>Pero no importa si fui yo o si fueron ellos; lo que importa es que esto es lo que predicamos y esto es lo que ustedes creyeron.
+<verse eid="1CO 15:11"/><verse number="12" style="v" sid="1CO 15:12"/>Ahora bien, si predicamos que Cristo resucitó de los muertos, ¿cómo pueden algunos de ustedes afirmar que no hay resurrección de muertos?
+<verse eid="1CO 15:12"/><verse number="13" style="v" sid="1CO 15:13"/>Si no hay resurrección, entonces Cristo tampoco resucitó.
+<verse eid="1CO 15:13"/><verse number="14" style="v" sid="1CO 15:14"/>Y si Cristo no resucitó, entonces nuestra predicación no tiene sentido y la fe de ustedes tampoco.
+<verse eid="1CO 15:14"/><verse number="15" style="v" sid="1CO 15:15"/>Y resultaría que nosotros somos falsos testigos de Dios, porque hemos hemos dado testimonio de que Dios resucitó a Cristo, y eso sería falso si es verdad que los muertos no resucitan.
+<verse eid="1CO 15:15"/><verse number="16" style="v" sid="1CO 15:16"/>Porque si los muertos no resucitan, entonces Cristo tampoco resucitó.
+<verse eid="1CO 15:16"/><verse number="17" style="v" sid="1CO 15:17"/>Y si Cristo no resucitó, la fe de ustedes es mera ilusión y todavía están en sus pecados.
+<verse eid="1CO 15:17"/><verse number="18" style="v" sid="1CO 15:18"/>Además, también estarían perdidos los que ya murieron en Cristo.
+<verse eid="1CO 15:18"/><verse number="19" style="v" sid="1CO 15:19"/>Si nuestra esperanza en Cristo es solo para esta vida, somos los más dignos de lástima de todos los seres humanos.
+<verse eid="1CO 15:19"/><verse number="20" style="v" sid="1CO 15:20"/>Pero la verdad es que Cristo sí resucitó de entre los muertos.Él es el primero de los que murieron.
+<verse eid="1CO 15:20"/><verse number="21" style="v" sid="1CO 15:21"/>La muerte entró al mundo por medio de un hombre, pero también por medio de un hombre llegó la resurrección de los muertos.
+<verse eid="1CO 15:21"/><verse number="22" style="v" sid="1CO 15:22"/>Así como en Adán todos mueren, también en Cristo todos serán vivificados.
+<verse eid="1CO 15:22"/><verse number="23" style="v" sid="1CO 15:23"/>Pero cada uno en su debido orden: Cristo es el primero; después, cuando Cristo venga, resucitarán los que le pertenecen.
+<verse eid="1CO 15:23"/><verse number="24" style="v" sid="1CO 15:24"/>Después llegará el fin, cuando Cristo entregue el reino a Dios el Padre, después de haber destruido todo dominio, toda autoridad y todo poder,
+<verse eid="1CO 15:24"/><verse number="25" style="v" sid="1CO 15:25"/>porque Cristo tiene que reinar hasta que haya puesto a todos sus enemigos bajo sus pies.
+<verse eid="1CO 15:25"/><verse number="26" style="v" sid="1CO 15:26"/>El último enemigo en ser destruido es la muerte.
+<verse eid="1CO 15:26"/><verse number="27" style="v" sid="1CO 15:27"/>Porque Dios «puso todo bajo su dominio». Ahora bien, cuando dice que todo queda sometido a su dominio, evidentemente esto no incluye a Dios mismo, que es quien puso todo bajo el dominio de Cristo.
+<verse eid="1CO 15:27"/><verse number="28" style="v" sid="1CO 15:28"/>Cuando por fin Cristo haya sometido todas las cosas, el Hijo mismo se someterá a aquel que lo sometió todo bajo su dominio, para que Dios sea todo en todos.
+<verse eid="1CO 15:28"/><verse number="29" style="v" sid="1CO 15:29"/>Si los muertos no resucitan, ¿por qué algunos se bautizan por ellos? ¿Para qué lo hacen si los muertos no resucitan?
+<verse eid="1CO 15:29"/><verse number="30" style="v" sid="1CO 15:30"/>¿Y para qué nos exponemos nosotros al peligro a cada momento?
+<verse eid="1CO 15:30"/><verse number="31" style="v" sid="1CO 15:31"/>Les aseguro que cada día estoy cara a cara ante la muerte. Esto es tan cierto como el orgullo que siento por ustedes en Cristo Jesús, nuestro Señor.
+<verse eid="1CO 15:31"/><verse number="32" style="v" sid="1CO 15:32"/>Si los muertos no resucitan, ¿de qué me sirve haber luchado contra fieras en Éfeso? Si los muertos no resucitan, «comamos y bebamos, que mañana moriremos».
+<verse eid="1CO 15:32"/><verse number="33" style="v" sid="1CO 15:33"/>No se dejen engañar: «Las malas compañías corrompen las buenas costumbres».
+<verse eid="1CO 15:33"/><verse number="34" style="v" sid="1CO 15:34"/>Recuperen la cordura y dejen de pecar, porque algunos de ustedes no conocen a Dios. Les digo esto para su vergüenza.
+<verse eid="1CO 15:34"/><verse number="35" style="v" sid="1CO 15:35"/>Quizás algunos se pregunten: «¿Cómo resucitan los muertos? ¿Con qué clase de cuerpo vienen?».
+<verse eid="1CO 15:35"/><verse number="36" style="v" sid="1CO 15:36"/>¡Qué tontería! Lo que siembras no cobra vida si antes no muere.
+<verse eid="1CO 15:36"/><verse number="37" style="v" sid="1CO 15:37"/>Cuando siembras, no plantas el cuerpo que llegará a ser, sino un simple grano, ya sea de trigo o de cualquier otra semilla,
+<verse eid="1CO 15:37"/><verse number="38" style="v" sid="1CO 15:38"/>pero Dios le da el cuerpo que quiso darle. A cada semilla le da su propio cuerpo.
+<verse eid="1CO 15:38"/><verse number="39" style="v" sid="1CO 15:39"/>No todos los seres vivos tienen el mismo cuerpo. Los seres humanos tienen un tipo de cuerpo, los animales otro, las aves otro y los peces otro.
+<verse eid="1CO 15:39"/><verse number="40" style="v" sid="1CO 15:40"/>Hay cuerpos celestiales y cuerpos terrenales. El esplendor de los celestiales es de una clase, y el de los terrenales es de otra.
+<verse eid="1CO 15:40"/><verse number="41" style="v" sid="1CO 15:41"/>El sol tiene una clase de brillo, la luna tiene otra y las estrellas tienen otra. Incluso las estrellas se diferencian entre sí por su brillo.
+<verse eid="1CO 15:41"/><verse number="42" style="v" sid="1CO 15:42"/>Así sucede con la resurrección de los muertos. El cuerpo que se siembra es corruptible; el que resucita es incorruptible.
+<verse eid="1CO 15:42"/><verse number="43" style="v" sid="1CO 15:43"/>lo que se siembra en deshonra resucita en gloria; lo que se siembra en debilidad resucita en poder.
+<verse eid="1CO 15:43"/><verse number="44" style="v" sid="1CO 15:44"/>Se siembra un cuerpo natural; resucita un cuerpo espiritual. Si hay cuerpo natural, también hay cuerpo espiritual.
+<verse eid="1CO 15:44"/><verse number="45" style="v" sid="1CO 15:45"/>Así está escrito: «El primer ser humano, Adán, llegó a ser un ser vivo». Del mismo modo, el último Adán se convirtió en espíritu que da vida.
+<verse eid="1CO 15:45"/><verse number="46" style="v" sid="1CO 15:46"/>Sin embargo, lo espiritual no vino primero, sino lo natural; después vino lo espiritual.
+<verse eid="1CO 15:46"/><verse number="47" style="v" sid="1CO 15:47"/>El primer ser humano vino del polvo de la tierra; el segundo vino del cielo.
+<verse eid="1CO 15:47"/><verse number="48" style="v" sid="1CO 15:48"/>El ser humano terrenal es como el que vino del polvo de la tierra, y el celestial es como el que vino del cielo.
+<verse eid="1CO 15:48"/><verse number="49" style="v" sid="1CO 15:49"/>Así como hemos llevado la imagen de aquel ser humano terrenal, también llevaremos la imagen del  celestial.
+<verse eid="1CO 15:49"/><verse number="50" style="v" sid="1CO 15:50"/>Sepan, hermanos, que la carne y la sangre no pueden heredar el reino de Dios, ni lo corruptible puede heredar lo incorruptible.
+<verse eid="1CO 15:50"/><verse number="51" style="v" sid="1CO 15:51"/>Les voy a revelar un misterio: no todos moriremos, pero todos seremos transformados.
+<verse eid="1CO 15:51"/><verse number="52" style="v" sid="1CO 15:52"/>Será en un instante, en un abrir y cerrar de ojos, cuando suene la última trompeta. Porque sonará la trompeta, y los muertos resucitarán incorruptibles, y nosotros seremos transformados.
+<verse eid="1CO 15:52"/><verse number="53" style="v" sid="1CO 15:53"/>Porque es necesario que lo corruptible se revista de incorrupción, y que lo mortal se revista de inmortalidad.
+<verse eid="1CO 15:53"/><verse number="54" style="v" sid="1CO 15:54"/>Cuando esto suceda, se cumplirá lo que está escrito: «La muerte ha sido devorada por la victoria».
+<verse eid="1CO 15:54"/><verse number="55" style="v" sid="1CO 15:55"/>«¿Dónde está, oh muerte, tu aguijón? ¿Dónde está, oh muerte, tu victoria?».
+<verse eid="1CO 15:55"/><verse number="56" style="v" sid="1CO 15:56"/>El aguijón de la muerte es el pecado, y el poder del pecado es la ley.
+<verse eid="1CO 15:56"/><verse number="57" style="v" sid="1CO 15:57"/>¡Gracias a Dios que nos da la victoria por medio de nuestro Señor Jesucristo!
+<verse eid="1CO 15:57"/><verse number="58" style="v" sid="1CO 15:58"/>Por eso, mis queridos hermanos, manténganse firmes e inquebrantables. Dedíquense siempre a la obra del Señor, sabiendo que su trabajo en el Señor no es en vano.
+<verse eid="1CO 15:58"/><verse eid="1CO 15:58"/></para>
+  <chapter eid="1CO 15"/>
+  <chapter number="16" style="c" sid="1CO 16"/>
+  <para style="p"><verse number="1" style="v" sid="1CO 16:1"/>Ahora, en cuanto a la colecta para los creyentes, sigan las mismas instrucciones que di a las iglesias de Galacia.
+<verse eid="1CO 16:1"/><verse number="2" style="v" sid="1CO 16:2"/>Cada primer día de la semana, cada uno de ustedes aparte y guarde algo propocional a lo que haya ganado, para que no se hagan colectas cuando yo llegue.
+<verse eid="1CO 16:2"/><verse number="3" style="v" sid="1CO 16:3"/>Cuando llegue, enviaré a las personas que ustedes aprueben con cartas para llevar su ofrenda a Jerusalén.
+<verse eid="1CO 16:3"/><verse number="4" style="v" sid="1CO 16:4"/>Si resula conveniente que yo también vaya, iré con ellos.
+<verse eid="1CO 16:4"/><verse number="5" style="v" sid="1CO 16:5"/>Iré a visitarlos después de pasar por Macedonia, pues tengo que atravesar esa región.
+<verse eid="1CO 16:5"/><verse number="6" style="v" sid="1CO 16:6"/>Tal vez me quede con ustedes todo el invierno, y luego ustedes podrán ayudarme a continuar mi viaje.
+<verse eid="1CO 16:6"/><verse number="7" style="v" sid="1CO 16:7"/>No quiero visitarlos solo de paso. Espero quedarme con ustedes un tiempo, si el Señor lo permite.
+<verse eid="1CO 16:7"/><verse number="8" style="v" sid="1CO 16:8"/>Me quedaré en Éfeso hasta el día de pentecostés,
+<verse eid="1CO 16:8"/><verse number="9" style="v" sid="1CO 16:9"/>pues aquí se me ha abierto una gran puerta para el trabajo, aunque hay muchos que se oponen.
+<verse eid="1CO 16:9"/><verse number="10" style="v" sid="1CO 16:10"/>Si Timoteo llega allá, procuren que se sienta cómodo, porque él trabaja para el Señor igual que yo.
+<verse eid="1CO 16:10"/><verse number="11" style="v" sid="1CO 16:11"/>Que nadie lo menosprecie. Ayúdenlo a continuar su viaje en paz para que regrese junto a mí, porque lo estoy esperando junto con los hermanos que vienen con él.
+<verse eid="1CO 16:11"/><verse number="12" style="v" sid="1CO 16:12"/>Insistí mucho a Apolos para que fuera a visitarlos con los otros hermanos, pero él no creyó conveniente ir ahora. Irá cuando tenga la oportunidad.
+<verse eid="1CO 16:12"/><verse number="13" style="v" sid="1CO 16:13"/>Manténganse alerta y firmes en la fe. Sean valientes y fuertes.
+<verse eid="1CO 16:13"/><verse number="14" style="v" sid="1CO 16:14"/>Hagan todo con amor.
+<verse eid="1CO 16:14"/><verse number="15" style="v" sid="1CO 16:15"/>Como bien saben, Estéfanas y su familia fueron los primeros en convertirse en Acaya, y han dedicado su vida a servir a los creyentes. Les pido, hermanos,
+<verse eid="1CO 16:15"/><verse number="16" style="v" sid="1CO 16:16"/>que se pongan a disposición de ellos y de todos aquellos que trabajan arduamente en esta labor.
+<verse eid="1CO 16:16"/><verse number="17" style="v" sid="1CO 16:17"/>Me alegré mucho cuando llegaron Estéfanas, Fortunato y Acaico. Ellos me han dado el apoyo que ustedes no pudieron darme por estar lejos.
+<verse eid="1CO 16:17"/><verse number="18" style="v" sid="1CO 16:18"/>Me tranquilizaron mi espíritu y también el de ustedes. Reconozcan el trabajo de personas como estas.
+<verse eid="1CO 16:18"/><verse number="19" style="v" sid="1CO 16:19"/>Las iglesias de Asia les envían saludos. Aquila y Priscila les saludan con mucho afecto en el Señor, junto con la iglesia que se reúne en su casa.
+<verse eid="1CO 16:19"/><verse number="20" style="v" sid="1CO 16:20"/>Todos los hermanos les envían saludos. Salúdense unos a otros con un beso santo.
+<verse eid="1CO 16:20"/><verse number="21" style="v" sid="1CO 16:21"/>Yo, Pablo, les escribo este saludo de mi puño y letra.
+<verse eid="1CO 16:21"/><verse number="22" style="v" sid="1CO 16:22"/>Si alguien no ama al Señor, que caiga bajo maldición. <char style="em" closed="true">¡Maranata!</char>1
+<verse eid="1CO 16:22"/><verse number="23" style="v" sid="1CO 16:23"/>Que la gracia del Señor Jesús sea con ustedes.
+<verse eid="1CO 16:23"/><verse number="24" style="v" sid="1CO 16:24"/>Mi amor está con todos ustedes en Cristo Jesús. Amén.
+<verse eid="1CO 16:24"/></para>
+  <chapter eid="1CO 16"/>
+</usx>

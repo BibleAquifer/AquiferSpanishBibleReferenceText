@@ -1,8 +1,9 @@
 <usx version="3.1">
   <book code="NUM" style="id">EN</book>
-  <para style="rem">Exported from Codex Translation Editor v0.24.0
+  <para style="rem">Exported from Codex Translation Editor v0.27.0-pr965-a5acfef
 </para>
-  <para style="rem">Export Date: 2026-04-15T18:03:56.988Z
+  <para style="rem">Export Date: 2026-06-01T19:25:41.975Z
+
 </para>
   <para style="h">Numbers
 </para>
@@ -181,7 +182,7 @@
 <verse eid="NUM 7:8"/><verse number="9" style="v" sid="NUM 7:9"/>Al clan de Coat no se le dio ningún carro ni bueyes, porque su servicio consistía en llevar sobre sus hombros los objetos sagrados del santuario.
 <verse eid="NUM 7:9"/><verse number="10" style="v" sid="NUM 7:10"/>Los jefes también presentaron unas ofrendas de dedicación el día en que el altar fue ungido. Las colocaron sobre el altar.
 <verse eid="NUM 7:10"/><verse number="11" style="v" sid="NUM 7:11"/>El Señor le dijo a Moisés:—Cada día un jefe traerá su ofrenda para la dedicación del altar.
-<verse eid="NUM 7:11"/><verse number="12" style="v" sid="NUM 7:12"/>Cada jefe trajo su ofrenda. Consistía en una bandeja de plata que pesaba más de 1,5 kilos y un tazón de plata de más de 800 gramos, ambos llenos con ofrendas de harina y aceite. También presentó una bandeja de oro pequeña llena de incienso, que pesaba unos 120 gramos. Trajo, como ofrendas para ser quemadas por completo, un becerro, un carnero y un cordero de un año. También trajo un chivo para el sacrificio por el pecado. Además, trajo dos bueyes, cinco carneros, cinco chivos y cinco corderos de un año para el sacrificio de comunión. El primero en presentar su ofrenda fue Naasón, hijo de Aminadab, de la tribu de Judá.
+<verse eid="NUM 7:11"/><verse number="12" style="v" sid="NUM 7:12"/>Cada jefe trajo su ofrenda. Consistía en una bandeja de plata que pesaba más de 1,5 kilos y un tazón de plata de más de 800 gramos, ambos llenos con ofrendas de harina y aceite. También presentó una bandeja de oro pequeña llena de incienso, que pesaba unos 120 gramos. Como ofrendas para ser quemadas por completo, trajo un becerro, un carnero y un cordero de un año. También trajo un chivo para el sacrificio por el pecado. Además, trajo 2 bueyes, 5 carneros, 5 chivos y 5 corderos de un año para el sacrificio de comunión. El primero en presentar su ofrenda fue Naasón, hijo de Aminadab, de la tribu de Judá.
 <verse eid="NUM 7:12"/><verse number="23" style="v" sid="NUM 7:23"/>Al día siguiente,  presentó su ofrenda Natanael, hijo de Zuar, jefe de la tribu de Isacar. 
 <verse eid="NUM 7:23"/><verse number="29" style="v" sid="NUM 7:29"/>Al tercer día, presentó su ofrenda Eliab, hijo de Helón, jefe de la tribu de Zabulón.
 <verse eid="NUM 7:29"/><verse number="35" style="v" sid="NUM 7:35"/>Al cuarto día, presentó su ofrenda Elisur, hijo de Sedeur, jefe de la tribu de Rubén.
@@ -647,8 +648,8 @@
   <chapter eid="NUM 21"/>
   <chapter number="22" style="c" sid="NUM 22"/>
   <para style="p"><verse number="1" style="v" sid="NUM 22:1"/>Los israelitas avanzaron hasta las llanuras de Moab, en la orilla este del Jordán, a la altura de Jericó.
-<verse eid="NUM 22:1"/><verse number="3" style="v" sid="NUM 22:3"/>Balac, hijo de Zipor, era rey de Moab en ese tiempo. Vio todo lo que Israel había hecho a los amorreos. Los moabitas tuvieron gran miedo de los israelitas porque eran muchos. El pánico se apoderó de Moab ante ellos. El pueblo de Moab dijo a los ancianos de Madián: —Ahora esta multitud devorará todo lo que está alrededor nuestro. Será como el buey que roe la hierba del campo.
-<verse eid="NUM 22:3"/><verse number="6" style="v" sid="NUM 22:6"/>Balac envió mensajeros a Balán, hijo de Beor. Balán estaba en Petor, que está junto al río, en la tierra de los hijos de su pueblo. Balac envió para llamarlo y decirle: «Hay un pueblo que ha salido de Egipto. Cubren la superficie de la tierra y habitan frente a mí. Ahora, por favor, ven y maldice a este pueblo por mí, porque es más poderoso que yo. Tal vez pueda derrotarlos y expulsarlos de la tierra. Sé que a quien bendices es bendecido, y a quien maldices es maldecido».
+<verse eid="NUM 22:1"/><verse number="3" style="v" sid="NUM 22:3"/>Balac, hijo de Zipor, era rey de Moab en ese tiempo. Vio todo lo que Israel había hecho a los amorreos. Los moabitas tuvieron gran miedo de los israelitas porque eran muchos. El pánico se apoderó de Moab ante ellos. El pueblo de Moab dijo a los ancianos de Madián: —Ahora esta multitud devorará todo lo que está alrededor nuestro. Será como el buey que roe la hierba del campo. 
+<verse eid="NUM 22:3"/><verse number="6" style="v" sid="NUM 22:6"/>Balac envió mensajeros a Balán, hijo de Beor. Balán estaba en Petor, que está junto al río, en la tierra de los hijos de su pueblo. Balac envió para llamarlo y decirle:—Hay un pueblo que ha salido de Egipto. Cubren la superficie de la tierra y habitan frente a mí. Ahora, por favor, ven y maldice a este pueblo por mí, porque es más poderoso que yo. Tal vez pueda derrotarlos y expulsarlos de la tierra. Sé que a quien bendices es bendecido, y a quien maldices es maldecido.
 <verse eid="NUM 22:6"/><verse number="7" style="v" sid="NUM 22:7"/>Los ancianos de Moab y los ancianos de Madián fueron a Balán. Llevaron el pago por los servicios de adivinación en sus manos. Le comunicaron las palabras de Balac.
 <verse eid="NUM 22:7"/><verse number="8" style="v" sid="NUM 22:8"/>—Quédense aquí esta noche —dijo Balán—, y les daré la respuesta según lo que el Señor me diga.Los príncipes de Moab se quedaron con Balán.
 <verse eid="NUM 22:8"/><verse number="9" style="v" sid="NUM 22:9"/>Aquella noche el Señor se le apareció a Balán y le preguntó: —¿Quiénes son estos hombres?

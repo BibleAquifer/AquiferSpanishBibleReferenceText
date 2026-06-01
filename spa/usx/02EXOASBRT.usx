@@ -1,8 +1,9 @@
 <usx version="3.1">
   <book code="EXO" style="id">EN</book>
-  <para style="rem">Exported from Codex Translation Editor v0.24.0
+  <para style="rem">Exported from Codex Translation Editor v0.27.0-pr965-a5acfef
 </para>
-  <para style="rem">Export Date: 2026-04-15T18:03:56.988Z
+  <para style="rem">Export Date: 2026-06-01T19:25:41.975Z
+
 </para>
   <para style="h">Exodus
 </para>
@@ -773,7 +774,8 @@
 <verse eid="EXO 26:13"/><verse number="14" style="v" sid="EXO 26:14"/>»Harás para la tienda una cubierta de pieles de carnero teñidas de rojo. Por encima de ella, harás otra cubierta de cuero fino.
 <verse eid="EXO 26:14"/><verse number="16" style="v" sid="EXO 26:16"/>»El armazón del santuario estará hecho de madera de acacia, en tablas verticales de 4,5 metros de largo y 70 centímetros de ancho.   
 <verse eid="EXO 26:16"/><verse number="17" style="v" sid="EXO 26:17"/>Cada tabla tendrá dos espigas del mismo madero, encajadas entre sí. Así harás con todas las piezas del armazón del santuario.
-<verse eid="EXO 26:17"/><verse number="19" style="v" sid="EXO 26:19"/>Con 20 de estas tablas formarás el costado sur del santuario.  
+<verse eid="EXO 26:17"/><verse number="19" style="v" sid="EXO 26:19"/>Con 20 de estas tablas formarás el costado sur del santuario.  »Harás 40 bases de plata para ese costado. Pondrás 2 bases debajo de cada tabla. 
+<verse eid="EXO 26:19"/><verse number="19" style="v" sid="EXO 26:19"/>»Harás 40 bases de plata para ese costado. Pondrás 2 bases debajo de cada tabla. 
 <verse eid="EXO 26:19"/><verse number="20" style="v" sid="EXO 26:20"/>En el costado norte del santuario también harás 20 tablas
 <verse eid="EXO 26:20"/><verse number="21" style="v" sid="EXO 26:21"/>y 40 bases de plata. Pondrás 2 bases debajo de cada tabla. 
 <verse eid="EXO 26:21"/><verse number="22" style="v" sid="EXO 26:22"/>En el costado occidental del santuario habrá 6 tablas.
