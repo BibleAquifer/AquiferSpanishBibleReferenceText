@@ -24,4 +24,4 @@ To create an openly licensed but literal Spanish reference translation for the A
 
 This output was then provided to a team of human consultants who reviewed the translation and then started a multi-pass edit and revision phase to bring it into a literal translation.
 
-The _Aquifer Spanish Bible Reference Text_ is still under review, but many portions are ready for use. We will update this repository as more portions of the translation become available.
+The review of the _Aquifer Spanish Bible Reference Text_ was completed in August of 2026. The text is considered complete and ready for use by any interested party.
