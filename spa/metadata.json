@@ -32224,6 +32224,15 @@
 ]
 }
 },
+"alignments/json/40-013.alignment.json": {
+"mimeType": "text/json",
+"size": 192003,
+"scope": {
+"MAT": [
+"13"
+]
+}
+},
 "alignments/json/40-014.alignment.json": {
 "mimeType": "text/json",
 "size": 102239,
@@ -33459,7 +33468,7 @@
 },
 "alignments/json/47-002.alignment.json": {
 "mimeType": "text/json",
-"size": 634,
+"size": 55497,
 "scope": {
 "2CO": [
 "2"
