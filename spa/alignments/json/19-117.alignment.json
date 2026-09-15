@@ -1,0 +1,228 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "groups": [
+    {
+      "type": "translation",
+      "meta": {
+        "creator": "Mission Mutual",
+        "conformsTo": "0.4",
+        "llm": {
+          "provider": "gloo",
+          "model": "gloo-google-gemini-3.7-flash",
+          "reasoning_effort": "high"
+        },
+        "retry_llm": {
+          "provider": "gloo",
+          "model": "gloo-google-gemini-3.7-flash",
+          "reasoning_effort": "high"
+        },
+        "nonEquivalent": {
+          "source": [
+            "191170010021|אֶת",
+            "191170020011|כִּי",
+            "191170020051|וֶ"
+          ],
+          "target": [
+            "19117002012|permanece"
+          ]
+        }
+      },
+      "documents": [
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "WLCM"
+        },
+        {
+          "scheme": "BCVWP|token-string",
+          "docid": "ASBRT"
+        }
+      ],
+      "roles": [
+        "source",
+        "target"
+      ],
+      "records": [
+        {
+          "source": [
+            "191170010011|הַלְלוּ"
+          ],
+          "target": [
+            "19117001001|Alaben"
+          ]
+        },
+        {
+          "source": [
+            "191170010031|יְהוָה"
+          ],
+          "target": [
+            "19117001002|al",
+            "19117001003|Señor"
+          ],
+          "meta": {
+            "secondary": {
+              "target": [
+                "19117001002|al"
+              ]
+            }
+          }
+        },
+        {
+          "source": [
+            "191170010041|כָּל"
+          ],
+          "target": [
+            "19117001005|todas"
+          ]
+        },
+        {
+          "source": [
+            "191170010051|גּוֹיִם"
+          ],
+          "target": [
+            "19117001006|las",
+            "19117001007|naciones"
+          ],
+          "meta": {
+            "secondary": {
+              "target": [
+                "19117001006|las"
+              ]
+            }
+          }
+        },
+        {
+          "source": [
+            "191170010061|שַׁבְּחוּ",
+            "191170010062|הוּ"
+          ],
+          "target": [
+            "19117001009|alábenlo"
+          ]
+        },
+        {
+          "source": [
+            "191170010071|כָּל"
+          ],
+          "target": [
+            "19117001011|todos"
+          ]
+        },
+        {
+          "source": [
+            "191170010081|הָ"
+          ],
+          "target": [
+            "19117001012|los"
+          ]
+        },
+        {
+          "source": [
+            "191170010082|אֻמִּים"
+          ],
+          "target": [
+            "19117001013|pueblos"
+          ]
+        },
+        {
+          "source": [
+            "191170020021|גָבַר"
+          ],
+          "target": [
+            "19117002001|Grande",
+            "19117002002|es"
+          ]
+        },
+        {
+          "source": [
+            "191170020042|וֹ"
+          ],
+          "target": [
+            "19117002003|su"
+          ]
+        },
+        {
+          "source": [
+            "191170020041|חַסְדּ"
+          ],
+          "target": [
+            "19117002004|amor"
+          ]
+        },
+        {
+          "source": [
+            "191170020031|עָלֵי"
+          ],
+          "target": [
+            "19117002005|por"
+          ]
+        },
+        {
+          "source": [
+            "191170020032|נוּ"
+          ],
+          "target": [
+            "19117002006|nosotros"
+          ]
+        },
+        {
+          "source": [
+            "191170020052|אֱמֶת"
+          ],
+          "target": [
+            "19117002008|la",
+            "19117002009|fidelidad"
+          ],
+          "meta": {
+            "secondary": {
+              "target": [
+                "19117002008|la"
+              ]
+            }
+          }
+        },
+        {
+          "source": [
+            "191170020061|יְהוָה"
+          ],
+          "target": [
+            "19117002010|del",
+            "19117002011|Señor"
+          ],
+          "meta": {
+            "secondary": {
+              "target": [
+                "19117002010|del"
+              ]
+            }
+          }
+        },
+        {
+          "source": [
+            "191170020071|לְ"
+          ],
+          "target": [
+            "19117002013|para"
+          ]
+        },
+        {
+          "source": [
+            "191170020072|עוֹלָם"
+          ],
+          "target": [
+            "19117002014|siempre"
+          ]
+        },
+        {
+          "source": [
+            "191170020081|הַלְלוּ",
+            "191170020091|יָהּ"
+          ],
+          "target": [
+            "19117002017|Aleluya"
+          ]
+        }
+      ]
+    }
+  ]
+}
